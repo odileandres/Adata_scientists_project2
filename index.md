@@ -37,8 +37,7 @@ But does this mean that <span style="color: #6a329f"> **each man is on average m
  Consequently, we can that ...
 
 ### How many different men are quoted in the dataset?
-
-![Percentage_global_peok.png](/images/Percentage_global_peok.png)
+<img style="float: right;" src="/images/Percentage_global_peok.png">
 
 According to our graph, men represent 80% of the quoted person whereas women represent only 20%. This repartition doesn't change over time.
 We can conclude that the difference in terms of number of men against women is enougth to explain the above results.
