@@ -33,23 +33,35 @@ But does this mean that **each man is on average more quoted than women** or **m
 ### How many quotation per individual?
 ![without_outliers.png](/images/without_outliers.png)
  Our graph doesn't show a strict difference between the number of quotation per men and per women. We performed a one-sided t-test to see wheter the difference is statistically significant or not. 
- We found a p-value of ......
- The difference is then.....
- Consequently, we can that ...
+
+The 
+<style type="text/css">
+.roundedImage{
+    overflow:hidden;
+    -webkit-border-radius:50px;
+    -moz-border-radius:50px;
+    border-radius:50px;
+    width:90px;
+    height:90px;
+}
+</style>
+<div class="roundedImage" style="background:url(/images/245698.jpg) no-repeat 0px 0px;">
+    &nbsp;
+</div>
 
 ### How many different men are quoted in the dataset?
 <img style="float: right;" src="/images/Percentage_global_peok.png">
 
 According to our graph, men represent 80% of the quoted person whereas women represent only 20%. This repartition doesn't change over time.
-We can conclude that the difference in terms of number of men against women is enougth to explain the above results.
+We can conclude that the difference in terms of number of men against women is the key to explain the first graph we obtain.
 
 
 ### Are these people different in term of age?
 
 ![Percentage_global_peok.png](/images/age_repartition_hist.png)
 
-Accordint to our graph, in terms of percentage, women are more represented when they are young than when they are old, and it is kind of the opposite for men. 
-There is however a statistically difference between the mean of the age between men and women, when we only keep the living people. 
+According to our graph, in terms of percentage, women are more represented when they are young than when they are old, and it is kind of the opposite for men. 
+There is indeed a statistically significant difference between the mean of the age of alive men and women(pvalue=  ) .
 
 The curious thing about the dead people that are quoted is that the repartition men /women is close to the same as today, the men are quoted approximately three to four times more than women!
 
