@@ -19,7 +19,6 @@ But maybe after all these feminist movements, the media attitude towards women c
 According to Amin Maalouf, if the attitude of the people has changes towards women, it must be felt in the medias. We are then going to observe the women representation in the media over the time, starting with the quote distribution over men and women. 
 
 ### Which percentage of the quotes are women's and which percentage men's?
-
 According to a simple analysis of the data, we can see very clearly that even though feminist events have occurred, the difference in terms of repartition of the representation hasn't significantly changed (faire un t-test sur les deux valuers pour prouver que c'est different). Indeed, in our timelapse, the repartition of occurrences of speak between women and man stays on a base of 20% against 80%.
 
 ![Percentage_global_gender.png](/images/Percentage_global_gender.png)
@@ -29,11 +28,19 @@ But does this mean that **each man is on average more quoted than women**or **mo
 
 
 ### How many quotation per individual?
+#### Major part of the population
+
 ![without_outliers.png](/images/without_outliers.png)
  Our graph doesn't show a strict difference between the number of quotation per men and per women. We performed a one-sided t-test to see wheter the difference is statistically significant or not. 
  We found a p-value of ......
  The difference is then.....
  Consequently, we can that ...
+#### 100 more represented speakers
+|               | 2015  | 2016 | 2017 | 2018 | 2019 | 2020 |      
+| :---------- | :---: | :---:| :---:| :---:| :---:| :---:| 
+|Number women  | 12    | 11   | 15   | 17   |  19  | 18   |
+|Number men    | 88    |89    | 85   | 83   |  82  |  82  |
+
 
 ### How many different men are quoted in the dataset?
 
