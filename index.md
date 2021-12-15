@@ -35,19 +35,13 @@ But does this mean that **each man is on average more quoted than women** or **m
  Our graph doesn't show a strict difference between the number of quotation per men and per women. We performed a one-sided t-test to see wheter the difference is statistically significant or not. 
 
 The 
-<style type="text/css">
-.roundedImage{
-    overflow:hidden;
-    -webkit-border-radius:50px;
-    -moz-border-radius:50px;
-    border-radius:50px;
-    width:90px;
-    height:90px;
-}
-</style>
-<div class="roundedImage">
-    <img src="/images/slideshow/245698.jpg" alt="1"/>
+<div class="images">
+<img class="img-rectangle img-clip-path" src="/images/245698.jpg">
+ 
 </div>
+
+
+
 
 
 ### How many different men are quoted in the dataset?
