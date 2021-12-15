@@ -993,3 +993,22 @@ pre {
   display: block;
   margin: 0 auto;
 }
+.podium {
+  text-align: center;
+}
+.podium div {
+  width:100px;
+  height:100px;
+}
+.top {
+  background: yellow;
+  margin:auto
+}
+.left {
+  background: orange;
+  display:inline-block;
+}
+.right {
+  background: red;
+  display:inline-block;
+}
