@@ -1001,14 +1001,14 @@ pre {
   height:100px;
 }
 .top {
-  background: yellow;
+  background: white;
   margin:auto
 }
 .left {
-  background: orange;
+  background: white;
   display:inline-block;
 }
 .right {
-  background: red;
+  background: white;
   display:inline-block;
 }
