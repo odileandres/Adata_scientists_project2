@@ -45,9 +45,10 @@ The
     height:90px;
 }
 </style>
-<div class="roundedImage" style="background:url(/images/245698.jpg) no-repeat 0px 0px;">
-    &nbsp;
+<div class="roundedImage">
+    <img src="/images/slideshow/245698.jpg" alt="1"/>
 </div>
+
 
 ### How many different men are quoted in the dataset?
 <img style="float: right;" src="/images/Percentage_global_peok.png">
