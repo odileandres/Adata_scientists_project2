@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Men and women, equals in the eyes of the media?
 cover-img: /images/Odile2.png
 ---
