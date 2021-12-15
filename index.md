@@ -10,7 +10,7 @@ cover-img: /images/Odile2.png
 <img style="float: right;" src="/images/6ibbh0oB4OGAGZm4PSuBh9.jpg">
 Ever since 2007, _#MeToo_ has been trending on social media, especially after the Weinstein gate in 2017. Since then, the debate around inequalities between men and women has been a burning subject. Organized sexual exploitation of young women, like the gate of Jeffrey Epstein, inequalities, trivialized sexism, sexual harassment, consent, all have been on the headline of the journals and have triggered massive demonstrations all over the world. 
 And the media are not innocent in this social discrimination. 
-Indeed, according to research pursued by the [UNWomen] (https://beijing20.unwomen.org/en/in-focus/media) over more than 100 countries, sexism in the media nowadays is striking. In terms of managing positions, men still represent 73 % of the top media management position, according to another study gathering 522 news media organizations. Moreover, about 46% of news stories spread gender stereotypes and only 6% promote gender equality. 
+Indeed, according to research pursued by the [UNWomen](https://beijing20.unwomen.org/en/in-focus/media) over more than 100 countries, sexism in the media nowadays is striking. In terms of managing positions, men still represent 73 % of the top media management position, according to another study gathering 522 news media organizations. Moreover, about 46% of news stories spread gender stereotypes and only 6% promote gender equality. 
 
 In our analysis, we want to see whether the differences between men and women can also been observe in quotation by journals.
 
@@ -45,9 +45,9 @@ But does this mean that **each man is on average more quoted than women** or **m
 In the top 5 of more quoted person in our dataset in 2015, we have one women, Hillary Clinton
 
 <div class="podium">
-<div class="top"></div>
-<div class="left"></div><!--
---><div class="right"></div>
+<div class="top"><img style="float: right;" src="/images/Percentage_global_gender.png"></div>
+<div class="left"><img style="float: right;" src="/images/Percentage_global_gender.png"></div>
+ <div class="right"><img style="float: right;" src="/images/Percentage_global_gender.png"></div>
 </div>
 
 
