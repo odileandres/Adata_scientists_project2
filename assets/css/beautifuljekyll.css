@@ -997,18 +997,18 @@ pre {
   text-align: center;
 }
 .podium div {
-  width:100px;
+  width:300px;
   height:100px;
 }
 .top {
-  background: yellow;
+  background: gray;
   margin:auto
 }
 .left {
-  background: orange;
+  background: gray;
   display:inline-block;
 }
 .right {
-  background: red;
+  background: gray;
   display:inline-block;
 }
