@@ -2,6 +2,7 @@
 layout: page
 title: Men and women, equals in the eyes of the media?
 cover-img: /images/Odile2.png
+show-avatar: false
 ---
 
 ## Introduction to the problem
@@ -63,44 +64,10 @@ Indeed, over five years, the women are in a state of withdrawal compared to men.
 ## Inequal representation in the media in terms of political orientation
 > _"No one respects women more than I do."_ 
 Donald Trump
+
 We chose to only work on the ten 
  
 ![politic_ten_bigger_group.png](/images/politic_ten_bigger_group.png) 
 
 
  
-You can use the [editor on GitHub](https://github.com/PrunelleLM/Adata_scientists_project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PrunelleLM/Adata_scientists_project/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
