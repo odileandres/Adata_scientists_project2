@@ -28,10 +28,10 @@ author: Odile Andres, Prunelle LM, Roxane Pangaud, Pablo Ruiz
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/images/Egalite-homme-femme-C3D.png"
+#avatar: "/images/Egalite-homme-femme-C3D.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+#round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
@@ -68,20 +68,20 @@ round-avatar: true
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: This website presents the inequal representations between men and women in the media, through the analysis of the quotes of quotebank
 
 # --- General options --- #
 
 # Select which social network share links to show in posts
-share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
-  vk: false
+#share-links-active:
+ # twitter: true
+  #facebook: true
+  #linkedin: true
+  #vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+#url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -99,15 +99,15 @@ feed_show_tags: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#111111"
-navbar-text-col: "#000000"
+navbar-col: "#444444"
+navbar-text-col: "#eeeeee"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
+footer-col: "#444444"
+footer-text-col: "#eeeeee"
 footer-link-col: "#404040"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
