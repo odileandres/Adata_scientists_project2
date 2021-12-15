@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Men and women, equals in the eyes of the media?
+cover-img: /images/Odile2.png
 ---
 
 ## Introduction to the problem
