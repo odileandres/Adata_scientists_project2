@@ -44,7 +44,11 @@ But does this mean that **each man is on average more quoted than women** or **m
 
 In the top 5 of more quoted person in our dataset in 2015, we have one women, Hillary Clinton
 
-
+<div class="podium">
+<div class="top"></div>
+<div class="left"></div><!--
+--><div class="right"></div>
+</div>
 
 
 
