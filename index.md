@@ -41,7 +41,28 @@ But does this mean that **each man is on average more quoted than women** or **m
 | :----------  | :---: | :---:| :---:| :---:| :---:| :---: | 
 |Number women  | 12    | 11   | 15   | 17   |  19  | 18    |
 |Number men    | 88    |89    | 85   | 83   |  82  |  82   |
-
+<html>
+  <head>
+    <title>100 more represented speakers</title>
+  </head>
+  <body>
+    <table border="1">
+      <tr>
+        <th>Year</th>
+        <th>Number women</th>
+        <th>Number women</th>
+      </tr>
+      <tr>
+        <td>2015</td>
+        <td>12</td>
+      </tr>
+      <tr>
+        <td>Février</td>
+        <td>10.01.2014</td>
+      </tr>
+    </table>
+  </body>
+</html>
 In the top 5 of more quoted person in our dataset in 2015, we have one women, Hillary Clinton
 
 <div class="podium">
