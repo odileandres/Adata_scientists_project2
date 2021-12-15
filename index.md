@@ -31,14 +31,18 @@ But does this mean that **each man is on average more quoted than women** or **m
 
 
 ### How many quotation per individual?
+#### Major part of the population
 ![without_outliers.png](/images/without_outliers.png)
  Our graph doesn't show a strict difference between the number of quotation per men and per women. We performed a one-sided t-test to see wheter the difference is statistically significant or not. 
 
-The 
-<div class="images">
-<img class="img-rectangle img-clip-path" src="/images/245698.jpg">
- 
-</div>
+
+#### 100 more represented speakers
+|               | 2015  | 2016 | 2017 | 2018 | 2019 | 2020 |      
+| :---------- | :---: | :---:| :---:| :---:| :---:| :---:| 
+|Number women  | 12    | 11   | 15   | 17   |  19  | 18   |
+|Number men    | 88    |89    | 85   | 83   |  82  |  82  
+
+In the top 5 of more quoted person in our dataset in 2015, we have one women, Hillary Clinton
 
 
 
