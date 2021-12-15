@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: My website
+title: Adata scientists
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+#description: A virtual proof that I'm awesome
 
 # GitHub Actions
 repository: "VincentTam/beautiful-jekyll"
@@ -19,16 +19,10 @@ repository: "VincentTam/beautiful-jekyll"
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # Your name to show in the footer
-author: Some Person
+author: Odile Andres, Prunelle LM, Roxane Pangaud, Pablo Ruiz
 
 # --- List of links in the navigation bar --- #
 
-navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
@@ -48,13 +42,13 @@ round-avatar: true
 
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
-social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+#social-network-links:
+ # email: "someone@example.com"
+  #facebook: deanattali
+  #github: daattali
+  #twitter: daattali
+  #patreon: DeanAttali
+  #youtube: c/daattali
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -105,8 +99,8 @@ feed_show_tags: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
+navbar-img: "/images/Odile2.png"
+navbar-text-col: "#000000"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
