@@ -52,6 +52,12 @@ In the top 5 of more quoted person in our dataset in 2015, we have one women, Hi
 
 
 
+
+
+
+
+
+
 ### How many different men are quoted in the dataset?
 <img style="float: right;" src="/images/Percentage_global_peok.png">
 
