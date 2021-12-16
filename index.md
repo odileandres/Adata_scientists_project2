@@ -394,25 +394,258 @@ But does this mean that **each man is on average more quoted than women** or **m
 </div>
 </div>
                        
-<body>
-  
-<div class="rangeslider">
-  <input type="range" min="2015" max="2020" value="6"
-                  class="myslider" id="sliderRange">
-  <p>Value: <span id="demo"></span></p>
-</div>
-  
-<script>
-var rangeslider = document.getElementById("sliderRange");
-var output = document.getElementById("demo");
-output.innerHTML = rangeslider.value;
-  
-rangeslider.oninput = function() {
-  output.innerHTML = this.value;
-}
-</script>
-</body>
 
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+ <div class="container">
+  
+  <!-- Full-width images with caption text -->
+  <div class="image-sliderfade fade">
+    <div class="podium">
+<div class="top"> 
+  
+  <body>
+    <table align="center" border="1" bordercolor="white">
+      <tr>
+        <th><img style="float: right;" src="/images/obama.jpg" height="90" width="120"></th>
+      </tr>
+      <tr>
+        <th>Barack Obama</th>
+       </tr>
+       <tr>
+        <th>304,004 occurences</th>
+       </tr>
+     </table>
+  </body>
+</div>
+<div class="left">
+ <body>
+    <table align="center" border="1" bordercolor="white">
+      <tr>
+       <th><img style="float: right;" src="/images/francois.jpg" height="90" width="120"></th>
+      </tr>
+     <tr>
+        <th>Pope Francis</th>
+     </tr>
+     <tr>
+      <th>119,959 occurences</th>   
+      </tr>
+     </table>
+  </body>
+</div>
+ <div class="right">
+  <body>
+    <table align="center" border="1" bordercolor="white">
+      <tr>
+       <th><img style="float: right;" src="/images/clinton1.jpg" height="90" width="120"></th>
+     </tr>
+     <tr>
+        <th> Hillary Clinton </th>
+     </tr>
+     <tr>
+        <th>100,121 occurences</th>
+      </tr>
+     </table>
+  </body>
+</div>
+</div>
+    <div class="text">2015</div>
+  </div>
+  
+  <div class="image-sliderfade fade">
+    <div class="podium">
+<div class="top"> 
+  
+  <body>
+    <table align="center" border="1" bordercolor="white">
+      <tr>
+        <th><img style="float: right;" src="/images/obama.jpg" height="90" width="120"></th>
+      </tr>
+      <tr>
+        <th>Barack Obama</th>
+       </tr>
+       <tr>
+        <th>304,004 occurences</th>
+       </tr>
+     </table>
+  </body>
+</div>
+<div class="left">
+ <body>
+    <table align="center" border="1" bordercolor="white">
+      <tr>
+       <th><img style="float: right;" src="/images/francois.jpg" height="90" width="120"></th>
+      </tr>
+     <tr>
+        <th>Pope Francis</th>
+     </tr>
+     <tr>
+      <th>119,959 occurences</th>   
+      </tr>
+     </table>
+  </body>
+</div>
+ <div class="right">
+  <body>
+    <table align="center" border="1" bordercolor="white">
+      <tr>
+       <th><img style="float: right;" src="/images/clinton1.jpg" height="90" width="120"></th>
+     </tr>
+     <tr>
+        <th> Hillary Clinton </th>
+     </tr>
+     <tr>
+        <th>100,121 occurences</th>
+      </tr>
+     </table>
+  </body>
+</div>
+</div>
+    <div class="text">2016</div>
+  </div>
+  
+  <div class="image-sliderfade fade">
+    <div class="podium">
+<div class="top"> 
+  
+  <body>
+    <table align="center" border="1" bordercolor="white">
+      <tr>
+        <th><img style="float: right;" src="/images/obama.jpg" height="90" width="120"></th>
+      </tr>
+      <tr>
+        <th>Barack Obama</th>
+       </tr>
+       <tr>
+        <th>304,004 occurences</th>
+       </tr>
+     </table>
+  </body>
+</div>
+<div class="left">
+ <body>
+    <table align="center" border="1" bordercolor="white">
+      <tr>
+       <th><img style="float: right;" src="/images/francois.jpg" height="90" width="120"></th>
+      </tr>
+     <tr>
+        <th>Pope Francis</th>
+     </tr>
+     <tr>
+      <th>119,959 occurences</th>   
+      </tr>
+     </table>
+  </body>
+</div>
+ <div class="right">
+  <body>
+    <table align="center" border="1" bordercolor="white">
+      <tr>
+       <th><img style="float: right;" src="/images/clinton1.jpg" height="90" width="120"></th>
+     </tr>
+     <tr>
+        <th> Hillary Clinton </th>
+     </tr>
+     <tr>
+        <th>100,121 occurences</th>
+      </tr>
+     </table>
+  </body>
+</div>
+</div>
+    <div class="text">2017</div>
+  </div>
+  
+  <div class="image-sliderfade fade">
+    <div class="podium">
+<div class="top"> 
+  
+  <body>
+    <table align="center" border="1" bordercolor="white">
+      <tr>
+        <th><img style="float: right;" src="/images/obama.jpg" height="90" width="120"></th>
+      </tr>
+      <tr>
+        <th>Barack Obama</th>
+       </tr>
+       <tr>
+        <th>304,004 occurences</th>
+       </tr>
+     </table>
+  </body>
+</div>
+<div class="left">
+ <body>
+    <table align="center" border="1" bordercolor="white">
+      <tr>
+       <th><img style="float: right;" src="/images/francois.jpg" height="90" width="120"></th>
+      </tr>
+     <tr>
+        <th>Pope Francis</th>
+     </tr>
+     <tr>
+      <th>119,959 occurences</th>   
+      </tr>
+     </table>
+  </body>
+</div>
+ <div class="right">
+  <body>
+    <table align="center" border="1" bordercolor="white">
+      <tr>
+       <th><img style="float: right;" src="/images/clinton1.jpg" height="90" width="120"></th>
+     </tr>
+     <tr>
+        <th> Hillary Clinton </th>
+     </tr>
+     <tr>
+        <th>100,121 occurences</th>
+      </tr>
+     </table>
+  </body>
+</div>
+</div>
+    <div class="text">2018</div>
+  </div>
+  
+</div>
+<br>
+  
+<!-- The dots/circles -->
+<div style="text-align:center">
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+</div>
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
+                                                                                         
 ### How many different men are quoted in the dataset?
 <img style="float: right;" src="/images/Percentage_global_peok.png">
 
