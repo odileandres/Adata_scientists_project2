@@ -111,13 +111,13 @@ But does this mean that **each man is on average more quoted than women** or **m
   <body>
     <table border="1">
       <tr>
-       <td><img style="float: right;" src="/images/clinton.jpg"></td>
+       <th><img style="float: right;" src="/images/clinton1.jpg"></th>
      </tr>
      <tr>
         <th> Hillary Clinton </th>
      </tr>
      <tr>
-        <td>100121 occurences</td>
+        <th>100121 occurences</th>
       </tr>
      </table>
   </body>
@@ -133,10 +133,13 @@ But does this mean that **each man is on average more quoted than women** or **m
   <body>
     <table border="1">
       <tr>
+       <th><img style="float: right;" src="/images/obama2.jpg"></th>
+      </tr>
+      <tr>
         <th>Barack Obama</th>
-        <td><img style="float: right;" src="/images/obama.jpg"></td>
-        <td>224790 occurences</td>
-        
+      </tr>
+      <tr>
+        <th>224790 occurences</th>
       </tr>
      </table>
   </body>
@@ -145,9 +148,13 @@ But does this mean that **each man is on average more quoted than women** or **m
  <body>
     <table border="1">
       <tr>
+        <th><img style="float: right;" src="/images/clinton.jpg"></th>
+      </tr>
+      <tr>
         <th> Hillary Clinton </th>
-        <td><img style="float: right;" src="/images/clinton.jpg">></td>
-        <td>138501 occurences</td>
+      </tr>
+      <tr>
+        <th>138501 occurences</th>
         
       </tr>
      </table>
@@ -157,8 +164,12 @@ But does this mean that **each man is on average more quoted than women** or **m
   <body>
     <table border="1">
       <tr>
-        <th> Bernie Sanders </th>
-        <td><img style="float: right;" src="/images/clinton.jpg">></td>
+        <td><img style="float: right;" src="/images/sanders.jpg"></td>
+      </tr>
+      <tr>
+        <td> Bernie Sanders </td>
+      </tr>
+      <tr>  
         <td>55228 occurences</td>
         
       </tr>
@@ -177,9 +188,12 @@ But does this mean that **each man is on average more quoted than women** or **m
     <table border="1">
       <tr>
         <th>Donald Trump</th>
-        <td><img style="float: right;" src="/images/obama.jpg"></td>
-        <td>904670 occurences</td>
-        
+      </tr>
+      <tr> 
+        <th><img style="float: right;" src="/images/245698.jpg"></th>
+      </tr>
+      <tr> 
+        <th>904670 occurences</th>
       </tr>
      </table>
   </body>
@@ -189,7 +203,7 @@ But does this mean that **each man is on average more quoted than women** or **m
     <table border="1">
       <tr>
         <th> Rex Tillerson </th>
-        <td><img style="float: right;" src="/images/clinton.jpg">></td>
+        <td><img style="float: right;" src="/images/tillerson.jpg">></td>
         <td>172331 occurences</td>
         
       </tr>
@@ -200,8 +214,12 @@ But does this mean that **each man is on average more quoted than women** or **m
   <body>
     <table border="1">
       <tr>
-        <th> John Mackey </th>
-        <td><img style="float: right;" src="/images/clinton.jpg">></td>
+        <td><img style="float: right;" src="/images/mackey.jpg"></td>
+      </tr>
+      <tr>
+       <th> John Mackey </th>
+      </tr>
+      <tr>
         <td>128554 occurences</td>
         
       </tr>
@@ -210,7 +228,7 @@ But does this mean that **each man is on average more quoted than women** or **m
 </div>
 </div>
 
-2017:
+2018:
 
 <div class="podium">
 <div class="top"> 
@@ -218,9 +236,13 @@ But does this mean that **each man is on average more quoted than women** or **m
   <body>
     <table border="1">
       <tr>
-        <th>Donald Trump</th>
-        <td><img style="float: right;" src="/images/obama.jpg"></td>
-        <td>904670 occurences</td>
+       <th><img style="float: right;" src="/images/trump1.jpg"></th>
+      </tr>
+      <tr>
+       <th>Donald Trump</th>
+      </tr>
+      <tr>
+       <th>998190 occurences</th>
         
       </tr>
      </table>
@@ -230,9 +252,13 @@ But does this mean that **each man is on average more quoted than women** or **m
  <body>
     <table border="1">
       <tr>
-        <th> Rex Tillerson </th>
-        <td><img style="float: right;" src="/images/clinton.jpg">></td>
-        <td>172331 occurences</td>
+        <th><img style="float: right;" src="/images/pompeo.jpg">></th>
+      </tr>
+      <tr>
+        <th> Mike Pompeo </th>
+      </tr>
+      <tr>
+        <th>112608 occurences</th>
         
       </tr>
      </table>
@@ -242,9 +268,121 @@ But does this mean that **each man is on average more quoted than women** or **m
   <body>
     <table border="1">
       <tr>
-        <th> John Mackey </th>
-        <td><img style="float: right;" src="/images/clinton.jpg">></td>
-        <td>128554 occurences</td>
+        <th><img style="float: right;" src="/images/mourinho.jpg"></th>
+      </tr>
+      <tr>
+        <th> José Mourinho </th>
+      </tr>
+      <tr>
+        <th>106791 occurences</th>
+        
+      </tr>
+     </table>
+  </body>
+</div>
+</div>
+
+2019:
+
+<div class="podium">
+<div class="top"> 
+  
+  <body>
+    <table border="1">
+      <tr>
+       <th><img style="float: right;" src="/images/trump2.jpg"></th>
+      </tr>
+      <tr>
+       <th>Donald Trump</th>
+      </tr>
+      <tr>
+       <th>535689 occurences</th>
+        
+      </tr>
+     </table>
+  </body>
+</div>
+<div class="left">
+ <body>
+    <table border="1">
+      <tr>
+        <th><img style="float: right;" src="/images/jonhson.jpg">></th>
+      </tr>
+      <tr>
+        <th> Boris Johnson </th>
+      </tr>
+      <tr>
+        <th>164369 occurences</th>
+        
+      </tr>
+     </table>
+  </body>
+</div>
+ <div class="right">
+  <body>
+    <table border="1">
+      <tr>
+        <th><img style="float: right;" src="/images/pelosi.jpg"></th>
+      </tr>
+      <tr>
+        <th> Nancy Pelosi </th>
+      </tr>
+      <tr>
+        <th>115448 occurences</th>
+        
+      </tr>
+     </table>
+  </body>
+</div>
+</div>
+
+2020:
+
+<div class="podium">
+<div class="top"> 
+  
+  <body>
+    <table border="1">
+      <tr>
+       <th><img style="float: right;" src="/images/trump3.jpg"></th>
+      </tr>
+      <tr>
+       <th>Donald Trump</th>
+      </tr>
+      <tr>
+       <th>137385 occurences</th>
+        
+      </tr>
+     </table>
+  </body>
+</div>
+<div class="left">
+ <body>
+    <table border="1">
+      <tr>
+        <th><img style="float: right;" src="/images/tedros.jpg">></th>
+      </tr>
+      <tr>
+        <th> Tedros Adhanom Ghebreyesus </th>
+      </tr>
+      <tr>
+        <th>58558 occurences</th>
+        
+      </tr>
+     </table>
+  </body>
+</div>
+ <div class="right">
+  <body>
+    <table border="1">
+      <tr>
+        <th><img style="float: right;" src="/images/johnson2.jpg"></th>
+      </tr>
+      <tr>
+        <th> Boris Johnson </th>
+      </tr>
+      <tr>
+        <th>50583 occurences</th>
         
       </tr>
      </table>
