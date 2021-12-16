@@ -20,7 +20,7 @@ In our analysis, we want to see whether the differences between men and women ca
 </p>
  
 # Inequal representation in the media in terms of coverage
-<p align="center">
+<p style="color:blue" align="center">
 <i>"The media reflects what the people say, the people reflect what the media says. Will we never tire of this mind-numbing game of mirrors?"</i>
 Amin Maalouf
 </p>
