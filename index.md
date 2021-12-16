@@ -81,7 +81,7 @@ But does this mean that **each man is on average more quoted than women** or **m
   <body>
     <table border="1">
       <tr>
-        <th><img style="float: right;" src="/images/obama.jpg" height="42" width="42"></th>
+        <th><img style="float: right;" src="/images/obama.jpg" height="80" width="100"></th>
       </tr>
       <tr>
         <th>Barack Obama</th>
@@ -96,7 +96,7 @@ But does this mean that **each man is on average more quoted than women** or **m
  <body>
     <table border="1">
       <tr>
-       <th><img style="float: right;" src="/images/francois.jpg", height="42" width="42"></th>
+       <th><img style="float: right;" src="/images/francois.jpg" height="80" width="100"></th>
       </tr>
      <tr>
         <th>Pope Francis</th>
@@ -111,7 +111,7 @@ But does this mean that **each man is on average more quoted than women** or **m
   <body>
     <table border="1">
       <tr>
-       <th><img style="float: right;" src="/images/clinton1.jpg"></th>
+       <th><img style="float: right;" src="/images/clinton1.jpg" height="80" width="100"></th>
      </tr>
      <tr>
         <th> Hillary Clinton </th>
@@ -133,7 +133,7 @@ But does this mean that **each man is on average more quoted than women** or **m
   <body>
     <table border="1">
       <tr>
-       <th><img style="float: right;" src="/images/obama2.jpg"></th>
+       <th><img style="float: right;" src="/images/obama2.jpg" height="80" width="100"></th>
       </tr>
       <tr>
         <th>Barack Obama</th>
@@ -148,7 +148,7 @@ But does this mean that **each man is on average more quoted than women** or **m
  <body>
     <table border="1">
       <tr>
-        <th><img style="float: right;" src="/images/clinton.jpg"></th>
+        <th><img style="float: right;" src="/images/clinton.jpg" height="80" width="100"></th>
       </tr>
       <tr>
         <th> Hillary Clinton </th>
@@ -164,7 +164,7 @@ But does this mean that **each man is on average more quoted than women** or **m
   <body>
     <table border="1">
       <tr>
-        <th><img style="float: right;" src="/images/sanders.jpg"></th>
+        <th><img style="float: right;" src="/images/sanders.jpg" height="80" width="100"></th>
       </tr>
       <tr>
         <th> Bernie Sanders </th>
@@ -190,7 +190,7 @@ But does this mean that **each man is on average more quoted than women** or **m
         <th>Donald Trump</th>
       </tr>
       <tr> 
-        <th><img style="float: right;" src="/images/trump.jpg"></th>
+        <th><img style="float: right;" src="/images/trump.jpg" height="80" width="100"></th>
       </tr>
       <tr> 
         <th>904670 occurences</th>
