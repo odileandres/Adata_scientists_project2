@@ -502,7 +502,6 @@ But does this mean that **each man is on average more quoted than women** or **m
   </body>
 </div>
 </div>
-        2015:
 
 <div class="podium">
 <div class="top"> 
