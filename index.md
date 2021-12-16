@@ -407,6 +407,7 @@ But does this mean that **each man is on average more quoted than women** or **m
       <span id="2016"></span>
       <span id="2017"></span>
       <div class="image-container">
+       <img>
        <div class="podium">
 <div class="top"> 
   
@@ -455,7 +456,8 @@ But does this mean that **each man is on average more quoted than women** or **m
   </body>
 </div>
 </div>
-
+       </img>
+     <img>
 <div class="podium">
 <div class="top"> 
   
@@ -504,7 +506,8 @@ But does this mean that **each man is on average more quoted than women** or **m
   </body>
 </div>
 </div>
-
+</img>
+   <img>
 <div class="podium">
 <div class="top"> 
   
@@ -553,6 +556,7 @@ But does this mean that **each man is on average more quoted than women** or **m
   </body>
 </div>
 </div>
+   </img>
       </div>
       <div class="buttons">
         <a href="#2015"></a>
