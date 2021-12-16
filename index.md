@@ -99,17 +99,11 @@ But does this mean that **each man is on average more quoted than women** or **m
 </div>
  <div class="right">
   <body>
-    <table align="center" border="1" bordercolor="white">
-      <tr>
-       <th><img style="float: right;" src="/images/clinton1.jpg" height="90" width="120"></th>
-     </tr>
-     <tr>
-        <th> Hillary Clinton </th>
-     </tr>
-     <tr>
-        <th>100,121 occurences</th>
-      </tr>
-     </table>
+    <figure>
+         <img src="/images/clinton1.jpg" height="90">
+         <figcaption>Hillary Clinton, <br>
+          100'121 occurences</figcaption>
+    </figure>
   </body>
 </div>
 </div>
@@ -121,49 +115,29 @@ But does this mean that **each man is on average more quoted than women** or **m
 <div class="top"> 
   
   <body>
-    <table align="center" border="1" bordercolor="white">
-      <tr>
-       <th><img style="float: right;" src="/images/obama2.jpg" height="90" width="120"></th>
-      </tr>
-      <tr>
-        <th>Barack Obama</th>
-      </tr>
-      <tr>
-        <th>224,790 occurences</th>
-      </tr>
-     </table>
+    <figure>
+         <img src="/images/obama2.jpg" height="90">
+         <figcaption>Barack Obama, <br>
+          224'790 occurences</figcaption>
+    </figure>
   </body>
 </div>
 <div class="left">
  <body>
-    <table align="center" border="1" bordercolor="white">
-      <tr>
-        <th><img style="float: right;" src="/images/clinton.jpg" height="90" width="120"></th>
-      </tr>
-      <tr>
-        <th> Hillary Clinton </th>
-      </tr>
-      <tr>
-        <th>138,501 occurences</th>
-        
-      </tr>
-     </table>
+    <figure>
+         <img src="/images/clinton.jpg" height="90">
+         <figcaption>Hillary Clinton, <br>
+          138'501 occurences</figcaption>
+    </figure>
   </body>
 </div>
  <div class="right">
   <body>
-    <table align="center" border="1" bordercolor="white">
-      <tr>
-        <th><img style="float: right;" src="/images/sanders.jpg" height="90" width="120"></th>
-      </tr>
-      <tr>
-        <th> Bernie Sanders </th>
-      </tr>
-      <tr>  
-        <th>55,228 occurences</th>
-        
-      </tr>
-     </table>
+    <figure>
+         <img src="/images/sanders.jpg" height="90">
+         <figcaption>Bernie Sanders, <br>
+          55'228 occurences</figcaption>
+    </figure>
   </body>
 </div>
 </div>
@@ -175,49 +149,29 @@ But does this mean that **each man is on average more quoted than women** or **m
 <div class="top"> 
   
   <body>
-    <table align="center" border="1" bordercolor="white">
-      <tr>
-       <th><img style="float: right;" src="/images/trump.jpg" height="90" width="120"></th>
-      </tr>
-      <tr> 
-        <th>Donald Trump</th>
-      </tr>
-      <tr> 
-        <th>904,670 occurences</th>
-      </tr>
-     </table>
+    <figure>
+         <img src="/images/trump.jpg" height="90">
+         <figcaption>Donald Trump, <br>
+          904'670 occurences</figcaption>
+    </figure>
   </body>
 </div>
 <div class="left">
  <body>
-    <table align="center" border="1" bordercolor="white">
-      <tr>
-        <td><img style="float: right;" src="/images/tillerson.jpg" height="90" width="120"></td>
-     </tr>
-      <tr> 
-       <th> Rex Tillerson </th>
-      </tr>
-      <tr> 
-        <th> 172,331 occurences</th>
-        
-      </tr>
-     </table>
+    <figure>
+         <img src="/images/tillerson.jpg" height="90">
+         <figcaption>Rex Tillerson, <br>
+          172'331 occurences</figcaption>
+    </figure>
   </body>
 </div>
  <div class="right">
   <body>
-    <table align="center" border="1" bordercolor="white">
-      <tr>
-        <td><img style="float: right;" src="/images/mackey.jpg" height="90" width="120"></td>
-      </tr>
-      <tr>
-       <th> John Mackey </th>
-      </tr>
-      <tr>
-        <td>128,554 occurences</td>
-        
-      </tr>
-     </table>
+    <figure>
+         <img src="/images/mackey.jpg" height="90">
+         <figcaption>John Mackey, <br>
+          128'554 occurences</figcaption>
+    </figure>
   </body>
 </div>
 </div>
@@ -228,50 +182,29 @@ But does this mean that **each man is on average more quoted than women** or **m
 <div class="top"> 
   
   <body>
-    <table align="center" border="1" bordercolor="white">
-      <tr>
-       <th><img style="float: right;" src="/images/trump1.jpg" height="90" width="120"></th>
-      </tr>
-      <tr>
-       <th>Donald Trump</th>
-      </tr>
-      <tr>
-       <th>998,190 occurences</th>
-        
-      </tr>
-     </table>
+    <figure>
+         <img src="/images/trump1.jpg" height="90">
+         <figcaption>Donald Trump, <br>
+          998'190 occurences</figcaption>
+    </figure>
   </body>
 </div>
 <div class="left">
  <body>
-    <table align="center" border="1" bordercolor="white">
-      <tr>
-        <th><img style="float: right;" src="/images/pompeo.jpg" height="90" width="120"></th>
-      </tr>
-      <tr>
-        <th> Mike Pompeo </th>
-      </tr>
-      <tr>
-        <th>112,608 occurences</th>
-        
-      </tr>
-     </table>
+    <figure>
+         <img src="/images/pompeo.jpg" height="90">
+         <figcaption>Mike Pompeo, <br>
+          112'608 occurences</figcaption>
+    </figure>
   </body>
 </div>
  <div class="right">
   <body>
-    <table align="center" border="1" bordercolor="white">
-      <tr>
-        <th><img style="float: right;" src="/images/mourinho.jpg" height="90" width="120"></th>
-      </tr>
-      <tr>
-        <th> José Mourinho </th>
-      </tr>
-      <tr>
-        <th>106,791 occurences</th>
-        
-      </tr>
-     </table>
+    <figure>
+         <img src="/images/mourinho.jpg" height="90">
+         <figcaption>José Mourinho , <br>
+          106'791 occurences</figcaption>
+    </figure>
   </body>
 </div>
 </div>
