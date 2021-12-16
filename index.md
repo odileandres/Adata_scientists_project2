@@ -98,7 +98,8 @@ But does this mean that **each man is on average more quoted than women** or **m
  <body>
      <figure>
          <img src="/images/francois.jpg" height="90" width="120">
-         <figcaption>Pope Francis, 119,959 occurences</figcaption>
+         <figcaption>Pope Francis, 
+          119'959 occurences</figcaption>
      </figure>
   </body>
 </div>
