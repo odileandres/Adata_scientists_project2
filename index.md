@@ -398,31 +398,23 @@ But does this mean that **each man is on average more quoted than women** or **m
                                                                                          
                                                                                          
                                                                                          
-                                                                                         
-                                                                                         
-</style>
-<body>
-  
-<p>Use the slider to increment or decrement value.</p>
-  
-<div class="rangeslider">
-  <input type="range" min="2015" max="2020" value="6"
-                  class="myslider" id="sliderRange">
-  <p>Year: <span id="demo"></span></p>
-</div>
-  
-<script>
-var rangeslider = document.getElementById("sliderRange");
-var output = document.getElementById("demo");
-output.innerHTML = rangeslider.value;
-  
-rangeslider.oninput = function() {
-  output.innerHTML = this.value;
-}
-</script>
-  
-</body>
-</html>                                                                             
+                                                                                        
+  <body>
+    <div class="slider">
+      <span id="slide-1"></span>
+      <span id="slide-2"></span>
+      <span id="slide-3"></span>
+      <div class="image-container">
+        <img src="/uploads/media/default/0001/03/66cf5094908491e69d8187bcf934050a4800b37f.jpeg" class="slide" width="500" height="300" />
+        <img src="/uploads/media/default/0001/03/b7d624354d5fa22e38b0ab1f9b905fb08ccc6a05.jpeg" class="slide" width="500" height="300" />
+        <img src="/uploads/media/default/0001/03/5bfad15a7fd24d448a48605baf52655a5bbe5a71.jpeg" class="slide" width="500" height="300" />
+      </div>
+      <div class="buttons">
+        <a href="#slide-1"></a>
+        <a href="#slide-2"></a>
+        <a href="#slide-3"></a>
+      </div>
+    </div>                                                              
                                                                                          
                                                                                          
                                                                                          
