@@ -85,7 +85,7 @@ Our graph doesn't show a strict difference between the number of quotation per m
   </body>
 </html>
 
-2015:
+<p align="center"> 2015: </p>
 
 <div class="podium">
 <div class="top"> 
@@ -118,7 +118,7 @@ Our graph doesn't show a strict difference between the number of quotation per m
 </div>
 </div>
 
-2016:
+<p align="center"> 2016: </p>
 
 
 <div class="podium">
@@ -153,7 +153,7 @@ Our graph doesn't show a strict difference between the number of quotation per m
 </div>
 
 
-2017:
+<p align="center"> 2017: </p>
 
 <div class="podium">
 <div class="top"> 
@@ -186,7 +186,7 @@ Our graph doesn't show a strict difference between the number of quotation per m
 </div>
 </div>
 
-2018:
+<p align="center"> 2018: </p>
 
 <div class="podium">
 <div class="top"> 
@@ -219,7 +219,7 @@ Our graph doesn't show a strict difference between the number of quotation per m
 </div>
 </div>
 
-2019:
+<p align="center"> 2019: </p>
 
 <div class="podium">
 <div class="top"> 
@@ -252,7 +252,7 @@ Our graph doesn't show a strict difference between the number of quotation per m
 </div>
 </div>
 
-2020:
+<p align="center"> 2020: </p>
 
 <div class="podium">
 <div class="top"> 
