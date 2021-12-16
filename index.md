@@ -510,7 +510,7 @@ Indeed, over five years, the women are in a state of withdrawal compared to men.
 
 ## Inequal representation in the media in terms of subject
 
-<div class="clearfix">
+<div class="clearfix" align="center">
   <div class="img-container">
   <img src="/images/occ_female_2015.png" style="width:200px">
   </div>
