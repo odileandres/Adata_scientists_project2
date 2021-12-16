@@ -81,10 +81,11 @@ But does this mean that **each man is on average more quoted than women** or **m
   <body>
     <table border="1">
       <tr>
+        <th><img style="float: right;" src="/images/obama.jpg"></th>
         <th>Barack Obama</th>
       </tr>
       <tr>
-        <th><img style="float: right;" src="/images/obama.jpg"></th>
+        <th>Barack Obama</th>
        </tr>
        <tr>
         <th>304004 occurences</th>
@@ -96,11 +97,8 @@ But does this mean that **each man is on average more quoted than women** or **m
  <body>
     <table border="1">
       <tr>
-        <th>Pope Francis</th>
+       <th><img style="float: right;" src="/images/francois.jpg">></th>
       </tr>
-     <tr>
-        <th><img style="float: right;" src="/images/francois.jpg">></th>
-     </tr>
      <tr>
         <th>Pope Francis</th>
      </tr>
@@ -114,10 +112,10 @@ But does this mean that **each man is on average more quoted than women** or **m
   <body>
     <table border="1">
       <tr>
-        <th> Hillary Clinton </th>
+       <td><img style="float: right;" src="/images/clinton.jpg">></td>
      </tr>
      <tr>
-        <td><img style="float: right;" src="/images/clinton.jpg">></td>
+        <th> Hillary Clinton </th>
      </tr>
      <tr>
         <td>100121 occurences</td>
