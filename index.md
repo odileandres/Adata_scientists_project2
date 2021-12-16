@@ -42,7 +42,7 @@ But does this mean that **each man is on average more quoted than women** or **m
     <title>100 more represented speakers</title>
   </head>
   <body>
-    <table border="1">
+    <table align="center" border="1">
       <tr>
         <th>Year</th>
         <th>2015</th>
@@ -79,7 +79,7 @@ But does this mean that **each man is on average more quoted than women** or **m
 <div class="top"> 
   
   <body>
-    <table border="1">
+    <table align="center" border="1" bordercolor="white">
       <tr>
         <th><img style="float: right;" src="/images/obama.jpg" height="80" width="100"></th>
       </tr>
@@ -94,7 +94,7 @@ But does this mean that **each man is on average more quoted than women** or **m
 </div>
 <div class="left">
  <body>
-    <table border="1">
+    <table align="center" border="1" bordercolor="white">
       <tr>
        <th><img style="float: right;" src="/images/francois.jpg" height="80" width="100"></th>
       </tr>
@@ -109,7 +109,7 @@ But does this mean that **each man is on average more quoted than women** or **m
 </div>
  <div class="right">
   <body>
-    <table border="1">
+    <table align="center" border="1" bordercolor="white">
       <tr>
        <th><img style="float: right;" src="/images/clinton1.jpg" height="80" width="100"></th>
      </tr>
@@ -131,7 +131,7 @@ But does this mean that **each man is on average more quoted than women** or **m
 <div class="top"> 
   
   <body>
-    <table border="1">
+    <table align="center" border="1" bordercolor="white">
       <tr>
        <th><img style="float: right;" src="/images/obama2.jpg" height="80" width="100"></th>
       </tr>
@@ -146,7 +146,7 @@ But does this mean that **each man is on average more quoted than women** or **m
 </div>
 <div class="left">
  <body>
-    <table border="1">
+    <table align="center" border="1" bordercolor="white">
       <tr>
         <th><img style="float: right;" src="/images/clinton.jpg" height="80" width="100"></th>
       </tr>
@@ -162,7 +162,7 @@ But does this mean that **each man is on average more quoted than women** or **m
 </div>
  <div class="right">
   <body>
-    <table border="1">
+    <table align="center" border="1" bordercolor="white">
       <tr>
         <th><img style="float: right;" src="/images/sanders.jpg" height="80" width="100"></th>
       </tr>
@@ -185,12 +185,12 @@ But does this mean that **each man is on average more quoted than women** or **m
 <div class="top"> 
   
   <body>
-    <table border="1">
+    <table align="center" border="1" bordercolor="white">
       <tr>
-        <th>Donald Trump</th>
+       <th><img style="float: right;" src="/images/trump.jpg" height="80" width="100"></th>
       </tr>
       <tr> 
-        <th><img style="float: right;" src="/images/trump.jpg" height="80" width="100"></th>
+        <th>Donald Trump</th>
       </tr>
       <tr> 
         <th>904670 occurences</th>
@@ -200,7 +200,7 @@ But does this mean that **each man is on average more quoted than women** or **m
 </div>
 <div class="left">
  <body>
-    <table border="1">
+    <table align="center" border="1" bordercolor="white">
       <tr>
         <td><img style="float: right;" src="/images/tillerson.jpg"></td>
      </tr>
@@ -216,7 +216,7 @@ But does this mean that **each man is on average more quoted than women** or **m
 </div>
  <div class="right">
   <body>
-    <table border="1">
+    <table align="center" border="1" bordercolor="white">
       <tr>
         <td><img style="float: right;" src="/images/mackey.jpg"></td>
       </tr>
@@ -238,7 +238,7 @@ But does this mean that **each man is on average more quoted than women** or **m
 <div class="top"> 
   
   <body>
-    <table border="1">
+    <table align="center" border="1" bordercolor="white">
       <tr>
        <th><img style="float: right;" src="/images/trump1.jpg"></th>
       </tr>
@@ -254,7 +254,7 @@ But does this mean that **each man is on average more quoted than women** or **m
 </div>
 <div class="left">
  <body>
-    <table border="1">
+    <table align="center" border="1" bordercolor="white"">
       <tr>
         <th><img style="float: right;" src="/images/pompeo.jpg"></th>
       </tr>
@@ -270,7 +270,7 @@ But does this mean that **each man is on average more quoted than women** or **m
 </div>
  <div class="right">
   <body>
-    <table border="1">
+    <table align="center" border="1" bordercolor="white">
       <tr>
         <th><img style="float: right;" src="/images/mourinho.jpg"></th>
       </tr>
@@ -292,7 +292,7 @@ But does this mean that **each man is on average more quoted than women** or **m
 <div class="top"> 
   
   <body>
-    <table border="1">
+    <table align="center" border="1" bordercolor="white">
       <tr>
        <th><img style="float: right;" src="/images/trump2.jpg"></th>
       </tr>
@@ -308,7 +308,7 @@ But does this mean that **each man is on average more quoted than women** or **m
 </div>
 <div class="left">
  <body>
-    <table border="1">
+    <table align="center" border="1" bordercolor="white">
       <tr>
         <th><img style="float: right;" src="/images/johnson.jpg"></th>
       </tr>
@@ -324,7 +324,7 @@ But does this mean that **each man is on average more quoted than women** or **m
 </div>
  <div class="right">
   <body>
-    <table border="1">
+    <table align="center" border="1" bordercolor="white">
       <tr>
         <th><img style="float: right;" src="/images/Pelosi.jpg"></th>
       </tr>
@@ -346,7 +346,7 @@ But does this mean that **each man is on average more quoted than women** or **m
 <div class="top"> 
   
   <body>
-    <table border="1">
+    <table align="center" border="1" bordercolor="white">
       <tr>
        <th><img style="float: right;" src="/images/trump3.jpg"></th>
       </tr>
@@ -362,7 +362,7 @@ But does this mean that **each man is on average more quoted than women** or **m
 </div>
 <div class="left">
  <body>
-    <table border="1">
+    <table align="center" border="1" bordercolor="white">
       <tr>
         <th><img style="float: right;" src="/images/tedros.jpg"></th>
       </tr>
@@ -378,7 +378,7 @@ But does this mean that **each man is on average more quoted than women** or **m
 </div>
  <div class="right">
   <body>
-    <table border="1">
+    <table align="center" border="1" bordercolor="white">
       <tr>
         <th><img style="float: right;" src="/images/johnson2.jpg"></th>
       </tr>
