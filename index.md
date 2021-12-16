@@ -37,7 +37,7 @@ According to Amin Maalouf, if the attitude of the people has changes towards wom
 According to a simple analysis of the data, we can see very clearly that even though feminist events have occurred, the difference in terms of repartition of the representation hasn't significantly changed (faire un t-test sur les deux valuers pour prouver que c'est different). Indeed, in our timelapse, the repartition of occurrences of speak between women and man stays on a base of 20% against 80%.
 </p>
 <p align="justify">
-But does this mean that **each man is on average more quoted than women** or **more men are quoted** ?
+ But does this mean that <b>each man is on average more quoted than women</b> or <b>more men are quoted</b>?
 </p>
 
 ### How many quotation per individual?
