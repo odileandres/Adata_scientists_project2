@@ -1077,8 +1077,8 @@ figure {
 
 img {
   float: right;
-  max-width: 220px;
-  max-height: 150px;
+  max-width: 1000px;
+  max-height: 1000px;
 }
 
 figcaption {
