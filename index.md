@@ -190,7 +190,7 @@ But does this mean that **each man is on average more quoted than women** or **m
         <th>Donald Trump</th>
       </tr>
       <tr> 
-        <th><img style="float: right;" src="/images/245698.jpg"></th>
+        <th><img style="float: right;" src="/images/trump.jpg"></th>
       </tr>
       <tr> 
         <th>904670 occurences</th>
