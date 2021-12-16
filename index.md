@@ -73,7 +73,7 @@ But does this mean that **each man is on average more quoted than women** or **m
   </body>
 </html>
 
-In the top 5 of more quoted person in our dataset in 2015, we have one women, Hillary Clinton
+2015:
 
 <div class="podium">
 <div class="top"> 
@@ -115,11 +115,133 @@ In the top 5 of more quoted person in our dataset in 2015, we have one women, Hi
 </div>
 </div>
 
+2016:
 
 
+<div class="podium">
+<div class="top"> 
+  
+  <body>
+    <table border="1">
+      <tr>
+        <th>Barack Obama</th>
+        <td><img style="float: right;" src="/images/obama.jpg"></td>
+        <td>224790 occurences</td>
+        
+      </tr>
+     </table>
+  </body>
+</div>
+<div class="left">
+ <body>
+    <table border="1">
+      <tr>
+        <th> Hillary Clinton </th>
+        <td><img style="float: right;" src="/images/clinton.jpg">></td>
+        <td>138501 occurences</td>
+        
+      </tr>
+     </table>
+  </body>
+</div>
+ <div class="right">
+  <body>
+    <table border="1">
+      <tr>
+        <th> Bernie Sanders </th>
+        <td><img style="float: right;" src="/images/clinton.jpg">></td>
+        <td>55228 occurences</td>
+        
+      </tr>
+     </table>
+  </body>
+</div>
+</div>
 
 
+2017:
 
+<div class="podium">
+<div class="top"> 
+  
+  <body>
+    <table border="1">
+      <tr>
+        <th>Donald Trump</th>
+        <td><img style="float: right;" src="/images/obama.jpg"></td>
+        <td>904670 occurences</td>
+        
+      </tr>
+     </table>
+  </body>
+</div>
+<div class="left">
+ <body>
+    <table border="1">
+      <tr>
+        <th> Rex Tillerson </th>
+        <td><img style="float: right;" src="/images/clinton.jpg">></td>
+        <td>172331 occurences</td>
+        
+      </tr>
+     </table>
+  </body>
+</div>
+ <div class="right">
+  <body>
+    <table border="1">
+      <tr>
+        <th> John Mackey </th>
+        <td><img style="float: right;" src="/images/clinton.jpg">></td>
+        <td>128554 occurences</td>
+        
+      </tr>
+     </table>
+  </body>
+</div>
+</div>
+
+2017:
+
+<div class="podium">
+<div class="top"> 
+  
+  <body>
+    <table border="1">
+      <tr>
+        <th>Donald Trump</th>
+        <td><img style="float: right;" src="/images/obama.jpg"></td>
+        <td>904670 occurences</td>
+        
+      </tr>
+     </table>
+  </body>
+</div>
+<div class="left">
+ <body>
+    <table border="1">
+      <tr>
+        <th> Rex Tillerson </th>
+        <td><img style="float: right;" src="/images/clinton.jpg">></td>
+        <td>172331 occurences</td>
+        
+      </tr>
+     </table>
+  </body>
+</div>
+ <div class="right">
+  <body>
+    <table border="1">
+      <tr>
+        <th> John Mackey </th>
+        <td><img style="float: right;" src="/images/clinton.jpg">></td>
+        <td>128554 occurences</td>
+        
+      </tr>
+     </table>
+  </body>
+</div>
+</div>
 
 
 ### How many different men are quoted in the dataset?
