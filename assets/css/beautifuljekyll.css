@@ -1076,6 +1076,7 @@ figure {
 }
 
 img {
+  float: right;
   max-width: 220px;
   max-height: 150px;
 }
