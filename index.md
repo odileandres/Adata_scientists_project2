@@ -400,228 +400,29 @@ But does this mean that **each man is on average more quoted than women** or **m
                                                                                          
                                                                                          
                                                                                          
- <div class="container">
+</style>
+<body>
   
-  <!-- Full-width images with caption text -->
-  <div class="image-sliderfade fade">
-    <div class="podium">
-<div class="top"> 
+<p>Use the slider to increment or decrement value.</p>
   
-  <body>
-    <table align="center" border="1" bordercolor="white">
-      <tr>
-        <th><img style="float: right;" src="/images/obama.jpg" height="90" width="120"></th>
-      </tr>
-      <tr>
-        <th>Barack Obama</th>
-       </tr>
-       <tr>
-        <th>304,004 occurences</th>
-       </tr>
-     </table>
-  </body>
+<div class="rangeslider">
+  <input type="range" min="2015" max="2020" value="6"
+                  class="myslider" id="sliderRange">
+  <p>Year: <span id="demo"></span></p>
 </div>
-<div class="left">
- <body>
-    <table align="center" border="1" bordercolor="white">
-      <tr>
-       <th><img style="float: right;" src="/images/francois.jpg" height="90" width="120"></th>
-      </tr>
-     <tr>
-        <th>Pope Francis</th>
-     </tr>
-     <tr>
-      <th>119,959 occurences</th>   
-      </tr>
-     </table>
-  </body>
-</div>
- <div class="right">
-  <body>
-    <table align="center" border="1" bordercolor="white">
-      <tr>
-       <th><img style="float: right;" src="/images/clinton1.jpg" height="90" width="120"></th>
-     </tr>
-     <tr>
-        <th> Hillary Clinton </th>
-     </tr>
-     <tr>
-        <th>100,121 occurences</th>
-      </tr>
-     </table>
-  </body>
-</div>
-</div>
-    <div class="text">2015</div>
-  </div>
   
-  <div class="image-sliderfade fade">
-    <div class="podium">
-<div class="top"> 
+<script>
+var rangeslider = document.getElementById("sliderRange");
+var output = document.getElementById("demo");
+output.innerHTML = rangeslider.value;
   
-  <body>
-    <table align="center" border="1" bordercolor="white">
-      <tr>
-        <th><img style="float: right;" src="/images/obama.jpg" height="90" width="120"></th>
-      </tr>
-      <tr>
-        <th>Barack Obama</th>
-       </tr>
-       <tr>
-        <th>304,004 occurences</th>
-       </tr>
-     </table>
-  </body>
-</div>
-<div class="left">
- <body>
-    <table align="center" border="1" bordercolor="white">
-      <tr>
-       <th><img style="float: right;" src="/images/francois.jpg" height="90" width="120"></th>
-      </tr>
-     <tr>
-        <th>Pope Francis</th>
-     </tr>
-     <tr>
-      <th>119,959 occurences</th>   
-      </tr>
-     </table>
-  </body>
-</div>
- <div class="right">
-  <body>
-    <table align="center" border="1" bordercolor="white">
-      <tr>
-       <th><img style="float: right;" src="/images/clinton1.jpg" height="90" width="120"></th>
-     </tr>
-     <tr>
-        <th> Hillary Clinton </th>
-     </tr>
-     <tr>
-        <th>100,121 occurences</th>
-      </tr>
-     </table>
-  </body>
-</div>
-</div>
-    <div class="text">2016</div>
-  </div>
+rangeslider.oninput = function() {
+  output.innerHTML = this.value;
+}
+</script>
   
-  <div class="image-sliderfade fade">
-    <div class="podium">
-<div class="top"> 
-  
-  <body>
-    <table align="center" border="1" bordercolor="white">
-      <tr>
-        <th><img style="float: right;" src="/images/obama.jpg" height="90" width="120"></th>
-      </tr>
-      <tr>
-        <th>Barack Obama</th>
-       </tr>
-       <tr>
-        <th>304,004 occurences</th>
-       </tr>
-     </table>
-  </body>
-</div>
-<div class="left">
- <body>
-    <table align="center" border="1" bordercolor="white">
-      <tr>
-       <th><img style="float: right;" src="/images/francois.jpg" height="90" width="120"></th>
-      </tr>
-     <tr>
-        <th>Pope Francis</th>
-     </tr>
-     <tr>
-      <th>119,959 occurences</th>   
-      </tr>
-     </table>
-  </body>
-</div>
- <div class="right">
-  <body>
-    <table align="center" border="1" bordercolor="white">
-      <tr>
-       <th><img style="float: right;" src="/images/clinton1.jpg" height="90" width="120"></th>
-     </tr>
-     <tr>
-        <th> Hillary Clinton </th>
-     </tr>
-     <tr>
-        <th>100,121 occurences</th>
-      </tr>
-     </table>
-  </body>
-</div>
-</div>
-    <div class="text">2017</div>
-  </div>
-  
-  <div class="image-sliderfade fade">
-    <div class="podium">
-<div class="top"> 
-  
-  <body>
-    <table align="center" border="1" bordercolor="white">
-      <tr>
-        <th><img style="float: right;" src="/images/obama.jpg" height="90" width="120"></th>
-      </tr>
-      <tr>
-        <th>Barack Obama</th>
-       </tr>
-       <tr>
-        <th>304,004 occurences</th>
-       </tr>
-     </table>
-  </body>
-</div>
-<div class="left">
- <body>
-    <table align="center" border="1" bordercolor="white">
-      <tr>
-       <th><img style="float: right;" src="/images/francois.jpg" height="90" width="120"></th>
-      </tr>
-     <tr>
-        <th>Pope Francis</th>
-     </tr>
-     <tr>
-      <th>119,959 occurences</th>   
-      </tr>
-     </table>
-  </body>
-</div>
- <div class="right">
-  <body>
-    <table align="center" border="1" bordercolor="white">
-      <tr>
-       <th><img style="float: right;" src="/images/clinton1.jpg" height="90" width="120"></th>
-     </tr>
-     <tr>
-        <th> Hillary Clinton </th>
-     </tr>
-     <tr>
-        <th>100,121 occurences</th>
-      </tr>
-     </table>
-  </body>
-</div>
-</div>
-    <div class="text">2018</div>
-  </div>
-  
-</div>
-<br>
-  
-<!-- The dots/circles -->
-<div style="text-align:center">
-  <span class="dot"></span> 
-  <span class="dot"></span> 
-  <span class="dot"></span> 
-</div>
-                                                                                         
-                                                                                         
+</body>
+</html>                                                                             
                                                                                          
                                                                                          
                                                                                          
