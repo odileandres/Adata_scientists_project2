@@ -5,7 +5,7 @@ subtitle: Men and women, equals in the eyes of the media?
 cover-img: /images/Odile2.png
 ---
 
-## Introduction to the problem
+# Introduction to the problem
 
 <img style="float: right;" src="/images/6ibbh0oB4OGAGZm4PSuBh9.jpg">
 Ever since 2007, _#MeToo_ has been trending on social media, especially after the Weinstein gate in 2017. Since then, the debate around inequalities between men and women has been a burning subject. Organized sexual exploitation of young women, like the gate of Jeffrey Epstein, inequalities, trivialized sexism, sexual harassment, consent, all have been on the headline of the journals and have triggered massive demonstrations all over the world. 
