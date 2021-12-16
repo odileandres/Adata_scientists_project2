@@ -512,23 +512,19 @@ Indeed, over five years, the women are in a state of withdrawal compared to men.
 
 <div class="clearfix">
   <div class="img-container">
-  <img src="/images/occ_female_2015.png" style="width:75%">
-  <figcaption> Occupation of the women in 2015</figcaption>
+  <img src="/images/occ_female_2015.png" style="width:200px">
   </div>
   <div class="img-container">
-  <img src="/images/occ_male_2015.png" style="width:75%">
-  <figcaption> Occupation of the men in 2015</figcaption>
+  <img src="/images/occ_male_2015.png" style="width:200px">
   </div>
 </div>
 
 <div class="clearfix">
   <div class="img-container">
-  <img src="/images/occ_female_2020.png" style="width:75%">
-  <figcaption> Occupation of the women in 2015</figcaption>
+  <img src="/images/occ_female_2020.png" style="width:200px">
   </div>
   <div class="img-container">
-  <img src="/images/occ_male_2020.png" style="width:75%">
-  <figcaption> Occupation of the men in 2020</figcaption>
+  <img src="/images/occ_male_2020.png" style="width:200px">
   </div>
 </div>
 
