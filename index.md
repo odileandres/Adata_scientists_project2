@@ -7,7 +7,7 @@ cover-img: /images/Odile2.png
 
 # Introduction to the problem
 
-<img src="/images/6ibbh0oB4OGAGZm4PSuBh9.jpg">
+<img style="float: center;" src="/images/6ibbh0oB4OGAGZm4PSuBh9.jpg">
 
 <p align="justify">
 Ever since 2007, _#MeToo_ has been trending on social media, especially after the Weinstein gate in 2017. Since then, the debate around inequalities between men and women has been a burning subject. Organized sexual exploitation of young women, like the gate of Jeffrey Epstein, inequalities, trivialized sexism, sexual harassment, consent, all have been on the headline of the journals and have triggered massive demonstrations all over the world. 
