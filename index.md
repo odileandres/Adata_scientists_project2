@@ -92,7 +92,7 @@ Our graph doesn't show a strict difference between the number of quotation per m
   
   <body>
     
-         <img style="float: center;" src="/images/obama.jpg" height="100">
+         <img class="center" src="/images/obama.jpg" height="100">
          <figcaption>Barack Obama <br>
           304,004 occurences</figcaption>
      
@@ -101,7 +101,7 @@ Our graph doesn't show a strict difference between the number of quotation per m
 <div class="left">
  <body>
      
-         <img style="float: center;" src="/images/francois.jpg" height="100">
+         <img class="center" src="/images/francois.jpg" height="100">
          <figcaption>Pope Francis <br>
           119'959 occurences</figcaption>
      
@@ -110,7 +110,7 @@ Our graph doesn't show a strict difference between the number of quotation per m
  <div class="right">
   <body>
     
-         <img style="float: center;" src="/images/clinton1.jpg" height="100">
+         <img class="center" src="/images/clinton1.jpg" height="100">
          <figcaption>Hillary Clinton <br>
           100'121 occurences</figcaption>
    
@@ -126,7 +126,7 @@ Our graph doesn't show a strict difference between the number of quotation per m
   
   <body>
 
-         <img style="float: center;" src="/images/obama2.jpg" height="100">
+         <img class="center" src="/images/obama2.jpg" height="100">
          <figcaption>Barack Obama <br>
           224'790 occurences</figcaption>
 
@@ -135,7 +135,7 @@ Our graph doesn't show a strict difference between the number of quotation per m
 <div class="left">
  <body>
 
-         <img style="float: center;" src="/images/clinton.jpg" height="100">
+         <img class="center" src="/images/clinton.jpg" height="100">
          <figcaption>Hillary Clinton <br>
           138'501 occurences</figcaption>
 
@@ -144,7 +144,7 @@ Our graph doesn't show a strict difference between the number of quotation per m
  <div class="right">
   <body>
 
-         <img style="float: center;" src="/images/sanders.jpg" height="100">
+         <img class="center" src="/images/sanders.jpg" height="100">
          <figcaption>Bernie Sanders <br>
           55'228 occurences</figcaption>
 
@@ -160,7 +160,7 @@ Our graph doesn't show a strict difference between the number of quotation per m
   
   <body>
 
-         <img style="float: center;" src="/images/trump.jpg" height="100">
+         <img class="center" src="/images/trump.jpg" height="100">
          <figcaption>Donald Trump <br>
           904'670 occurences</figcaption>
 
@@ -169,7 +169,7 @@ Our graph doesn't show a strict difference between the number of quotation per m
 <div class="left">
  <body>
 
-         <img style="float: center;" src="/images/tillerson.jpg" height="100">
+         <img class="center" src="/images/tillerson.jpg" height="100">
          <figcaption>Rex Tillerson <br>
           172'331 occurences</figcaption>
 
@@ -178,7 +178,7 @@ Our graph doesn't show a strict difference between the number of quotation per m
  <div class="right">
   <body>
 
-         <img style="float: center;" src="/images/mackey.jpg" height="100">
+         <img class="center" src="/images/mackey.jpg" height="100">
          <figcaption>John Mackey <br>
           128'554 occurences</figcaption>
 
@@ -193,7 +193,7 @@ Our graph doesn't show a strict difference between the number of quotation per m
   
   <body>
 
-         <img style="float: center;" src="/images/trump1.jpg" height="100">
+         <img class="center" src="/images/trump1.jpg" height="100">
          <figcaption>Donald Trump <br>
           998'190 occurences</figcaption>
 
@@ -202,7 +202,7 @@ Our graph doesn't show a strict difference between the number of quotation per m
 <div class="left">
  <body>
 
-         <img style="float: center;" src="/images/pompeo.jpg" height="100">
+         <img class="center" src="/images/pompeo.jpg" height="100">
          <figcaption>Mike Pompeo <br>
           112'608 occurences</figcaption>
 
@@ -211,7 +211,7 @@ Our graph doesn't show a strict difference between the number of quotation per m
  <div class="right">
   <body>
 
-         <img style="float: center;" src="/images/mourinho.jpg" height="100">
+         <img class="center" src="/images/mourinho.jpg" height="100">
          <figcaption>José Mourinho  <br>
           106'791 occurences</figcaption>
 
@@ -226,7 +226,7 @@ Our graph doesn't show a strict difference between the number of quotation per m
   
   <body>
 
-         <img style="float: center;" src="/images/trump2.jpg" height="100">
+         <img class="center" src="/images/trump2.jpg" height="100">
          <figcaption>Donald Trump <br>
           535'689 occurences</figcaption>
 
@@ -235,7 +235,7 @@ Our graph doesn't show a strict difference between the number of quotation per m
 <div class="left">
  <body>
 
-         <img style="float: center;" src="/images/johnson.jpg" height="100">
+         <img class="center" src="/images/johnson.jpg" height="100">
          <figcaption>Boris Johnson <br>
           164'369 occurences</figcaption>
 
@@ -244,7 +244,7 @@ Our graph doesn't show a strict difference between the number of quotation per m
  <div class="right">
   <body>
 
-         <img style="float: center;" src="/images/Pelosi.jpg" height="100">
+         <img class="center" src="/images/Pelosi.jpg" height="100">
          <figcaption>Nancy Pelosi <br>
           115'448 occurences</figcaption>
 
@@ -259,7 +259,7 @@ Our graph doesn't show a strict difference between the number of quotation per m
   
   <body>
 
-         <img style="float: center;" src="/images/trump3.jpg" height="100">
+         <img class="center" src="/images/trump3.jpg" height="100">
          <figcaption>Donald Trump <br>
           137'385 occurences</figcaption>
 
@@ -268,7 +268,7 @@ Our graph doesn't show a strict difference between the number of quotation per m
 <div class="left">
  <body>
 
-         <img style="float: center;" src="/images/tedros.jpeg" height="100">
+         <img class="center" src="/images/tedros.jpeg" height="100">
          <figcaption>Tedros Adhanom Ghebreyesus <br>
           58'558 occurences</figcaption>
 
@@ -277,7 +277,7 @@ Our graph doesn't show a strict difference between the number of quotation per m
  <div class="right">
   <body>
 
-         <img style="float: center;" src="/images/johnson2.jpg" height="100">
+         <img class="center" src="/images/johnson2.jpg" height="100">
          <figcaption>Boris Johnson <br>
           50'583 occurences</figcaption>
 
