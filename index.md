@@ -401,18 +401,165 @@ But does this mean that **each man is on average more quoted than women** or **m
                                                                                         
   <body>
     <div class="slider">
-      <span id="slide-1"></span>
-      <span id="slide-2"></span>
-      <span id="slide-3"></span>
+      <span id="2015"></span>
+      <span id="2016"></span>
+      <span id="2017"></span>
       <div class="image-container">
-        <img src="/uploads/media/default/0001/03/66cf5094908491e69d8187bcf934050a4800b37f.jpeg" class="slide" width="500" height="300" />
-        <img src="/uploads/media/default/0001/03/b7d624354d5fa22e38b0ab1f9b905fb08ccc6a05.jpeg" class="slide" width="500" height="300" />
-        <img src="/uploads/media/default/0001/03/5bfad15a7fd24d448a48605baf52655a5bbe5a71.jpeg" class="slide" width="500" height="300" />
+        2015:
+
+<div class="podium">
+<div class="top"> 
+  
+  <body>
+    <table align="center" border="1" bordercolor="white">
+      <tr>
+        <th><img style="float: right;" src="/images/obama.jpg" height="90" width="120"></th>
+      </tr>
+      <tr>
+        <th>Barack Obama</th>
+       </tr>
+       <tr>
+        <th>304,004 occurences</th>
+       </tr>
+     </table>
+  </body>
+</div>
+<div class="left">
+ <body>
+    <table align="center" border="1" bordercolor="white">
+      <tr>
+       <th><img style="float: right;" src="/images/francois.jpg" height="90" width="120"></th>
+      </tr>
+     <tr>
+        <th>Pope Francis</th>
+     </tr>
+     <tr>
+      <th>119,959 occurences</th>   
+      </tr>
+     </table>
+  </body>
+</div>
+ <div class="right">
+  <body>
+    <table align="center" border="1" bordercolor="white">
+      <tr>
+       <th><img style="float: right;" src="/images/clinton1.jpg" height="90" width="120"></th>
+     </tr>
+     <tr>
+        <th> Hillary Clinton </th>
+     </tr>
+     <tr>
+        <th>100,121 occurences</th>
+      </tr>
+     </table>
+  </body>
+</div>
+</div>
+       2015:
+
+<div class="podium">
+<div class="top"> 
+  
+  <body>
+    <table align="center" border="1" bordercolor="white">
+      <tr>
+        <th><img style="float: right;" src="/images/obama.jpg" height="90" width="120"></th>
+      </tr>
+      <tr>
+        <th>Barack Obama</th>
+       </tr>
+       <tr>
+        <th>304,004 occurences</th>
+       </tr>
+     </table>
+  </body>
+</div>
+<div class="left">
+ <body>
+    <table align="center" border="1" bordercolor="white">
+      <tr>
+       <th><img style="float: right;" src="/images/francois.jpg" height="90" width="120"></th>
+      </tr>
+     <tr>
+        <th>Pope Francis</th>
+     </tr>
+     <tr>
+      <th>119,959 occurences</th>   
+      </tr>
+     </table>
+  </body>
+</div>
+ <div class="right">
+  <body>
+    <table align="center" border="1" bordercolor="white">
+      <tr>
+       <th><img style="float: right;" src="/images/clinton1.jpg" height="90" width="120"></th>
+     </tr>
+     <tr>
+        <th> Hillary Clinton </th>
+     </tr>
+     <tr>
+        <th>100,121 occurences</th>
+      </tr>
+     </table>
+  </body>
+</div>
+</div>
+        2015:
+
+<div class="podium">
+<div class="top"> 
+  
+  <body>
+    <table align="center" border="1" bordercolor="white">
+      <tr>
+        <th><img style="float: right;" src="/images/obama.jpg" height="90" width="120"></th>
+      </tr>
+      <tr>
+        <th>Barack Obama</th>
+       </tr>
+       <tr>
+        <th>304,004 occurences</th>
+       </tr>
+     </table>
+  </body>
+</div>
+<div class="left">
+ <body>
+    <table align="center" border="1" bordercolor="white">
+      <tr>
+       <th><img style="float: right;" src="/images/francois.jpg" height="90" width="120"></th>
+      </tr>
+     <tr>
+        <th>Pope Francis</th>
+     </tr>
+     <tr>
+      <th>119,959 occurences</th>   
+      </tr>
+     </table>
+  </body>
+</div>
+ <div class="right">
+  <body>
+    <table align="center" border="1" bordercolor="white">
+      <tr>
+       <th><img style="float: right;" src="/images/clinton1.jpg" height="90" width="120"></th>
+     </tr>
+     <tr>
+        <th> Hillary Clinton </th>
+     </tr>
+     <tr>
+        <th>100,121 occurences</th>
+      </tr>
+     </table>
+  </body>
+</div>
+</div>
       </div>
       <div class="buttons">
-        <a href="#slide-1"></a>
-        <a href="#slide-2"></a>
-        <a href="#slide-3"></a>
+        <a href="#2015"></a>
+        <a href="#2016"></a>
+        <a href="#2017"></a>
       </div>
     </div>                                                              
                                                                                          
