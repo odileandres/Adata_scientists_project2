@@ -258,7 +258,7 @@ But does this mean that **each man is on average more quoted than women** or **m
 <div class="left">
  <body>
      <figure>
-         <img src="/images/tedros.jpg" height="90">
+         <img src="/images/tedros.jpeg" height="90">
          <figcaption>Tedros Adhanom Ghebreyesus <br>
           58'558 occurences</figcaption>
      </figure>
