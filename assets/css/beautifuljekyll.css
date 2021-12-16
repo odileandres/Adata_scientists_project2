@@ -1066,7 +1066,6 @@ pre {
 
 /*-- Image + légende--*/
 figure {
-    border: thin #c0c0c0 solid;
     display: flex;
     flex-flow: column;
     padding: 5px;
@@ -1081,7 +1080,7 @@ img {
 
 figcaption {
     background-color: #fff;
-    color: #0000;
+    color: #000;
     font: italic smaller sans-serif;
     padding: 3px;
     text-align: center;
