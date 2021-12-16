@@ -407,8 +407,7 @@ But does this mean that **each man is on average more quoted than women** or **m
       <span id="2016"></span>
       <span id="2017"></span>
       <div class="image-container">
-    
-         <div class="podium">
+       <div class="podium">
 <div class="top"> 
   
   <body>
