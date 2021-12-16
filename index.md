@@ -396,9 +396,11 @@ But does this mean that **each man is on average more quoted than women** or **m
                        
 
                                                                                          
+  
+  
+  
                                                                                          
-                                                                                         
-                                                                                        
+<html>                                                                                        
   <body>
     <div class="slider">
       <span id="2015"></span>
@@ -557,7 +559,9 @@ But does this mean that **each man is on average more quoted than women** or **m
         <a href="#2016"></a>
         <a href="#2017"></a>
       </div>
-    </div>                                                              
+    </div> 
+  </body>
+</html>
                                                                                          
                                                                                          
                                                                                          
