@@ -164,13 +164,13 @@ But does this mean that **each man is on average more quoted than women** or **m
   <body>
     <table border="1">
       <tr>
-        <td><img style="float: right;" src="/images/sanders.jpg"></td>
+        <th><img style="float: right;" src="/images/sanders.jpg"></th>
       </tr>
       <tr>
-        <td> Bernie Sanders </td>
+        <th> Bernie Sanders </th>
       </tr>
       <tr>  
-        <td>55228 occurences</td>
+        <th>55228 occurences</th>
         
       </tr>
      </table>
