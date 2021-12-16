@@ -4,7 +4,8 @@ title: Men and women, equals in the eyes of the media?
 cover-img: /images/Odile2.png
 ---
 
-## Introduction to the problem
+# Introduction to the problem
+
 Ever since 2007, _#MeToo_ has been trending on social media, especially after the Weinstein gate in 2017. Since then, the debate around inequalities between men and women has been a burning subject. Organized sexual exploitation of young women, like the gate of Jeffrey Epstein, inequalities, trivialized sexism, sexual harassment, consent, all have been on the headline of the journals have triggered massive demonstrations all over the world. 
 And the media are not innocent in this social discrimination. 
 According to research pursued by the [UNWomen](https://beijing20.unwomen.org/en/in-focus/media) over more than 100 countries, sexism in the media nowadays is striking. In terms of managing positions, men still represent 73 % of the top media management position, according to another study gathering 522 news media organizations. Moreover, about 46% of news stories spread gender stereotypes and only 6% promote gender equality. 
