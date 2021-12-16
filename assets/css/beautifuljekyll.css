@@ -1098,6 +1098,7 @@ figcaption {
     text-align: center;
 }
 
+/*-- Pour mettre des images side by side --*/
 .img-container {
   float: left;
   width: 33.33%;
