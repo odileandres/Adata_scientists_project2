@@ -203,7 +203,7 @@ But does this mean that **each man is on average more quoted than women** or **m
     <table border="1">
       <tr>
         <th> Rex Tillerson </th>
-        <td><img style="float: right;" src="/images/tillerson.jpg">></td>
+        <td><img style="float: right;" src="/images/tillerson.jpg"></td>
         <td>172331 occurences</td>
         
       </tr>
@@ -252,7 +252,7 @@ But does this mean that **each man is on average more quoted than women** or **m
  <body>
     <table border="1">
       <tr>
-        <th><img style="float: right;" src="/images/pompeo.jpg">></th>
+        <th><img style="float: right;" src="/images/pompeo.jpg"></th>
       </tr>
       <tr>
         <th> Mike Pompeo </th>
@@ -306,7 +306,7 @@ But does this mean that **each man is on average more quoted than women** or **m
  <body>
     <table border="1">
       <tr>
-        <th><img style="float: right;" src="/images/jonhson.jpg">></th>
+        <th><img style="float: right;" src="/images/johnson.jpg"></th>
       </tr>
       <tr>
         <th> Boris Johnson </th>
@@ -322,7 +322,7 @@ But does this mean that **each man is on average more quoted than women** or **m
   <body>
     <table border="1">
       <tr>
-        <th><img style="float: right;" src="/images/pelosi.jpg"></th>
+        <th><img style="float: right;" src="/images/Pelosi.jpg"></th>
       </tr>
       <tr>
         <th> Nancy Pelosi </th>
@@ -360,7 +360,7 @@ But does this mean that **each man is on average more quoted than women** or **m
  <body>
     <table border="1">
       <tr>
-        <th><img style="float: right;" src="/images/tedros.jpg">></th>
+        <th><img style="float: right;" src="/images/tedros.jpg"></th>
       </tr>
       <tr>
         <th> Tedros Adhanom Ghebreyesus </th>
