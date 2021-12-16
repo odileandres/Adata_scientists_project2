@@ -1066,6 +1066,8 @@ pre {
 
 /*-- Image + légende--*/
 figure {
+    float: right;
+    width: 100%;
     display: flex;
     flex-flow: column;
     padding: 5px;
