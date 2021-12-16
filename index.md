@@ -393,8 +393,8 @@ But does this mean that **each man is on average more quoted than women** or **m
   </body>
 </div>
 </div>
-
-                                                                                         <body>
+                       
+<body>
   
 <div class="rangeslider">
   <input type="range" min="2015" max="2020" value="6"
@@ -411,7 +411,7 @@ rangeslider.oninput = function() {
   output.innerHTML = this.value;
 }
 </script>
-
+</body>
 
 ### How many different men are quoted in the dataset?
 <img style="float: right;" src="/images/Percentage_global_peok.png">
