@@ -509,7 +509,26 @@ Indeed, over five years, the women are in a state of withdrawal compared to men.
 </p>
 
 ## Inequal representation in the media in terms of subject
-
+<div class="row">
+  <div class="column">
+    <img src="/images/occ_female_2015.png" style="width:100%">
+    <figcaption> Occupation of the women in 2015/figcaption>
+  </div>
+  <div class="column">
+    <img src="/images/occ_female_2020.png" style="width:100%">
+    <figcaption> Occupation of the women in 2020/figcaption>
+  </div>
+</div>
+<div class="row">
+  <div class="column">
+    <img src="/images/occ_male_2015.png" style="width:100%">
+    <figcaption> Occupation of the men in 2015/figcaption>
+  </div>
+  <div class="column">
+    <img src="/images/occ_male_2020.png" style="width:100%">
+    <figcaption> Occupation of the men in 2020/figcaption>
+  </div>
+</div>
 
 ## Inequal representation in the media in terms of political orientation
 > _"No one respects women more than I do."_ 
