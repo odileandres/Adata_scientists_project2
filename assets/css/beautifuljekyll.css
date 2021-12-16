@@ -1005,7 +1005,8 @@ pre {
 
 .center {
   display: block;
-  margin: 0 auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /* --- Podium --- */
@@ -1094,5 +1095,5 @@ figcaption {
     color: #000;
     font: italic smaller sans-serif;
     padding: 3px;
-    text-align: right;
+    text-align: center;
 }
