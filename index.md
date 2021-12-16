@@ -254,7 +254,7 @@ But does this mean that **each man is on average more quoted than women** or **m
 </div>
 <div class="left">
  <body>
-    <table align="center" border="1" bordercolor="white"">
+    <table align="center" border="1" bordercolor="white">
       <tr>
         <th><img style="float: right;" src="/images/pompeo.jpg" height="90" width="120"></th>
       </tr>
