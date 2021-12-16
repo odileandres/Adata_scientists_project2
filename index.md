@@ -81,29 +81,29 @@ But does this mean that **each man is on average more quoted than women** or **m
 <div class="top"> 
   
   <body>
-    <figure>
+    
          <img src="/images/obama.jpg" height="90">
          <figcaption>Barack Obama <br>
           304,004 occurences</figcaption>
-     </figure>
+     
   </body>
 </div>
 <div class="left">
  <body>
-     <figure>
+     
          <img src="/images/francois.jpg" height="90">
          <figcaption>Pope Francis <br>
           119'959 occurences</figcaption>
-     </figure>
+     
   </body>
 </div>
  <div class="right">
   <body>
-    <figure>
+    
          <img src="/images/clinton1.jpg" height="90">
          <figcaption>Hillary Clinton <br>
           100'121 occurences</figcaption>
-    </figure>
+   
   </body>
 </div>
 </div>
