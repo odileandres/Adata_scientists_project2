@@ -534,8 +534,8 @@ Indeed, over five years, the women are in a state of withdrawal compared to men.
 
 
 ## Inequal representation in the media in terms of political orientation
-> _"No one respects women more than I do."_ 
-Donald Trump
+<p style="color:blue" class="center"> <i>"No one respects women more than I do."</i> 
+Donald Trump </p>
 
 We chose to only work on the ten 
  
