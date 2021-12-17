@@ -1162,16 +1162,16 @@ quote {
 article1 {
   float: left;
   padding: 20px;
-  width: 45%;
-  height: 400px; /* only for demonstration, should be removed */
+  width: 50%;
+  height: 450px; /* only for demonstration, should be removed */
 }
 
 article2 {
   float: left;
   padding: 20px;
   background-color: #ccc;
-  width: 55%;
-  height: 400px; /* only for demonstration, should be removed */
+  width: 50%;
+  height: 450px; /* only for demonstration, should be removed */
 }
 
 /* Clear floats after the columns */
