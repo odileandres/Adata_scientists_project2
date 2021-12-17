@@ -184,13 +184,16 @@ According to our graph, men represent 80% of the quoted person whereas women rep
 We can conclude that the difference in terms of number of men against women is the key to explain the first graph we obtain.
 </p>
 
+<p> 
+</p>
+
 ### Are these people different in term of age?
 
 ![Percentage_global_peok.png](/images/age_repartition_hist.png)
 
 <p align="justify">
 According to our graph, in terms of percentage, women are more represented when they are young than when they are old, and it is kind of the opposite for men. 
-There is indeed a statistically significant difference between the mean of the age of alive men and women(pvalue=  ) .
+There is indeed a statistically significant difference between the mean of the age of alive men and women (pvalue=  ).
 </p>
 
 <p align="justify">
