@@ -31,7 +31,7 @@ cover-img: /images/Odile2.png
     <p style="margin: 0px;">
      <i>"The media reflects what the people say, the people reflect what the media says. Will we never tire of this mind-numbing game of mirrors?"</i>
     </p>
-    <p style="margin: 0px;align: right"
+    <p style="margin: 0px;" align: right>
       - Amin Maalouf
     </p>
    </quote>
@@ -223,7 +223,11 @@ cover-img: /images/Odile2.png
      <span class="dot" onclick="currentSlide(5)"></span>
      <span class="dot" onclick="currentSlide(6)"></span>
    </div>                                                                                          
-                                                                                         
+  
+  <p align="justify">
+  On the top 3 most quoted people in our dataset over the years, only two of them are women, Hillary Clinton and Nancy Pelosi. They are both politician. 
+  On the other hand, in this top 3, some of the men are company directors. We even find a football trainer. Which leads to the question: are men and women equally quoted on all topic or is there a gender-based discrimination on the topics? 
+  </p>                                                                                       
                                                                                        
                                                                                          
   <h3> How many different men are quoted in the dataset? </h3>
