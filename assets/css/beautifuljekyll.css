@@ -1046,9 +1046,9 @@ pre {
     
 .image-holder
 {
-  width: 2400px;
+  width: 700px;
   background-color: white;
-  height: 400px;
+  height: 500px;
   clear: both;
   position: center;
   -webkit-transition: left 2s;
