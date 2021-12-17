@@ -303,15 +303,15 @@ cover-img: /images/Odile2.png
 	
  In 2015, most of the quoted women work in the field of:
 <ol> 
-	<li>Art</li>
-	<li>Politique</li>
- <li>Sport</li>
+	<li>Arts</li>
+	<li>Politics</li>
+ <li>Sports</li>
 </ol>
  In 2015, most of the quoted men work in the field of: 
  <ol> 
-	<li>Sport</li>
-	<li>Politique</li>
- <li>Art</li>
+	<li>Sports</li>
+	<li>Politics</li>
+ <li>Arts</li>
 </ol>
 	 </p>
 <p align="justify">
