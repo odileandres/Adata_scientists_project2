@@ -23,15 +23,7 @@ cover-img: /images/Odile2.png
    </p>
  
    <h1> Inequal representation in the media in terms of coverage </h1>
-   <div class="background"></div>
-
-     <div class="background"></div>
-       <div class="quote">
-         <div class="line"></div>
-         <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/277/first-quote_1.png" />
-         <div class="line"></div>
-       </div>
-
+  
    <quote>
    <p>
    <i>"The media reflects what the people say, the people reflect what the media says. Will we never tire of this mind-numbing game of mirrors?"</i>
