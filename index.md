@@ -337,10 +337,23 @@ We could also suppose that more space was available for women in politic.
 On this graph we can see that on the topic that are traditionally reserved to men, like the army or science or manual work, men is big majority, whereas on topic like arts, civil service or education, women are more represented.
 Either women are less represented in the army field or manual work field, the dataset doesn't give us any information about that, or there is a gender-based discrimination.  
  </p >
- <img style="float: right;" src="/images/Heatmap_men_2015.png">
-<img style="float: right;" src="/images/Heatmap_women_2015.png">
-<img style="float: right;" src="/images/Heatmap_men_2020.png">
-<img style="float: right;" src="/images/Heatmap_women_2020.png">
+	
+<p align="justify"> 
+ <head>
+    <title>100 more represented speakers</title>
+  </head>
+  
+  <p></p>
+
+  <table align="center">
+    <tr>
+      <td> <img style="float: right;" src="/images/Heatmap_men_2015.png"></td>
+      <td><img style="float: right;" src="/images/Heatmap_women_2015.png"></td>
+    </tr>
+      <td><img style="float: right;" src="/images/Heatmap_men_2020.png"></td>
+      <td><img style="float: right;" src="/images/Heatmap_women_2020.png"></td>
+  </table>
+<p></p>	
  <h2> Inequal representation in the media in terms of political orientation </h2>
  <p></p>
  <hr style="color:gray;background-color:gray;width:50%">
