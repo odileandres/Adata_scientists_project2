@@ -15,7 +15,7 @@ cover-img: /images/Odile2.png
    And the media are not innocent in this social discrimination.
    Indeed, according to research pursued by the  <a href="https://beijing20.unwomen.org/en/in-focus/media">UNWomen</a> over more than 100 countries, sexism in the media nowadays is striking. In terms of managing positions, men still represent 73% of the top media management position, according to another study gathering 522 news media organizations. Moreover, about 46% of news stories spread gender stereotypes and only 6% promote gender equality. 
    </p>
- 
+ <br>
    <h2>Our goal: </h2>
    <p align="justify">
    In our analysis, we want to see whether the feminist movements from the last years had any significal impact on the representation of women in the media. 
@@ -23,9 +23,7 @@ cover-img: /images/Odile2.png
    <p align="justify">
    <b> <i> In other words, are women more represented nowadays than before 2015, are they represented in all the fields at the same level of men and is there still a discrimination based on age against women?</i> </b>
    </p>
- <p class="sautdeligne">
-
-</p> 
+ <br>
    <h1> Inequal representation in the media in terms of coverage </h1>
    <br>
    <hr style="color:gray;background-color:gray;width:50%">
@@ -44,9 +42,7 @@ cover-img: /images/Odile2.png
    <p align="justify">
    According to Amin Maalouf, if the attitude of the people has changes towards women, it must be felt in the medias. We are then going to observe the women representation in the media over the time, starting with the quote distribution over men and women.
    </p>
-<p class="sautdeligne">
-
-</p> 
+<br>
    <h3> Which percentage of the quotes are women's and which percentage men's? </h3>
   
    <section>
@@ -70,9 +66,7 @@ cover-img: /images/Odile2.png
   <p align="justify">
    But how is this difference in terms of number of occurence between men and women explained? Does this mean that <b>each man is on average more quoted than women</b> or <b>more men are quoted</b>?
   </p>
-<p class="sautdeligne">
-
-</p> 
+<br>
   <h3> How many quotation per individual? </h3>
   <h4> Major part of the population </h4>
   <p>
@@ -392,7 +386,17 @@ Either women are less represented in the army field or manual work field, the da
 
 </p> 
  <h1>Emotionnal context of the quotes</h1> 
- <p>
+ <p align="justify"> 
+  <table align="left" style="margin-left: -25%; margin-right: -25%; background-color: white; border: none;">
+    <tr>
+      <td> <img style="float: right;" src="/images/pie_sentiment_men_2015.png" width = "500"></td>
+      <td><img style="float: right;" src="/images/pie_sentiment_women_2015.png" width = "500"></td>
+</tr>
+      <td><img style="float: right;" src="/images/pie_sentiment_men_2020.png" width = "500"></td>
+      <td><img style="float: right;" src="/images/pie_sentiment_women_2020.png" width = "500"></td>
+  </table>
+</p>
+ <p align="justify"> 
  We want to find here the sentiment of the quote, or the feeling that it gives when it is read. Thus, we use a model trained to find 3 feelings : a negative, neutral and a positive one. Therefore, the four pie charts that we made are composed of three percentages each : negative, neutral and positive. The following pie graphics shows that throuout the years the context in which people are quoted in the media stays the same. Around 60 % of the quotes are cited in a positive context, 25% negative and 15% neutral. Further more, those pourcentages of sentimental contexts are globally the same for women and men. 
 </p>
   
