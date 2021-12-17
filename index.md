@@ -22,12 +22,23 @@ In our analysis, we want to see whether the feminist movements from the last yea
 </p>
  
 # Inequal representation in the media in terms of coverage
+<div class="background"></div>
+
+<div class="quote">
+  <div class="line"></div>
+  <p>
+     <i>"The media reflects what the people say, the people reflect what the media says. Will we never tire of this mind-numbing game of mirrors?"</i>
+     Amin Maalouf
+  </p>
+  <div class="line"></div>
+</div>
+
 <quote>
 <p>
 <i>"The media reflects what the people say, the people reflect what the media says. Will we never tire of this mind-numbing game of mirrors?"</i>
 Amin Maalouf
 </p>
- </quote>
+</quote>
 
 <p align="justify">
 According to Amin Maalouf, if the attitude of the people has changes towards women, it must be felt in the medias. We are then going to observe the women representation in the media over the time, starting with the quote distribution over men and women.
