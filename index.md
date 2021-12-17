@@ -13,11 +13,12 @@ And the media are not innocent in this social discrimination.
 Indeed, according to research pursued by the  <a href="https://beijing20.unwomen.org/en/in-focus/media">UNWomen</a> over more than 100 countries, sexism in the media nowadays is striking. In terms of managing positions, men still represent 73% of the top media management position, according to another study gathering 522 news media organizations. Moreover, about 46% of news stories spread gender stereotypes and only 6% promote gender equality. 
 </p>
  
- ### Goal:
+ ## Goal:
 <p align="justify">
 In our analysis, we want to see whether the feminist movements from the last years had any significal impact on the representation of women in the media. 
- 
-<b> <i> In other words, are women more represented nowadays than before 2015, are they represented in all the fields at the same level of men and is there still a discrimination based on age agaisnt women?</i> <b>
+</p>
+<p align="justify">
+<b> <i> In other words, are women more represented nowadays than before 2015, are they represented in all the fields at the same level of men and is there still a discrimination based on age agaisnt women?</i> </b>
 </p>
  
 # Inequal representation in the media in terms of coverage
@@ -37,7 +38,9 @@ According to Amin Maalouf, if the attitude of the people has changes towards wom
 <img style="float: right;" src="/images/Percentage_global_gender.png">
 
 <p align="justify">
-According to a simple analysis of the data, we can see very clearly that even though feminist events have occurred, the difference in terms of repartition of the representation hasn't significantly changed. Indeed, in our timelapse, the repartition of occurrences of speak between women and man stays on a base of 20% against 80%.
+With a simple look of the data, we can see very clearly that even though feminist events have occurred, the difference in terms of repartition of the representation is still huge. Indeed, in our timelapse, the repartition of occurrences of speak between women and man stays on a base of 20% against 80%.
+ 
+ With a simple
 </p >
 <p align="justify">
  But does this mean that <b>each man is on average more quoted than women</b> or <b>more men are quoted</b>?
