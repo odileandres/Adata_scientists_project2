@@ -57,6 +57,8 @@ However, the one-sided proportion z-test between 2015 and 2020 (p value = 4.8147
   Our graph doesn't show a strict difference between the median of the number of quotation per men and per women. However, the results of our one-sided ttest on the mean seem to say that there is a difference in occurence between men and women in our data (before performing the ttest, we removed the outliers of the data before the ttest by using the z-score criteria.):
   </p>
 
+  <p></p>
+  
   <table align="center" border="1">
      <tr>
        <th>Year</th>
@@ -88,13 +90,16 @@ However, the one-sided proportion z-test between 2015 and 2020 (p value = 4.8147
        <td>1.2243967841933978e-10</td>
      </tr>
   </table>
-
+  
+  <p></p>
 
   <h4> 100 more represented speakers </h4>
 
   <head>
     <title>100 more represented speakers</title>
   </head>
+  
+  <p></p>
 
   <table align="center" border="1">
     <tr>
@@ -124,6 +129,8 @@ However, the one-sided proportion z-test between 2015 and 2020 (p value = 4.8147
     </tr>
 
   </table>
+  
+  <p></p>
 
   <p align="justify">
   The number of women in the 100 more quoted person in our datset  doesn't seem to increase a lot over the last five years. 
