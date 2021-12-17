@@ -1139,3 +1139,11 @@ figcaption {
   from {opacity: .4}
   to {opacity: 1}
 }
+
+
+/*--- Quotes ---*/
+quote {
+  text-align: center;
+  color: blue;
+  font-style: italic;
+}
