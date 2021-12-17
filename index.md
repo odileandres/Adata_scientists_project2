@@ -339,7 +339,7 @@ Either women are less represented in the army field or manual work field, the da
  </p >
 	
 <p align="justify"> 
-  <table align="left" style="margin-left: -25%; margin-right: -25%;">
+  <table align="left" style="margin-left: -25%; margin-right: -25%; background-color: white;">
     <tr>
       <td> <img style="float: right;" src="/images/Heatmap_men_2015.png" width = "500"></td>
       <td><img style="float: right;" src="/images/Heatmap_women_2015.png" width = "500"></td>
@@ -368,6 +368,10 @@ Either women are less represented in the army field or manual work field, the da
  <img style="float: right;" src="/images/politic_ten_bigger_group.png">
  </p>
  
+ <h1>Emotionnal context of the quotes</h1> 
+ <p>
+ We want to find here the sentiment of the quote, or the feeling that it gives when it is read. Thus, we use a model trained to find 3 feelings : a negative, neutral and a positive one. Therefore, the four pie charts that we made are composed of three percentages each : negative, neutral and positive. The following pie graphics shows that throuout the years the context in which people are quoted in the media stays the same. Around 60 % of the quotes are cited in a positive context, 25% negative and 15% neutral. Further more, those pourcentages of sentimental contexts are globally the same for women and men. 
+</p>
   
  </body>
 </html>
