@@ -349,6 +349,16 @@ Either women are less represented in the army field or manual work field, the da
       <td><img style="float: right;" src="/images/Heatmap_men_2020.png" width = "500"></td>
       <td><img style="float: right;" src="/images/Heatmap_women_2020.png" width = "500"></td>
   </table>
+</p>
+<p align="justify">
+Then, we made heat-maps to visualise the occupations according to the age for women and men. On these graphs, the brighter it is, the more speakers there are. Therefore, as we can see for women's graphs, there is a clear part on younger artistic women and on older political women. For men's graphs, we can see a clear part on younger sportive men and on older political men. These findings confirm the results that we got previously, i.e. the top 3 occupations for men and women and the age distributions.
+As a conclusion, we can say that : 
+<ul>
+	<li> Younger women are more quoted that older women </li>
+	<li> Artistic and Politic women are more represented  than others women </li>
+	<li> Older men are more represented most of them are politicians.</li>
+</ul>	
+Therefore, women and men are not equally represented by age and by occupations.
 </p>	
 <br>
  <h1> Inequal representation in the media in terms of political orientation </h1>
