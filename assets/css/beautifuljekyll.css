@@ -1145,7 +1145,6 @@ figcaption {
 quote {
   text-align: center;
   color: blue;
-  background-color: green;
   font-size: 1.5rem;
   font-family: 'Times new roman', serif;
   margin-left: 0px;
@@ -1153,5 +1152,4 @@ quote {
   line-height: 1.5;
   margin-top: 20px;
   margin-bottom: 10px;
-  
 }
