@@ -1010,37 +1010,11 @@ pre {
   margin-left: auto;
   margin-right: auto;
 }
-
-/* --- Podium --- */
-.podium {
-  text-align: center;
-}
-.podium div {
-  width:300px;
-  height:200px;
-}
-.top {
-  background: white;
-  margin:auto
-}
-.left {
-  background: white;
-  display:inline-block;
-}
-.right {
-  background: white;
-  display:inline-block;
-}
     
 
 /*-- Image + légende--*/
 figure {
-    float: center;
-    width: 100%;
-    display: flex;
-    flex-flow: column;
-    padding: 5px;
-    max-width: 220px;
+    padding: 4px;
     margin: auto;
 }
 
@@ -1080,7 +1054,7 @@ figcaption {
 
 /* Hide the images by default */
 .mySlides {
-  display: active;
+  display: none;
 }
 
 /* Next & previous buttons */
