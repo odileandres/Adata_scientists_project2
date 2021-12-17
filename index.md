@@ -335,12 +335,29 @@ We could also suppose that more space was available for women in politic.
   According to the Olympic CIO report on <a href="https://olympics.com/cio/news/le-nombre-de-femmes-et-de-jeunes-membres-des-commissions-du-cio-atteint-un-niveau-record">Tokyo2021</a> , men and women are equally represented. Women represent 49% of the athletes against 34% in 1996. Moreover, in 2016, more than half of the american team was feminine.
   We could then conclude that media chooses to represent more regularly men than women. 
   </p >
- <p align="justify"> 
- <img style="float: right;" src="/images/percentage_per_occ.png">
-On this graph we can see that on the topic that are traditionally reserved to men, like the army or science or manual work, men is big majority, whereas on topic like arts, civil service or education, women are more represented.
-Either women are less represented in the army field or manual work field, the dataset doesn't give us any information about that, or there is a gender-based discrimination.  
- </p >
-<br>	
+  
+  <br>
+  
+  <section style = "magin-left: -25%; magin-right: -25%;">
+    <article1>
+      <p>
+       <figure>
+        <img style="float: right;" src="/images/percentage_per_occ.png">
+        <figcaption>...</figcaption>
+       </figure>
+      </p>
+    </article1>
+    
+    <article2>
+      <p align="justify" style="margin: 0px;">
+      On this graph we can see that on the topic that are traditionally reserved to men, like the army or science or manual work, men is big majority, whereas on topic like arts, civil service or education, women are more represented.
+Either women are less represented in the army field or manual work field, the dataset doesn't give us any information about that, or there is a gender-based discrimination.
+     </p >
+    </article2>
+  </section>
+  
+<br>
+  	
 <p align="justify"> 
   <table align="left" style="margin-left: -25%; margin-right: -25%; background-color: white;">
     <tr>
