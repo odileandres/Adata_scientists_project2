@@ -1,5 +1,6 @@
 // Dean Attali / Beautiful Jekyll 2020
 
+/*
 var BeautifulJekyllJS = {
 
   bigImgEl : null,
@@ -110,6 +111,8 @@ var BeautifulJekyllJS = {
     }
   }
 };
+
+*/
 
 
 // SlideShows ???
