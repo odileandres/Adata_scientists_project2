@@ -395,7 +395,7 @@ We can see that the parties that have the most women among their members are mos
 Therefore, we can see a link between the political orientation and women's representation.
  </p>
  <p>
- <img style="float: right;" src="/images/politic_ten_bigger_group.png">
+ <img class="center" src="/images/politic_ten_bigger_group.png">
  </p>
 <br>
  <h1>Emotionnal context of the quotes</h1> 
