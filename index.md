@@ -45,22 +45,22 @@ cover-img: /images/Odile2.png
 <br>
    <h3> Which percentage of the quotes are women's and which percentage men's? </h3>
   
-   <section>
-    <article class="left" style = "magin-left: -25%">
+   <section style = "magin-left: -25%; magin-right: -25%;">
+    <article1>
       <p>
        <figure>
         <img style="float: right;" src="/images/Percentage_global_gender.png">
         <figcaption>Percentage of representation in the media in therms of number of occurence, for men and women per year.</figcaption>
        </figure>
       </p>
-    </article>
+    </article1>
     
-    <article class="right" style = "magin-right: -25%">
+    <article2>
       <p align="justify" style="margin: 0px;">
       With a simple look of the data, we can see very clearly that even though feminist events have occurred, the difference in terms of repartition of the representation is still huge. Indeed, in our timelapse, the repartition of occurrences of speak between women and man stays on a base of 20% against 80%.
      However, the one-sided proportion z-test between 2015 and 2020 (p value = 4.814710546166949e-96) seems to indicate that there is indeed an increase in the coverage of the women over the five years of our dataset.
      </p >
-    </article>
+    </article2>
   </section>
 
   <p align="justify">
