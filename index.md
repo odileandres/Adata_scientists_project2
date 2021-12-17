@@ -231,15 +231,26 @@ cover-img: /images/Odile2.png
                                                                                        
                                                                                          
   <h3> How many different men are quoted in the dataset? </h3>
-  <p>
-  <img style="float: right;" src="/images/Percentage_global_peok.png">
-  </p>
 
-  <p align="justify">
-  According to our graph, men represent 80% of the quoted person whereas women represent only 20%. This repartition doesn't change over time.
+<section>
+    <article1>
+      <p>
+       <figure>
+        <img style="float: right;" src="/images/Percentage_global_peok.png">
+        <figcaption>Percentage of representation in the media in terms of number of quote, for men and women per year.</figcaption>
+       </figure>
+      </p>
+    </article1>
+    
+    <article2>
+      <p align="justify" style="margin: 0px;">
+      According to our graph, men represent 80% of the quoted person whereas women represent only 20%. This repartition doesn't change over time.
   We can conclude that the difference in terms of number of men against women is the key to explain the first graph we obtain.
-  </p>
-
+     </p >
+    </article2>
+  </section>
+  
+  
   <h3> Are these people different in term of age?</h3>
   <p>
   <img style="float: right;" src="/images/age_repartition_hist.png" width=500px>
