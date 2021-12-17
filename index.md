@@ -23,14 +23,14 @@ cover-img: /images/Odile2.png
    </p>
  
    <h1> Inequal representation in the media in terms of coverage </h1>
-   <hr style="height:2px;border-width:0;color:gray;background-color:gray;width:50%">
+   <hr style="color:gray;background-color:gray;width:50%">
    <quote>
    <p>
    <i>"The media reflects what the people say, the people reflect what the media says. Will we never tire of this mind-numbing game of mirrors?"</i>
    Amin Maalouf
    </p>
    </quote>
-   <hr style="height:2px;border-width:0;color:gray;background-color:gray;width:50%">
+   <hr style="color:gray;background-color:gray;width:50%">
 
 
    <p align="justify">
@@ -254,12 +254,13 @@ However, the one-sided proportion z-test between 2015 and 2020 (p value = 4.8147
  <\p > 
 
  <h2> Inequal representation in the media in terms of political orientation </h2>
- <hr style="height:2px;border-width:0;color:gray;background-color:gray;width:50%">
+ <p></p>
+ <hr style="color:gray;background-color:gray;width:50%">
  <quote> 
  <p> <i>"No one respects women more than I do."</i> 
  Donald Trump </p>
  </quote>
- <hr style="height:2px;border-width:0;color:gray;background-color:gray;width:50%">
+ <hr style="color:gray;background-color:gray;width:50%">
 
 
  <p> We chose to only work on the ten </p>
