@@ -14,7 +14,7 @@ cover-img: /images/Odile2.png
    Indeed, according to research pursued by the  <a href="https://beijing20.unwomen.org/en/in-focus/media">UNWomen</a> over more than 100 countries, sexism in the media nowadays is striking. In terms of managing positions, men still represent 73% of the top media management position, according to another study gathering 522 news media organizations. Moreover, about 46% of news stories spread gender stereotypes and only 6% promote gender equality. 
    </p>
  
-   <h2> Goal: </h2>
+   <h2>Our goal: </h2>
    <p align="justify">
    In our analysis, we want to see whether the feminist movements from the last years had any significal impact on the representation of women in the media. 
    </p>
