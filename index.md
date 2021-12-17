@@ -37,13 +37,16 @@ According to Amin Maalouf, if the attitude of the people has changes towards wom
 According to a simple analysis of the data, we can see very clearly that even though feminist events have occurred, the difference in terms of repartition of the representation hasn't significantly changed. Indeed, in our timelapse, the repartition of occurrences of speak between women and man stays on a base of 20% against 80%.
 The results of our one-sided ttest also ensure that there is a difference in occurence between men and women in our data
 </p>
-> 2015 : statistic=16.081761257154614, pvalue=3.6750044860932176e-58
-> 2016 : statistic=8.350871052699866, pvalue=6.818369664447138e-17 
-> 2017 : statistic=17.093578892657032, pvalue=1.8036016596622786e-65
-> 2018 : statistic=15.615830479171223, pvalue=6.0237859790679365e-55
-> 2019 : statistic=8.38377359026447, pvalue=5.154347860572652e-17
-> 2020 : statistic=6.436874220134217, pvalue=1.2243967841933978e-10
-
+<p align="justify">
+ <ul> 
+  <li> 2015 : statistic=16.081761257154614, pvalue=3.6750044860932176e-58 </li>
+  <li> 2016 : statistic=8.350871052699866, pvalue=6.818369664447138e-17 </li>
+  <li> 2017 : statistic=17.093578892657032, pvalue=1.8036016596622786e-65 </li>
+  <li> 2018 : statistic=15.615830479171223, pvalue=6.0237859790679365e-55 </li>
+  <li> 2019 : statistic=8.38377359026447, pvalue=5.154347860572652e-17 </li>
+  <li> 2020 : statistic=6.436874220134217, pvalue=1.2243967841933978e-10 </li>
+</ul> 
+</p >
 <p align="justify">
  But does this mean that <b>each man is on average more quoted than women</b> or <b>more men are quoted</b>?
 </p>
