@@ -397,9 +397,13 @@ According to our graph, men and women are not quoted for the same subjects. Inde
 ### Women in sport: 
 <p align="justify"> 
 According to the <a href="https://olympics.com/cio/news/le-nombre-de-femmes-et-de-jeunes-membres-des-commissions-du-cio-atteint-un-niveau-record">Olympic CIO report on Tokyo 2021<\a>, men and women are equally represented. Women represent 49% of the athletes against 34% in 1996. Moreover, in 2016, more than the half of the amercian theme was feminin.
-On the other hand, according to a report of <a hrf="https://www.plan-international.fr/news/2019-06-07-inegalites-entre-filles-et-garcons-dans-le-sport-causes-et-consequences">Plan International<\a> women engage less in sports activities. Indeed, their numbers show that in team sports, women's team only represent 10% of the total number of teams. However, quoted athletes or sport workers are most of the time famous. 
- We can then conclude that media choose to represent more regularly men than women.  
+We could then conclude that media choose to represent more regularly men than women. 
 <\p >
+ 
+ ### Men in arts:
+ <p align="justify"> 
+ According to our graph, the proportion of men quoted on the subject of art is smaller than the proportion of women. However, according to an article from T <a href="https://www.theguardian.com/culture/2018/apr/16/arts-industry-report-asks-where-are-all-the-working-class-people">The Guardian</a>, white-men are the best paid people in 
+ <\p > 
 
 ## Inequal representation in the media in terms of political orientation
 <p style="color:blue" class="center"> <i>"No one respects women more than I do."</i> 
