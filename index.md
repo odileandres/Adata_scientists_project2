@@ -306,12 +306,12 @@ Our graph doesn't show a strict difference between the number of quotation per m
         <span id="2019"></span>
         <span id="2020"></span>
         <div class="image-holder">
-            <img src="/images/2015.png" class="slider-image" height= "300"/>
-            <img src="/images/2016.png" class="slider-image" height= "300"/>
-            <img src="/images/2017bis.png" class="slider-image" height= "300"/>
-            <img src="/images/2018bis.png" class="slider-image" height= "300"/>
-            <img src="/images/2019.png" class="slider-image" height= "300"/>
-            <img src="/images/2020.png" class="slider-image" height= "300"/>
+            <img src="/images/2015.png" class="slider-image" />
+            <img src="/images/2016.png" class="slider-image" />
+            <img src="/images/2017bis.png" class="slider-image" />
+            <img src="/images/2018bis.png" class="slider-image" />
+            <img src="/images/2019.png" class="slider-image" />
+            <img src="/images/2020.png" class="slider-image"/>
         </div>
         <div class="button-holder">
              <a href="#2015" class="slider-change"></a>
