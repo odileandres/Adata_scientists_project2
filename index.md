@@ -62,6 +62,8 @@ cover-img: /images/Odile2.png
      </p >
     </article2>
   </section>
+	 
+<br>
 
   <p align="justify">
    But how is this difference in terms of number of occurrences between men and women explained? Does this mean that <b>each man is on average more quoted than women</b> or <b>more men are quoted</b>?
@@ -117,9 +119,6 @@ cover-img: /images/Odile2.png
 <br>
   <h4> 100 more represented speakers </h4>
 
-  <head>
-    <title>100 more represented speakers</title>
-  </head>
 <br>
 
   <table align="center" border="1">
@@ -232,29 +231,33 @@ cover-img: /images/Odile2.png
 <br>                                                                                    
   <h3> How many different men are quoted in the dataset? </h3>
 
-<section style = "magin-left: -25% magin-right: -25%">
-    <article class="left">
+<br>
+	 
+<section style = "magin-left: -25%; magin-right: -25%;">
+    <article1>
       <p>
        <figure>
         <img style="float: right;" src="/images/Percentage_global_peok.png">
         <figcaption>Percentage of representation in the media in terms of number of quotes, for men and women per year.</figcaption>
        </figure>
       </p>
-    </article>
+    </article1>
     
-    <article class="right">
+    <article2>
       <p align="justify" style="margin: 0px;">
       According to our graph, men represent 80% of the quoted person whereas women represent only 20%. This repartition doesn't change over time.
   We can conclude that the difference in terms of number of men against women is the key to explain the first graph we obtained.
      </p >
-    </article>
+    </article2>
   </section>
   
 <br>
   
   <h3> Are these people different in terms of age?</h3>
+	 
+<br>
   <p>
-  <img style="float: right;" src="/images/age_repartition_hist.png" width=500px>
+  <img class="center" src="/images/age_repartition_hist.png" width=700px>
   </p>
 <br>
   <p align="justify">
@@ -273,25 +276,22 @@ cover-img: /images/Odile2.png
   Indeed, women are still in a state of withdrawal compared to men. They are less present on the public scene, and when they are, the media coverage is smaller. But maybe it will happen with a delay?
   </p>
 <br>
+<br>
   <h1> Inequal representation in the media in terms of profession </h1>
+	 
+<br>
 
-  <div class="clearfix" align="center">
-    <div class="img-container">
-    <img src="/images/occ_female_2015.png" style="height: 300px">
-    </div>
-    <div class="img-container" style="float: right;">
-    <img src="/images/occ_male_2015.png" style="height:300px">
-    </div>
-  </div>
+ <table align="left" style="margin-left: -25%; margin-right: -25%; background-color: white; border: none;">
+    <tr>
+      <td><img src="/images/occ_female_2015.png" style="height: 300px"></td>
+      <td><img src="/images/occ_male_2015.png" style="height:300px"></td>
+</tr>
+      <td><img src="/images/occ_female_2020.png" style="height:300px"></td>
+      <td><img src="/images/occ_male_2020.png" style="height:300px"></td>
+ </table>
 
-  <div class="clearfix">
-    <div class="img-container">
-    <img src="/images/occ_female_2020.png" style="height:300px">
-    </div>
-    <div class="img-container" style="float: right;">
-    <img src="/images/occ_male_2020.png" style="height:300px">
-    </div>
-  </div>
+<br> 
+ 
 <ul>
  <li> sports: athletes </li>
  <li> arts: painter, musicians, compositors, writers, actors, models... </li>
