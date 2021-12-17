@@ -1147,7 +1147,7 @@ figcaption {
 quote {
   text-align: center;
   color: blue;
-  background: green;
+  background-color: green;
   font-size: 1.5rem;
   font-family: 'Times new roman', serif;
   margin-left: 0;
