@@ -1157,7 +1157,7 @@ quote {
 
 /* Create two columns/boxes that floats next to each other */
 article1 {
-  float: left;
+  display: table-cell;
   background: #ccc;
   padding: 20px;
   width: 50%;
@@ -1171,7 +1171,7 @@ article1 {
 }
 
 article2 {
-  float: left;
+  display: table-cell;
   padding: 20px;
   width: 50%;
   background-color: #f1f1f1;
