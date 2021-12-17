@@ -1040,7 +1040,7 @@ pre {
   margin-left: auto;
   margin-right: auto;
   margin-top: 0px;
-  text-align: center;
+  text-align: relative;
   overflow: hidden;
 }
     
@@ -1092,7 +1092,7 @@ pre {
   height: 10px;
   width: 10px;
   border-radius: 5px;
-  background-color: black;
+  background-color: red;
 }
     
 
