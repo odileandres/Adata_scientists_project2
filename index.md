@@ -381,16 +381,16 @@ Therefore, women and men are not equally represented by age and by occupations.
  </p>
 <br>
  <h1>Emotionnal context of the quotes</h1> 
- <p align="justify"> 
-  <table align="left" style="margin-left: -25%; margin-right: -25%; background-color: white; border: none;">
+ 
+ <table align="left" style="margin-left: -25%; margin-right: -25%; background-color: white; border: none;">
     <tr>
-      <td> <img style="float: right;" src="/images/pie_sentiment_men_2015.png" width = "500"></td>
-      <td><img style="float: right;" src="/images/pie_sentiment_women_2015.png" width = "500"></td>
+      <td> <img style="float: right;" src="/images/pie_sentiment_men_2015.png" width = "300"></td>
+      <td><img style="float: right;" src="/images/pie_sentiment_women_2015.png" width = "300"></td>
 </tr>
-      <td><img style="float: right;" src="/images/pie_sentiment_men_2020.png" width = "500"></td>
-      <td><img style="float: right;" src="/images/pie_sentiment_women_2020.png" width = "500"></td>
-  </table>
-</p>
+      <td><img style="float: right;" src="/images/pie_sentiment_men_2020.png" width = "300"></td>
+      <td><img style="float: right;" src="/images/pie_sentiment_women_2020.png" width = "300"></td>
+ </table>
+
 <br>
  <p align="justify"> 
  We want to find here the sentiment of the quote, or the feeling that it gives when it is read. Thus, we use a model trained to find 3 feelings : a negative, neutral and a positive one. Therefore, the four pie charts that we made are composed of three percentages each : negative, neutral and positive. The following pie graphics shows that throuout the years the context in which people are quoted in the media stays the same. Around 60 % of the quotes are cited in a positive context, 25% negative and 15% neutral. Further more, those pourcentages of sentimental contexts are globally the same for women and men. 
