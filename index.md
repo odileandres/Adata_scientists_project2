@@ -5,8 +5,6 @@ subtitle: Men and women, equals in the eyes of the media?
 cover-img: /images/Odile2.png
 ---
 
-# Introduction to the problem
-
 <img class="center" src="/images/6ibbh0oB4OGAGZm4PSuBh9.jpg">
 
 <p align="justify">
@@ -15,8 +13,10 @@ And the media are not innocent in this social discrimination.
 Indeed, according to research pursued by the  <a href="https://beijing20.unwomen.org/en/in-focus/media">UNWomen</a> over more than 100 countries, sexism in the media nowadays is striking. In terms of managing positions, men still represent 73% of the top media management position, according to another study gathering 522 news media organizations. Moreover, about 46% of news stories spread gender stereotypes and only 6% promote gender equality. 
 </p>
  
+ ### Goal:
 <p align="justify">
-In our analysis, we want to see whether the differences between men and women can also been observe in quotation by journals.
+In our analysis, we want to see whether the feminist movements from the last years had any significal impact on the representation of women in the media. 
+<b> <i> In other words, are women more represented nowadays than before 2015, are they represented in all the fields at the same level of men and is there still a discrimination based on age agaisnt women?</i> <b>
 </p>
  
 # Inequal representation in the media in terms of coverage
@@ -44,10 +44,9 @@ According to a simple analysis of the data, we can see very clearly that even th
 
 ### How many quotation per individual?
 #### Major part of the population
-![without_outliers.png](/images/without_outliers.png)
-
+<img style="float: right;" src="/images/without_outliers.png">
 <p align="justify">
-Our graph doesn't show a strict difference between the number of quotation per men and per women. The results of our one-sided ttest also ensure that there is a difference in occurence between men and women in our data
+Our graph doesn't show a strict difference between the median of the number of quotation per men and per women. However, the results of our one-sided ttest on the mean seem to say that there is a difference in occurence between men and women in our data :
 </p>
 <p align="justify">
  <ul> 
