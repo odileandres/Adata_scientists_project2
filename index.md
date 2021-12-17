@@ -291,7 +291,11 @@ Our graph doesn't show a strict difference between the number of quotation per m
   
   
                                                                                          
-<html>                                                                                       
+<html>
+ <head>
+    <title>QNimate Slider</title>
+    <link href="/assets/css/beautifuljekyll.css" type="text/css" rel="stylesheet">
+</head>
   <body>
     <div class="slider">
       <span id="2015"></span>
