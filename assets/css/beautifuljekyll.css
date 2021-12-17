@@ -1198,7 +1198,7 @@ article2 {
 }
 
 article {
-  float: left;
+  display: table-cell;
 }
 
 /* Clear floats after the columns */
