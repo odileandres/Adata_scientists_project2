@@ -281,7 +281,7 @@ cover-img: /images/Odile2.png
 	 
 <br>
 
- <img class="center" src="/images/occ.png" width = "500">
+ <img class="center" src="/images/occ.png" width = "800">
 
 <br>
 	
