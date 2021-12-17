@@ -6,7 +6,9 @@ cover-img: /images/Odile2.png
 ---
 <html>
  <body>
+   <p>
    <img class="center" src="/images/6ibbh0oB4OGAGZm4PSuBh9.jpg">
+   </p>
 
    <p align="justify">
     Ever since 2007, <i>#MeToo</i> has been trending on social media, especially after the Weinstein gate in 2017. Since then, the debate around inequalities between men and women has been a burning subject. Organized sexual exploitation of young women, like the gate of Jeffrey Epstein, inequalities, trivialized sexism, sexual harassment, consent, all have been on the headline of the journals and have triggered massive demonstrations all over the world. 
@@ -39,7 +41,9 @@ cover-img: /images/Odile2.png
 
    <h3> Which percentage of the quotes are women's and which percentage men's? </h3>
 
+   <p>
    <img style="float: right;" src="/images/Percentage_global_gender.png">
+   </p>
 
    <p align="justify">
    With a simple look of the data, we can see very clearly that even though feminist events have occurred, the difference in terms of repartition of the representation is still huge. Indeed, in our timelapse, the repartition of occurrences of speak between women and man stays on a base of 20% against 80%.
@@ -52,7 +56,9 @@ However, the one-sided proportion z-test between 2015 and 2020 (p value = 4.8147
 
   <h3> How many quotation per individual? </h3>
   <h4> Major part of the population </h4>
+  <p>
   <img style="float: right;" src="/images/without_outliers.png">
+  </p>
   <p align="justify">
   Our graph doesn't show a strict difference between the median of the number of quotation per men and per women. However, the results of our one-sided ttest on the mean seem to say that there is a difference in occurence between men and women in our data (before performing the ttest, we removed the outliers of the data before the ttest by using the z-score criteria.):
   </p>
@@ -200,7 +206,9 @@ However, the one-sided proportion z-test between 2015 and 2020 (p value = 4.8147
                                                                                        
                                                                                          
   <h3> How many different men are quoted in the dataset? </h3>
+  <p>
   <img style="float: right;" src="/images/Percentage_global_peok.png">
+  </p>
 
   <p align="justify">
   According to our graph, men represent 80% of the quoted person whereas women represent only 20%. This repartition doesn't change over time.
@@ -208,7 +216,9 @@ However, the one-sided proportion z-test between 2015 and 2020 (p value = 4.8147
   </p>
 
   <h3> Are these people different in term of age?</h3>
+  <p>
   <img style="float: right;" src="/images/age_repartition_hist.png">
+  </p>
 
   <p align="justify">
   According to our graph, in terms of percentage, women are more represented when they are young than when they are old, and it is kind of the opposite for men. 
@@ -271,7 +281,10 @@ However, the one-sided proportion z-test between 2015 and 2020 (p value = 4.8147
 
 
  <p> We chose to only work on the ten </p>
-<img style="float: right;" src="/images/politic_ten_bigger_group.png">
+ <p>
+ <img style="float: right;" src="/images/politic_ten_bigger_group.png">
+ </p>
  
+  
  </body>
 </html>
