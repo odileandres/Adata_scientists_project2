@@ -1036,12 +1036,12 @@ pre {
 .slider-holder{
   width: 800px;
   height: 400px;
-  background-color: pink;
+  background-color: black;
   margin-left: auto;
   margin-right: auto;
   margin-top: 0px;
   text-align: center;
-  /*overflow: hidden;*/
+  overflow: hidden;
 }
     
 .image-holder
@@ -1050,7 +1050,7 @@ pre {
   background-color: white;
   height: 400px;
   clear: both;
-  position: relative;
+  position: center;
   -webkit-transition: left 2s;
   -moz-transition: left 2s;
   -o-transition: left 2s;
@@ -1062,7 +1062,7 @@ pre {
   float: left;
   margin: 0px;
   padding: 0px;
-  position: relative;
+  position: center;
 }
        
 #slider-image-1:target ~ .image-holder
