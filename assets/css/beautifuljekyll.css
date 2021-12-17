@@ -251,7 +251,8 @@ img {
   }
 }
 
-@media (min-width: 1200px) {
+
+(min-width: 1200px) {
   .navbar-custom .nav-item.dropdown:hover {
     background: rgba(0, 0, 0, 0.1);
   }
@@ -1152,4 +1153,37 @@ quote {
   margin-top: 20px;
   margin-bottom: 10px;
   text-align: center;
+}
+
+/*--- Image next to words ---*/
+
+/* Create two columns/boxes that floats next to each other */
+article1 {
+  float: left;
+  background: #ccc;
+  padding: 20px;
+  width: 50%;
+}
+
+article2 {
+  float: left;
+  padding: 20px;
+  width: 50%;
+  background-color: #f1f1f1;
+  height: 300px; /* only for demonstration, should be removed */
+}
+
+/* Clear floats after the columns */
+section::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */
+@media (max-width:auto) {
+  article1, article2 {
+    width: 100%;
+    height: auto;
+  }
 }
