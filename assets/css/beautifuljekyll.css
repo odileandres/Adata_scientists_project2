@@ -112,8 +112,8 @@ img::-moz-selection {
 
 img {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: -25%;
+  margin-right: -25%;
   margin-top: 1em;
   margin-bottom: 1em;
   max-width: 500px;
