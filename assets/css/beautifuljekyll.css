@@ -1148,7 +1148,10 @@ quote {
   background-color: green;
   font-size: 1.5rem;
   font-family: 'Times new roman', serif;
-  margin-left: 0;
-  margin-right: 0;
+  margin-left: 0px;
+  margin-right: 0px;
+  line-height: 1.5;
+  margin-top: 20px;
+  margin-bottom: 10px;
   
 }
