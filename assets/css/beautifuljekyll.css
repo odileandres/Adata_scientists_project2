@@ -1222,7 +1222,11 @@ section::after {
   }
 }
 
-td
-{
-padding: 0px;
+table{
+  border: 0;
+  border-collapse : collapse;
+}
+ 
+td{
+  padding: 0;
 }
