@@ -233,14 +233,14 @@ cover-img: /images/Odile2.png
   <h3> How many different men are quoted in the dataset? </h3>
 
 <section>
-    <article1>
+    <article class="left" style = "magin-left: -25%">
       <p>
        <figure>
         <img style="float: right;" src="/images/Percentage_global_peok.png">
         <figcaption>Percentage of representation in the media in term of number of quote, for men and women per year.</figcaption>
        </figure>
       </p>
-    </article1>
+    </article>
     
     <article2>
       <p align="justify" style="margin: 0px;">
