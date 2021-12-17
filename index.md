@@ -281,7 +281,7 @@ cover-img: /images/Odile2.png
 	 
 <br>
 
- <table align="left" style="margin-left: -25%; margin-right: -25%; background-color: white; border: none;">
+ <table align="center" style="margin-left: -25%; margin-right: -25%; background-color: white;">
     <tr>
       <td><img src="/images/occ_female_2015.png" style="height: 300px"></td>
       <td><img src="/images/occ_male_2015.png" style="height:300px"></td>
@@ -291,22 +291,32 @@ cover-img: /images/Odile2.png
  </table>
 
 <br> 
+	 <br>
+	 <br>
+	 <br>
+	 <br>
+	 <br>
+	 <br>
+	 <br>
+	 <br>
+	 <br>
  
 <ul>
- <li> sports: athletes </li>
- <li> arts: painter, musicians, compositors, writers, actors, models... </li>
- <li> politics: minister, president, head of government... </li>
- <li> science and technology: physicien, computer scientists, health professional, researcher, engineer, technician... </li>
- <li> religion: clergy... </li>
- <li> armed forces: soldiers... </li>
- <li> civil service: diplomat, public employee, activist... </li>
- <li> legal professionals: jurist, lawyers... </li>
- <li> manual work: artisan... </li>
- <li> education & studies: teacher, academic professional... </li>
- <li> business: entrepreneur, manager, executive... </li>
+ <li> Sports: athletes </li>
+ <li> Arts: painter, musicians, compositors, writers, actors, models... </li>
+ <li> Politics: minister, president, head of government... </li>
+ <li> Science and technology: physicien, computer scientists, health professional, researcher, engineer, technician... </li>
+ <li> Religion: clergy... </li>
+ <li> Armed forces: soldiers... </li>
+ <li> Civil service: diplomat, public employee, activist... </li>
+ <li> Legal professionals: jurist, lawyers... </li>
+ <li> Manual work: artisan... </li>
+ <li> Education & studies: teacher, academic professional... </li>
+ <li> Business: entrepreneur, manager, executive... </li>
 </ul>
 <p align="justify">
  According to our graph, the three most represented occupation fields are sports, arts and politics. 
+	
  In 2015, most of the quoted women work in the field of:
 <ol> 
 	<li>Art</li>
