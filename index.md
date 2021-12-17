@@ -23,7 +23,9 @@ cover-img: /images/Odile2.png
    <p align="justify">
    <b> <i> In other words, are women more represented nowadays than before 2015, are they represented in all the fields at the same level of men and is there still a discrimination based on age against women?</i> </b>
    </p>
- 
+ <p class="sautdeligne">
+
+</p> 
    <h1> Inequal representation in the media in terms of coverage </h1>
    <br>
    <hr style="color:gray;background-color:gray;width:50%">
@@ -42,7 +44,9 @@ cover-img: /images/Odile2.png
    <p align="justify">
    According to Amin Maalouf, if the attitude of the people has changes towards women, it must be felt in the medias. We are then going to observe the women representation in the media over the time, starting with the quote distribution over men and women.
    </p>
+<p class="sautdeligne">
 
+</p> 
    <h3> Which percentage of the quotes are women's and which percentage men's? </h3>
   
    <section>
@@ -66,7 +70,9 @@ cover-img: /images/Odile2.png
   <p align="justify">
    But how is this difference in terms of number of occurence between men and women explained? Does this mean that <b>each man is on average more quoted than women</b> or <b>more men are quoted</b>?
   </p>
+<p class="sautdeligne">
 
+</p> 
   <h3> How many quotation per individual? </h3>
   <h4> Major part of the population </h4>
   <p>
@@ -114,6 +120,9 @@ cover-img: /images/Odile2.png
 <p align="justify">
   We can conclude from our results that, on average, a man is more often quoted than a women. 
   </p>
+<p class="sautdeligne">
+
+</p> 
   <h4> 100 more represented speakers </h4>
 
   <head>
@@ -229,7 +238,9 @@ cover-img: /images/Odile2.png
   On the other hand, in this top 3, some of the men are company directors. We even find a football trainer. Which leads to the question: are men and women equally quoted on all topic or is there a gender-based discrimination on the topics? 
   </p>                                                                                       
                                                                                        
-                                                                                         
+ <p class="sautdeligne">
+
+</p>                                                                                      
   <h3> How many different men are quoted in the dataset? </h3>
 
 <section style = "magin-left: -25% magin-right: -25%">
@@ -250,6 +261,9 @@ cover-img: /images/Odile2.png
     </article>
   </section>
   
+<p class="sautdeligne">
+
+</p> 
   
   <h3> Are these people different in term of age?</h3>
   <p>
@@ -264,14 +278,18 @@ cover-img: /images/Odile2.png
   <p align="justify">
   The curious thing about the dead people that are quoted is that the repartition men /women is close to the same as today, the men are quoted approximately three to four times more than women!
   </p>
+<p class="sautdeligne">
 
+</p> 
   <h3> Conclusion</h3>
   <p align="justify">
   Our graphs and tests seem to indicate that women are less quoted in the media, and when a woman is quoted, she is on average less quoted than a man. Moreover, even though we have a statistically significant augmentation in the proportion of occurrences of women in our dataset, this augmentation is really small.  
   We can then conclude that even though many feminist events have occurred in the last five years, we don't clearly see the effect of these events now. 
   Indeed, women are still in a state of withdrawal compared to men. They are less present on the public scene, and when they are, the media coverage is smaller. But maybe it will happen with a delay?
   </p>
+<p class="sautdeligne">
 
+</p> 
   <h2> Inequal representation in the media in terms of profession </h2>
 
   <div class="clearfix" align="center">
@@ -326,7 +344,10 @@ Between 2015 and 2020, the proportion of quoted women in politic has increased, 
 		<li> The election of the new president was taking place</li>
 	</ul>
 We could also suppose that more space was available for women in politic. 
-<p>
+</p>
+<p class="sautdeligne">
+
+</p> 	
   <h3> Women in sport: </h3>
   <p align="justify"> 
   According to the Olympic CIO report on <a href="https://olympics.com/cio/news/le-nombre-de-femmes-et-de-jeunes-membres-des-commissions-du-cio-atteint-un-niveau-record">Tokyo2021</a> , men and women are equally represented. Women represent 49% of the athletes against 34% in 1996. Moreover, in 2016, more than the half of the amercian theme was feminin.
@@ -367,7 +388,9 @@ Either women are less represented in the army field or manual work field, the da
  <p>
  <img style="float: right;" src="/images/politic_ten_bigger_group.png">
  </p>
- 
+ <p class="sautdeligne">
+
+</p> 
  <h1>Emotionnal context of the quotes</h1> 
  <p>
  We want to find here the sentiment of the quote, or the feeling that it gives when it is read. Thus, we use a model trained to find 3 feelings : a negative, neutral and a positive one. Therefore, the four pie charts that we made are composed of three percentages each : negative, neutral and positive. The following pie graphics shows that throuout the years the context in which people are quoted in the media stays the same. Around 60 % of the quotes are cited in a positive context, 25% negative and 15% neutral. Further more, those pourcentages of sentimental contexts are globally the same for women and men. 
