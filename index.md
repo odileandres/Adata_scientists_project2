@@ -61,7 +61,7 @@ cover-img: /images/Odile2.png
   <h4> Major part of the population </h4>
   <img style="float: right;" src="/images/without_outliers.png">
   <p align="justify">
-  Our graph doesn't show a strict difference between the median of the number of quotation per men and per women. However, the results of our one-sided ttest on the mean seem to say that there is a difference in occurence between men and women in our data :
+  Our graph doesn't show a strict difference between the median of the number of quotation per men and per women. However, the results of our one-sided ttest on the mean seem to say that there is a difference in occurence between men and women in our data (before performing the ttest, we removed the outliers of the data before the ttest by using the z-score criteria.):
   </p>
 
   <table align="center" border="1">
@@ -132,6 +132,9 @@ cover-img: /images/Odile2.png
 
   </table>
 
+  <p align="justify">
+  The number of women in the 100 more quoted person in our datset  doesn't seem to increase a lot over the last five years. 
+  </p>
   
 <head>
     <title>QNimate Slider</title>
