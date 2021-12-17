@@ -298,30 +298,61 @@ Our graph doesn't show a strict difference between the number of quotation per m
      <link href="/assets/css/beautifuljekyll.css" >
 </head>
 <body>
-    <div class="slider-holder">
-        <span id="2015"></span>
-        <span id="2016"></span>
-        <span id="2017"></span>
-        <span id="2018"></span>
-        <span id="2019"></span>
-        <span id="2020"></span>
-        <div class="image-holder">
-            <img src="/images/2015.png" class="slider-image" />
-            <img src="/images/2016.png" class="slider-image" />
-            <img src="/images/2017bis.png" class="slider-image" />
-            <img src="/images/2018bis.png" class="slider-image" />
-            <img src="/images/2019.png" class="slider-image" />
-            <img src="/images/2020.png" class="slider-image"/>
-        </div>
-        <div class="button-holder">
-             <a href="#2015" class="slider-change"></a>
-             <a href="#2016" class="slider-change"></a>
-             <a href="#2017" class="slider-change"></a>
-             <a href="#2018" class="slider-change"></a>
-             <a href="#2019" class="slider-change"></a>
-             <a href="#2020" class="slider-change"></a>
-        </div>
+    <!-- Slideshow container -->
+    <div class="slideshow-container">
+
+    <!-- Full-width images with number and caption text -->
+    <div class="mySlides fade">
+        <div class="numbertext">1 / 6</div>
+        <img src="/images/2015.png" style="width:100%">
+        <div class="text">2015</div>
     </div>
+
+    <div class="mySlides fade">
+        <div class="numbertext">2 / 6</div>
+        <img src="/images/2016.png" style="width:100%">
+        <div class="text">2016</div>
+    </div>
+
+    <div class="mySlides fade">
+        <div class="numbertext">3 / 6</div>
+        <img src="/images/2017bis.png" style="width:100%">
+        <div class="text">2017</div>
+    </div>
+      
+    <div class="mySlides fade">
+        <div class="numbertext">4 / 6</div>
+        <img src="/images/2018bis.png" style="width:100%">
+        <div class="text">2018</div>
+    </div>
+      
+    <div class="mySlides fade">
+        <div class="numbertext">5 / 6</div>
+        <img src="/images/2019.png" style="width:100%">
+        <div class="text">2019</div>
+    </div>
+      
+    <div class="mySlides fade">
+        <div class="numbertext">6 / 6</div>
+        <img src="/images/2020.png" style="width:100%">
+        <div class="text">2020</div>
+    </div>
+
+      <!-- Next and previous buttons -->
+      <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+      <a class="next" onclick="plusSlides(1)">&#10095;</a>
+    </div>
+    <br>
+
+    <!-- The dots/circles -->
+    <div style="text-align:center">
+      <span class="dot" onclick="currentSlide(1)"></span>
+      <span class="dot" onclick="currentSlide(2)"></span>
+      <span class="dot" onclick="currentSlide(3)"></span>
+      <span class="dot" onclick="currentSlide(4)"></span>
+      <span class="dot" onclick="currentSlide(5)"></span>
+      <span class="dot" onclick="currentSlide(6)"></span>
+    </div> 
 </body>
 </html>                                                                                         
                                                                                          
