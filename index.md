@@ -246,7 +246,7 @@ cover-img: /images/Odile2.png
     <article2>
       <p align="justify" style="margin: 0px;">
       According to our graph, men represent 80% of the quoted person whereas women represent only 20%. This repartition doesn't change over time.
-  We can conclude that the difference in terms of number of men against women is the key to explain the first graph we obtained.
+  We can conclude that the difference in terms of number of men against women could be the key to explain the first graph we obtained.
      </p >
     </article2>
   </section>
@@ -364,6 +364,7 @@ Either women are less represented in the army or manual work field (the dataset 
 <p align="justify">
 Then, we made heat-maps to visualise the occupations according to the age for women and men. On these graphs, the brighter it is, the more speakers there are. Therefore, as we can see on women's graphs, there is a lighter area for younger artistic women and for older political women. On men's graphs, we can see a light area on younger sportive men and on older political men. These findings confirm the results that we got previously, i.e. the top 3 occupations for men and women and the age distributions.
 As a conclusion, we can say that : 
+<br>	
 <ul>
 	<li> Younger women are more quoted that older women </li>
 	<li> Women in arts and politics are more represented than women in other occupation fields. </li>
