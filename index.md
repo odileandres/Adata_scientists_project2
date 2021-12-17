@@ -28,7 +28,7 @@ cover-img: /images/Odile2.png
    <br>
    <hr style="color:gray;background-color:gray;width:50%">
    <quote>
-    <p margin: 0px>
+    <p style="margin: 0px;">
      <i>"The media reflects what the people say, the people reflect what the media says. Will we never tire of this mind-numbing game of mirrors?"</i>
      Amin Maalouf
     </p>
