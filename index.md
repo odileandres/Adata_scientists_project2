@@ -237,7 +237,7 @@ cover-img: /images/Odile2.png
       <p>
        <figure>
         <img style="float: right;" src="/images/Percentage_global_peok.png">
-        <figcaption>Percentage of representation in the media in terms of number of quote, for men and women per year.</figcaption>
+        <figcaption>Percentage of representation in the media in term of number of quote, for men and women per year.</figcaption>
        </figure>
       </p>
     </article1>
@@ -257,8 +257,8 @@ cover-img: /images/Odile2.png
   </p>
 
   <p align="justify">
-  According to our graph, in terms of percentage, women are more represented when they are young than when they are old, and it is kind of the opposite for men. 
-  There is indeed a statistically significant difference between the mean of the age of alive men and women(pvalue=  ) .
+  According to our graph, in term of percentage, women are more represented when they are young than when they are old, and it is kind of the opposite for men. 
+  The one-sided ttest (pvalue= 3,15e-46 ) proves that there is a statistically significant difference between the mean of the age of alive men and women. 
   </p>
 
   <p align="justify">
