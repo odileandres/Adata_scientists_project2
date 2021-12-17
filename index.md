@@ -20,10 +20,12 @@ In our analysis, we want to see whether the differences between men and women ca
 </p>
  
 # Inequal representation in the media in terms of coverage
-<p style="color:blue" align="center">
+<quote>
+<p>
 <i>"The media reflects what the people say, the people reflect what the media says. Will we never tire of this mind-numbing game of mirrors?"</i>
 Amin Maalouf
 </p>
+ </quote>
 
 <p align="justify">
 According to Amin Maalouf, if the attitude of the people has changes towards women, it must be felt in the medias. We are then going to observe the women representation in the media over the time, starting with the quote distribution over men and women.
@@ -248,8 +250,10 @@ We could then conclude that media choose to represent more regularly men than wo
 <\p > 
 
 ## Inequal representation in the media in terms of political orientation
-<p style="color:blue" class="center"> <i>"No one respects women more than I do."</i> 
+<quote> 
+<p> <i>"No one respects women more than I do."</i> 
 Donald Trump </p>
+ </quote>
 
 We chose to only work on the ten 
 <img style="float: right;" src="/images/politic_ten_bigger_group.png">
