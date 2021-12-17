@@ -267,8 +267,9 @@ cover-img: /images/Odile2.png
 
   <h3> Conclusion</h3>
   <p align="justify">
-  We can then conclude that even though many feminist events have occurred in the last five years, we don't see the effect of these events now. 
-  Indeed, over five years, the women are in a state of withdrawal compared to men. They are less present on the public scene, and when they are, the media coverage is smaller. But maybe it will happen with a delay?
+  Our graphs and tests seem to indicate that women are less quoted in the media, and when a woman is quoted, she is on average less quoted than a man. Moreover, even though we have a statistically significant augmentation in the proportion of occurrences of women in our dataset, this augmentation is really small.  
+  We can then conclude that even though many feminist events have occurred in the last five years, we don't clearly see the effect of these events now. 
+  Indeed, women are still in a state of withdrawal compared to men. They are less present on the public scene, and when they are, the media coverage is smaller. But maybe it will happen with a delay?
   </p>
 
   <h2> Inequal representation in the media in terms of subject </h2>
