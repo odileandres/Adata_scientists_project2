@@ -1162,7 +1162,7 @@ quote {
 article1 {
   float: left;
   padding: 20px;
-  width: 50%;
+  width: 45%;
   height: 400px; /* only for demonstration, should be removed */
 }
 
@@ -1170,7 +1170,7 @@ article2 {
   float: left;
   padding: 20px;
   background-color: #ccc;
-  width: 50%;
+  width: 55%;
   height: 400px; /* only for demonstration, should be removed */
 }
 
