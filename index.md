@@ -291,7 +291,7 @@ Our graph doesn't show a strict difference between the number of quotation per m
   
   
                                                                                          
-<html>                                                                                        
+                                                                                       
   <body>
     <div class="slider">
       <span id="2015"></span>
@@ -318,10 +318,7 @@ Our graph doesn't show a strict difference between the number of quotation per m
       </div>
     </div> 
   </body>
-</html>
-                                                                                         
-                                                                                         
-                                                                                         
+                                                                            
                                                                                          
                                                                                          
                                                                                          
