@@ -399,7 +399,7 @@ Therefore, we can see a link between the political orientation and women's repre
  </p>
 <br>
  <h1>Emotionnal context of the quotes</h1> 
- <img class="center" src="/images/pie_sentiment.png" width = "1000">
+ <img class="center" src="/images/pie_sentiment.png" width = "500">
 
 <br>
  <p align="justify"> 
