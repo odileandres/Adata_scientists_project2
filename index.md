@@ -318,7 +318,7 @@ cover-img: /images/Odile2.png
 	<li>Politique</li>
  <li>Art</li>
 </ol>
-
+	 </p>
 <p align="justify">
 Between 2015 and 2020, the proportion of quoted women in politic has increased, and the same proportion in art has decreased. The same pattern can be observed for men, proportion of men in politic increases, whereas proportion in sport decreases. 
 	<ul>
@@ -329,9 +329,9 @@ We could also suppose that more space was available for women in politic.
 <p>
   <h3> Women in sport: </h3>
   <p align="justify"> 
-  According to the Olympic CIO report on <a href="https://olympics.com/cio/news/le-nombre-de-femmes-et-de-jeunes-membres-des-commissions-du-cio-atteint-un-niveau-record">Tokyo2021<\a> , men and women are equally represented. Women represent 49% of the athletes against 34% in 1996. Moreover, in 2016, more than the half of the amercian theme was feminin.
+  According to the Olympic CIO report on <a href="https://olympics.com/cio/news/le-nombre-de-femmes-et-de-jeunes-membres-des-commissions-du-cio-atteint-un-niveau-record">Tokyo2021</a> , men and women are equally represented. Women represent 49% of the athletes against 34% in 1996. Moreover, in 2016, more than the half of the amercian theme was feminin.
   We could then conclude that media choose to represent more regularly men than women. 
-  <\p >
+  </p >
  <p align="justify"> 
  <img style="float: right;" src="/images/percentage_per_occ.png">
 On this graph we can see that on the topic that are traditionally reserved to men, like the army or science or manual work, men is big majority, whereas on topic like arts, civil service or education, women are more represented.
