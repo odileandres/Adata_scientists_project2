@@ -406,6 +406,7 @@ The following pie graphics show that throughout the years, the sentiment of the 
 	Finally, we can conclude that it seems that women are not quoted more or less negatively or positively than men. Thus, it may not play an important role in women's representation  in the media
 </p>
 
+<br>
 <h1>Final Conclusion </h1>
 	
 <p align="justify">
