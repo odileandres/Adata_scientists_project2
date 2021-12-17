@@ -406,7 +406,7 @@ The following pie graphics show that throughout the years, the sentiment of the 
 	Finally, we can conclude that it seems that women are not quoted more or less negatively or positively than men. Thus, it may not play an important role in women's representation  in the media
 </p>
 
-<h1>Final Conclusion >/h1>
+<h1>Final Conclusion </h1>
 	
 <p align="justify">
 	Despite the <i>#Metoo</i> movements these past few years, we cannot see a real improvement in women’s representation in the media. Men are much more represented in terms of occurrences, whatever their work, their occupations, their political orientations, or their age. There are still some improvements over the years though, as the proportions of quoted women slowly increased. However, women and men seem to be equally quoted, as the feelings they convey are in the same proportions. One thing that could explain these results is that people take a lot of time to change their minds, as the effects of feminist and progressive movements are slow. It is also the accumulation of these movements that make a clear improvement in women’s condition, the #Metoo movements are too recent.
