@@ -1189,13 +1189,13 @@ article2 {
 
 article {
   float: left;
-  width: auto;
 }
 
 /* Clear floats after the columns */
 section::after {
   content: "";
   display: table;
+  float: left;
   clear: both;
   margin-left: -25%;
   margin-right: -25%;
