@@ -13,12 +13,12 @@ cover-img: /images/Odile2.png
    <p align="justify">
     Ever since 2007, <i>#MeToo</i> has been trending on social media, especially after the Weinstein gate in 2017. Since then, the debate around inequalities between men and women has been a burning subject. Organized sexual exploitation of young women, like the gate of Jeffrey Epstein, inequalities, trivialized sexism, sexual harassment, consent, all have been on the headline of the journals and have triggered massive demonstrations all over the world. 
    And the media are not innocent in this social discrimination.
-   Indeed, according to research pursued by the  <a href="https://beijing20.unwomen.org/en/in-focus/media">UNWomen</a> over more than 100 countries, sexism in the media nowadays is striking. In terms of managing positions, men still represent 73% of the top media management position, according to another study gathering 522 news media organizations. Moreover, about 46% of news stories spread gender stereotypes and only 6% promote gender equality. 
+   Indeed, according to research pursued by the  <a href="https://beijing20.unwomen.org/en/in-focus/media">UNWomen</a> over more than 100 countries, sexism in the media nowadays is striking. In terms of managing positions, men still represent 73% of the top media management positions, according to another study gathering 522 news media organizations. Moreover, about 46% of news stories spread gender stereotypes and only 6% promote gender equality. 
    </p>
  <br>
    <h2>Our goal: </h2>
    <p align="justify">
-   In our analysis, we want to see whether the feminist movements from the last years had any significal impact on the representation of women in the media. 
+   In our analysis, we want to see whether the feminist movements from the last years had any significant impact on the representation of women in the media. 
    </p>
    <p align="justify">
    <b> <i> In other words, are women more represented nowadays than before 2015, are they represented in all the fields at the same level of men and is there still a discrimination based on age against women?</i> </b>
@@ -43,37 +43,37 @@ cover-img: /images/Odile2.png
    According to Amin Maalouf, if the attitude of the people has changes towards women, it must be felt in the medias. We are then going to observe the women representation in the media over the time, starting with the quote distribution over men and women.
    </p>
 <br>
-   <h3> Which percentage of the quotes are women's and which percentage men's? </h3>
+   <h3> Which percentage of the quotes are women's and which percentage are men's? </h3>
   
    <section style = "magin-left: -25%; magin-right: -25%;">
     <article1>
       <p>
        <figure>
         <img style="float: right;" src="/images/Percentage_global_gender.png">
-        <figcaption>Percentage of representation in the media in therms of number of occurence, for men and women per year.</figcaption>
+        <figcaption>Percentage of representation in the media in terms of number of occurrences, for men and women per year.</figcaption>
        </figure>
       </p>
     </article1>
     
     <article2>
       <p align="justify" style="margin: 0px;">
-      With a simple look of the data, we can see very clearly that even though feminist events have occurred, the difference in terms of repartition of the representation is still huge. Indeed, in our timelapse, the repartition of occurrences of speak between women and man stays on a base of 20% against 80%.
-     However, the one-sided proportion z-test between 2015 and 2020 (p value = 4.814710546166949e-96) seems to indicate that there is indeed an increase in the coverage of the women over the five years of our dataset.
+      With a simple look of the data, we can see very clearly that even though feminist events have occurred, the difference in terms of repartition of the representation is still huge. Indeed, in our timelapse, the repartition of occurrences of speak between women and men stays on a base of 20% against 80%.
+     However, the one-sided proportion z-test between 2015 and 2020 (p-value = 4.814710546166949e-96) seems to indicate that there is indeed an increase in the coverage of the women over the five years of our dataset.
      </p >
     </article2>
   </section>
 
   <p align="justify">
-   But how is this difference in terms of number of occurence between men and women explained? Does this mean that <b>each man is on average more quoted than women</b> or <b>more men are quoted</b>?
+   But how is this difference in terms of number of occurrences between men and women explained? Does this mean that <b>each man is on average more quoted than women</b> or <b>more men are quoted</b>?
   </p>
 <br>
-  <h3> How many quotation per individual? </h3>
+  <h3> How many quotations per individual? </h3>
   <h4> Major part of the population </h4>
   <p>
   <img class="center" src="/images/without_outliers.png" width=700px>
   </p>
   <p align="justify">
-  Our graph doesn't show a strict difference between the median of the number of quotation per men and per women. However, the results of our one-sided Welch's ttest on the mean seem to say that there is a difference in occurence between men and women in our data (before performing the ttest, we removed the outliers of the data before the ttest by using the z-score criteria.):
+  Our graph doesn't show a strict difference between the median of the number of quotations per men and per women. However, the results of our one-sided Welch's t-test on the mean seem to say that there is a difference in occurrences between men and women in our data (before performing the t-test, we removed the outliers of the data by using the z-score criterion) :
   </p>
 <br>
   <p></p>
@@ -112,7 +112,7 @@ cover-img: /images/Odile2.png
   
 <br>
 <p align="justify">
-  We can conclude from our results that, on average, a man is more often quoted than a women. 
+  We can conclude from our results that, on average, a man is more often quoted than a woman. 
   </p>
 <br>
   <h4> 100 more represented speakers </h4>
@@ -160,7 +160,7 @@ cover-img: /images/Odile2.png
   <br>
 
   <p align="justify">
-  The number of women in the 100 more quoted person in our datset  doesn't seem to increase a lot over the last five years. 
+  The number of women in the top 100 most quoted persons in our dataset doesn't seem to increase a lot over the last five years. 
   </p>
   <br>
 <head>
@@ -225,8 +225,8 @@ cover-img: /images/Odile2.png
    </div>                                                                                          
   <br>
   <p align="justify">
-  On the top 3 most quoted people in our dataset over the years, only two of them are women, Hillary Clinton and Nancy Pelosi. They are both politician. 
-  On the other hand, in this top 3, some of the men are company directors. We even find a football trainer. Which leads to the question: are men and women equally quoted on all topic or is there a gender-based discrimination on the topics? 
+  Among the top 3 most quoted people in our dataset over the years, only two of them are women, Hillary Clinton and Nancy Pelosi. They are both politicians. 
+  On the other hand, in this top 3, some of the men are company directors. We even find a football trainer. Which leads to the question: are men and women equally quoted on all topics or is there a gender-based discrimination on the topics? 
   </p>                                                                                       
                                                                                        
 <br>                                                                                    
@@ -237,7 +237,7 @@ cover-img: /images/Odile2.png
       <p>
        <figure>
         <img style="float: right;" src="/images/Percentage_global_peok.png">
-        <figcaption>Percentage of representation in the media in term of number of quote, for men and women per year.</figcaption>
+        <figcaption>Percentage of representation in the media in terms of number of quotes, for men and women per year.</figcaption>
        </figure>
       </p>
     </article>
@@ -245,21 +245,21 @@ cover-img: /images/Odile2.png
     <article class="right">
       <p align="justify" style="margin: 0px;">
       According to our graph, men represent 80% of the quoted person whereas women represent only 20%. This repartition doesn't change over time.
-  We can conclude that the difference in terms of number of men against women is the key to explain the first graph we obtain.
+  We can conclude that the difference in terms of number of men against women is the key to explain the first graph we obtained.
      </p >
     </article>
   </section>
   
 <br>
   
-  <h3> Are these people different in term of age?</h3>
+  <h3> Are these people different in terms of age?</h3>
   <p>
   <img style="float: right;" src="/images/age_repartition_hist.png" width=500px>
   </p>
 <br>
   <p align="justify">
-  According to our graph, in term of percentage, women are more represented when they are young than when they are old, and it is kind of the opposite for men. 
-  The one-sided ttest (pvalue= 3,15e-46 ) proves that there is a statistically significant difference between the mean of the age of alive men and women. 
+  According to our graph, in terms of percentage, women are more represented when they are young than when they are old, and it is kind of the opposite for men. 
+  The one-sided t-test (p-value = 3,15e-46) proves that there is a statistically significant difference between the mean of the age of alive men and women. 
   </p>
 
   <p align="justify">
@@ -293,27 +293,27 @@ cover-img: /images/Odile2.png
     </div>
   </div>
 <ul>
- <li> sport: athletes </li>
- <li> art: painter, musicians, compositors, writters, actors, mannequins... </li>
- <li> politic: minister, president, head of government... </li>
- <li> science: physicien, computer scientists, health professional, researcher, engineer, technician... </li>
+ <li> sports: athletes </li>
+ <li> arts: painter, musicians, compositors, writers, actors, models... </li>
+ <li> politics: minister, president, head of government... </li>
+ <li> science and technology: physicien, computer scientists, health professional, researcher, engineer, technician... </li>
  <li> religion: clergy... </li>
- <li> armed force: soldiers... </li>
+ <li> armed forces: soldiers... </li>
  <li> civil service: diplomat, public employee, activist... </li>
- <li> legal professional: jurist, lawyers... </li>
+ <li> legal professionals: jurist, lawyers... </li>
  <li> manual work: artisan... </li>
- <li> education studies: teacher, academic professional... </li>
+ <li> education & studies: teacher, academic professional... </li>
  <li> business: entrepreneur, manager, executive... </li>
 </ul>
 <p align="justify">
- According to our graph, the three bigger adressed topic are sport, art and politic. 
- In 2015, quoted women work in the filed of:
+ According to our graph, the three most represented occupation fields are sports, arts and politics. 
+ In 2015, most of the quoted women work in the field of:
 <ol> 
 	<li>Art</li>
 	<li>Politique</li>
  <li>Sport</li>
 </ol>
- In 2015, quoted men work in the field of: 
+ In 2015, most of the quoted men work in the field of: 
  <ol> 
 	<li>Sport</li>
 	<li>Politique</li>
@@ -321,7 +321,7 @@ cover-img: /images/Odile2.png
 </ol>
 	 </p>
 <p align="justify">
-Between 2015 and 2020, the proportion of quoted women in politic has increased, and the same proportion in art has decreased. The same pattern can be observed for men, proportion of men in politic increases, whereas proportion in sport decreases. 
+Between 2015 and 2020, the proportion of quoted women in politics has increased, and the same proportion in arts has decreased. The same pattern can be observed for men, the proportion of men in politics increases, whereas the proportion in sports decreases. 
 	<ul>
 		<li> Because of COVID, sport and art events have been canceled, so the mediatic coverage focus on someting else, like, for example the pandemic or the management of the crisis </li>
 		<li> The election of the new president was taking place</li>
@@ -331,8 +331,8 @@ We could also suppose that more space was available for women in politic.
 <br>	
   <h3> Women in sport: </h3>
   <p align="justify"> 
-  According to the Olympic CIO report on <a href="https://olympics.com/cio/news/le-nombre-de-femmes-et-de-jeunes-membres-des-commissions-du-cio-atteint-un-niveau-record">Tokyo2021</a> , men and women are equally represented. Women represent 49% of the athletes against 34% in 1996. Moreover, in 2016, more than the half of the amercian theme was feminin.
-  We could then conclude that media choose to represent more regularly men than women. 
+  According to the Olympic CIO report on <a href="https://olympics.com/cio/news/le-nombre-de-femmes-et-de-jeunes-membres-des-commissions-du-cio-atteint-un-niveau-record">Tokyo2021</a> , men and women are equally represented. Women represent 49% of the athletes against 34% in 1996. Moreover, in 2016, more than half of the american team was feminine.
+  We could then conclude that media chooses to represent more regularly men than women. 
   </p >
  <p align="justify"> 
  <img style="float: right;" src="/images/percentage_per_occ.png">
@@ -351,7 +351,7 @@ Either women are less represented in the army field or manual work field, the da
   </table>
 </p>
 <p align="justify">
-Then, we made heat-maps to visualise the occupations according to the age for women and men. On these graphs, the brighter it is, the more speakers there are. Therefore, as we can see for women's graphs, there is a clear part on younger artistic women and on older political women. For men's graphs, we can see a clear part on younger sportive men and on older political men. These findings confirm the results that we got previously, i.e. the top 3 occupations for men and women and the age distributions.
+Then, we made heat-maps to visualise the occupations according to the age for women and men. On these graphs, the brighter it is, the more speakers there are. Therefore, as we can see for women's graphs, there is a lighter area for younger artistic women and for older political women. For men's graphs, we can see a clear part on younger sportive men and on older political men. These findings confirm the results that we got previously, i.e. the top 3 occupations for men and women and the age distributions.
 As a conclusion, we can say that : 
 <ul>
 	<li> Younger women are more quoted that older women </li>
