@@ -1185,6 +1185,18 @@ article2 {
   margin-right: -25%;
 }
 
+.cite {
+  color: white;
+  background-color: #f1f1f1;
+  font-size: 1.5rem;
+  font-family: 'Times new roman', serif;
+  margin-left: -25%;
+  margin-right: -25%;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
 article {
   float: left;
 }
