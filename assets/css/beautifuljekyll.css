@@ -1160,7 +1160,7 @@ article1 {
   float: left;
   background: #ccc;
   padding: 20px;
-  width: 75%;
+  width: 50%;
   margin-left: -25%;
 }
 .left {
@@ -1174,7 +1174,7 @@ article1 {
 article2 {
   float: left;
   padding: 20px;
-  width: 75%;
+  width: 50%;
   background-color: #f1f1f1;
   margin-right: -25%;
 }
