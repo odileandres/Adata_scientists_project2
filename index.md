@@ -131,7 +131,13 @@ However, the one-sided proportion z-test between 2015 and 2020 (p value = 4.8147
       <td>81</td>
       <td>82</td>
     </tr>
-
+      <th>Proportion of women occurrences</th>
+      <td>11%</td>
+      <td>14%</td>
+      <td>14%</td>
+      <td>13%</td>
+      <td>17%</td>
+      <td>14%</td>
   </table>
   
   <p></p>
