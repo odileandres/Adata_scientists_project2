@@ -91,29 +91,29 @@ Our graph doesn't show a strict difference between the number of quotation per m
 <div class="top"> 
   
   <body>
-    
+    <figure>
          <img class="center" src="/images/obama.jpg" height="200">
          <figcaption>Barack Obama <br>
           304,004 occurences</figcaption>
-     
+     </figure>
   </body>
 </div>
 <div class="left">
  <body>
-     
+     <figure>
          <img class="center" src="/images/francois.jpg" height="200">
          <figcaption>Pope Francis <br>
           119'959 occurences</figcaption>
-     
+     </figure>
   </body>
 </div>
  <div class="right">
   <body>
-    
+     <figure>
          <img class="center" src="/images/clinton1.jpg" height="200">
          <figcaption>Hillary Clinton <br>
           100'121 occurences</figcaption>
-   
+     </figure>
   </body>
 </div>
 </div>
