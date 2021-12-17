@@ -322,9 +322,13 @@ cover-img: /images/Odile2.png
  <h2> Inequal representation in the media in terms of political orientation </h2>
  <p></p>
  <hr style="color:gray;background-color:gray;width:50%">
- <quote class="center"> 
- <i>"No one respects women more than I do."</i> 
- Donald Trump
+ <quote class="center">
+  <p style="margin: 0px;">
+   <i>"No one respects women more than I do."</i>
+  </p>
+  <p style="margin: 0px; text-align: right;">
+      - Donald Trump
+  </p>
  </quote>
  <hr style="color:gray;background-color:gray;width:50%">
 
