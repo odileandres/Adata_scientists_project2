@@ -1190,12 +1190,6 @@ quote {
   width: 100px;
 }
 
-img {
-    -webkit-animation: adjustHue 10s infinite;
-    -moz-animation: adjustHue 10s infinite;
-    animation: adjustHue 10s infinite;
-}
-
 @-webkit-keyframes adjustHue { 
   50% {
     -webkit-filter: saturate(150%) hue-rotate(-35deg);
