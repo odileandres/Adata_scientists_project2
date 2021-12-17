@@ -1035,7 +1035,7 @@ pre {
 
 /*-- Image + légende--*/
 figure {
-    float: right;
+    float: center;
     width: 100%;
     display: flex;
     flex-flow: column;
