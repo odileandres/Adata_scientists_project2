@@ -125,29 +125,29 @@ Our graph doesn't show a strict difference between the number of quotation per m
 <div class="top"> 
   
   <body>
-
+     <figure>
          <img class="center" src="/images/obama2.jpg" height="200">
          <figcaption>Barack Obama <br>
           224'790 occurences</figcaption>
-
+     </figure>
   </body>
 </div>
 <div class="left">
  <body>
-
+     <figure>
          <img class="center" src="/images/clinton.jpg" height="200">
          <figcaption>Hillary Clinton <br>
           138'501 occurences</figcaption>
-
+     </figure>
   </body>
 </div>
  <div class="right">
   <body>
-
+     <figure>
          <img class="center" src="/images/sanders.jpg" height="200">
          <figcaption>Bernie Sanders <br>
           55'228 occurences</figcaption>
-
+     </figure>
   </body>
 </div>
 </div>
@@ -159,29 +159,29 @@ Our graph doesn't show a strict difference between the number of quotation per m
 <div class="top"> 
   
   <body>
-
+      <figure>
          <img class="center" src="/images/trump.jpg" height="200">
          <figcaption>Donald Trump <br>
           904'670 occurences</figcaption>
-
+      </figure>
   </body>
 </div>
 <div class="left">
  <body>
-
+     <figure> 
          <img class="center" src="/images/tillerson.jpg" height="200">
          <figcaption>Rex Tillerson <br>
           172'331 occurences</figcaption>
-
+     </figure>
   </body>
 </div>
  <div class="right">
   <body>
-
+      <figure>
          <img class="center" src="/images/mackey.jpg" height="200">
          <figcaption>John Mackey <br>
           128'554 occurences</figcaption>
-
+      </figure>
   </body>
 </div>
 </div>
@@ -192,29 +192,29 @@ Our graph doesn't show a strict difference between the number of quotation per m
 <div class="top"> 
   
   <body>
-
+      <figure>
          <img class="center" src="/images/trump1.jpg" height="200">
          <figcaption>Donald Trump <br>
           998'190 occurences</figcaption>
-
+      </figure>
   </body>
 </div>
 <div class="left">
  <body>
-
+      <figure>
          <img class="center" src="/images/pompeo.jpg" height="200">
          <figcaption>Mike Pompeo <br>
           112'608 occurences</figcaption>
-
+      </figure>
   </body>
 </div>
  <div class="right">
   <body>
-
+      <figure>
          <img class="center" src="/images/mourinho.jpg" height="200">
          <figcaption>José Mourinho  <br>
           106'791 occurences</figcaption>
-
+      </figure>
   </body>
 </div>
 </div>
@@ -225,29 +225,29 @@ Our graph doesn't show a strict difference between the number of quotation per m
 <div class="top"> 
   
   <body>
-
+      <figure>
          <img class="center" src="/images/trump2.jpg" height="200">
          <figcaption>Donald Trump <br>
           535'689 occurences</figcaption>
-
+      </figure>
   </body>
 </div>
 <div class="left">
  <body>
-
+      <figure>
          <img class="center" src="/images/johnson.jpg" height="200">
          <figcaption>Boris Johnson <br>
           164'369 occurences</figcaption>
-
+      </figure>
   </body>
 </div>
  <div class="right">
   <body>
-
+      <figure>
          <img class="center" src="/images/Pelosi.jpg" height="200">
          <figcaption>Nancy Pelosi <br>
           115'448 occurences</figcaption>
-
+      </figure>
   </body>
 </div>
 </div>
@@ -258,29 +258,29 @@ Our graph doesn't show a strict difference between the number of quotation per m
 <div class="top"> 
   
   <body>
-
+      <figure>
          <img class="center" src="/images/trump3.jpg" height="200">
          <figcaption>Donald Trump <br>
           137'385 occurences</figcaption>
-
+      </figure>
   </body>
 </div>
 <div class="left">
  <body>
-
+      <figure>
          <img class="center" src="/images/tedros.jpeg" height="200">
          <figcaption>Tedros Adhanom Ghebreyesus <br>
           58'558 occurences</figcaption>
-
+      </figure>
   </body>
 </div>
  <div class="right">
   <body>
-
+      <figure>
          <img class="center" src="/images/johnson2.jpg" height="200">
          <figcaption>Boris Johnson <br>
           50'583 occurences</figcaption>
-
+      </figure>
   </body>
 </div>
 </div>
