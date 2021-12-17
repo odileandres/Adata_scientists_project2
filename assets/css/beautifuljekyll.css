@@ -1036,7 +1036,7 @@ pre {
 .slider {
   width: 500px;
   height: 300px;
-  background-color: yellow;
+  background-color: black;
   margin-left: auto;
   margin-right: auto;
   margin-top: 0px;
@@ -1045,7 +1045,7 @@ pre {
 }
 .image-container {
   width: 1500px;
-  background-color: pink;
+  background-color: white;
   height: 300px;
   clear: both;
   position: relative;
@@ -1078,7 +1078,7 @@ pre {
   height: 15px;
   width: 15px;
   border-radius: 50px;
-  background-color: white;
+  background-color: black;
 }
 
 /*-- Image + légende--*/
