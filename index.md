@@ -68,7 +68,7 @@ cover-img: /images/Odile2.png
   <img class="center" src="/images/without_outliers.png" width=700px>
   </p>
   <p align="justify">
-  Our graph doesn't show a strict difference between the median of the number of quotation per men and per women. However, the results of our one-sided ttest on the mean seem to say that there is a difference in occurence between men and women in our data (before performing the ttest, we removed the outliers of the data before the ttest by using the z-score criteria.):
+  Our graph doesn't show a strict difference between the median of the number of quotation per men and per women. However, the results of our one-sided Welch's ttest on the mean seem to say that there is a difference in occurence between men and women in our data (before performing the ttest, we removed the outliers of the data before the ttest by using the z-score criteria.):
   </p>
 
   <p></p>
@@ -106,7 +106,9 @@ cover-img: /images/Odile2.png
   </table>
   
   <p></p>
-
+<p align="justify">
+  We can conclude from our results that, on average, a man is more often quoted than a women. 
+  </p>
   <h4> 100 more represented speakers </h4>
 
   <head>
