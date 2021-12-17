@@ -1150,4 +1150,7 @@ quote {
   background: green;
   font-size: 1.5rem;
   font-family: 'Times new roman', serif;
+  margin-left: 0;
+  margin-right: 0;
+  
 }
