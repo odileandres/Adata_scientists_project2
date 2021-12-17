@@ -30,7 +30,9 @@ cover-img: /images/Odile2.png
    <quote>
     <p style="margin: 0px;">
      <i>"The media reflects what the people say, the people reflect what the media says. Will we never tire of this mind-numbing game of mirrors?"</i>
-     Amin Maalouf
+    </p>
+    <p style="margin: 0px;align: right"
+      - Amin Maalouf
     </p>
    </quote>
    <hr style="color:gray;background-color:gray;width:50%">
@@ -46,7 +48,10 @@ cover-img: /images/Odile2.png
    <section>
     <article1>
       <p>
-      <img style="float: right;" src="/images/Percentage_global_gender.png">
+       <figure>
+        <img style="float: right;" src="/images/Percentage_global_gender.png">
+        <figcaption>Percentage of representation in the media in therms of number of occurence, for men and women per year.</figcaption>
+       </figure>
       </p>
     </article1>
     
