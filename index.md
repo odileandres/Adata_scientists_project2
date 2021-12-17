@@ -318,7 +318,7 @@ cover-img: /images/Odile2.png
 	<li>Politique</li>
  <li>Art</li>
 </ol>
-<\p >
+
 <p align="justify">
 Between 2015 and 2020, the proportion of quoted women in politic has increased, and the same proportion in art has decreased. The same pattern can be observed for men, proportion of men in politic increases, whereas proportion in sport decreases. 
 	<ul>
