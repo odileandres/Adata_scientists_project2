@@ -1177,6 +1177,8 @@ section::after {
   content: "";
   display: table;
   clear: both;
+  margin-left: -25%;
+  margin-right: -25%;
 }
 
 /* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */
