@@ -304,37 +304,37 @@ Our graph doesn't show a strict difference between the number of quotation per m
     <!-- Full-width images with number and caption text -->
     <div class="mySlides fade">
         <div class="numbertext">1 / 6</div>
-        <img src="/images/2015.png" style="width:100%">
+        <img src="/images/2015.PNG" style="width:100%">
         <div class="text">2015</div>
     </div>
 
     <div class="mySlides fade">
         <div class="numbertext">2 / 6</div>
-        <img src="/images/2016.png" style="width:100%">
+        <img src="/images/2016.PNG" style="width:100%">
         <div class="text">2016</div>
     </div>
 
     <div class="mySlides fade">
         <div class="numbertext">3 / 6</div>
-        <img src="/images/2017bis.png" style="width:100%">
+        <img src="/images/2017.PNG" style="width:100%">
         <div class="text">2017</div>
     </div>
       
     <div class="mySlides fade">
         <div class="numbertext">4 / 6</div>
-        <img src="/images/2018bis.png" style="width:100%">
+        <img src="/images/2018.PNG" style="width:100%">
         <div class="text">2018</div>
     </div>
       
     <div class="mySlides fade">
         <div class="numbertext">5 / 6</div>
-        <img src="/images/2019.png" style="width:100%">
+        <img src="/images/2019.PNG" style="width:100%">
         <div class="text">2019</div>
     </div>
       
     <div class="mySlides fade">
         <div class="numbertext">6 / 6</div>
-        <img src="/images/2020.png" style="width:100%">
+        <img src="/images/2020.PNG" style="width:100%">
         <div class="text">2020</div>
     </div>
 
