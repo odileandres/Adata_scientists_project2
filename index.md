@@ -41,12 +41,11 @@ cover-img: /images/Odile2.png
 
    <p align="justify">
    With a simple look of the data, we can see very clearly that even though feminist events have occurred, the difference in terms of repartition of the representation is still huge. Indeed, in our timelapse, the repartition of occurrences of speak between women and man stays on a base of 20% against 80%.
- 
-   With a simple
+However, the one-sided proportion z-test between 2015 and 2020 (p value = 4.814710546166949e-96) seems to indicate that there is indeed an increase in the coverage of the women over the five years of our dataset.
   </p >
 
   <p align="justify">
-   But does this mean that <b>each man is on average more quoted than women</b> or <b>more men are quoted</b>?
+   But how is this difference in terms of number of occurence between men and women explained? Does this mean that <b>each man is on average more quoted than women</b> or <b>more men are quoted</b>?
   </p>
 
   <h3> How many quotation per individual? </h3>
