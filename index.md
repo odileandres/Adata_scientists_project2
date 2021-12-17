@@ -415,7 +415,10 @@ Therefore, we can see a link between the political orientation and women's repre
 
 <br>
  <p align="justify"> 
- We want to find here the sentiment of the quote, or the feeling that it gives when it is read. Thus, we use a model trained to find 3 feelings : a negative, neutral and a positive one. Therefore, the four pie charts that we made are composed of three percentages each : negative, neutral and positive. The following pie graphics shows that throuout the years the context in which people are quoted in the media stays the same. Around 60 % of the quotes are cited in a positive context, 25% negative and 15% neutral. Further more, those pourcentages of sentimental contexts are globally the same for women and men. 
+ We want to find here the sentiment with which a person is quoted, or the feeling that the author of the article gives when citing a person. Thus, we use <a href="https://github.com/cjhutto/vaderSentiment">VADER</a>, <i>a lexicon and rule-based sentiment analysis tool<\i> capable of classifying text in three sentiment categories: a negative, a neutral and a positive one.
+The following pie graphics show that throughout the years, the sentiment of the context in which people are quoted in the media stays the same. Around 60 % of the quotes are cited in a positive way, 25% in a negative way, and 15% in a neutral way. Furthermore, these percentages of sentimental contexts are globally the same for women and men.
+	
+	Finally, we can conclude that it seems that women are not quoted more or less negatively or positively than men. Thus, it may not play an important role in women's representation  in the media
 </p>
   
  </body>
