@@ -281,16 +281,9 @@ cover-img: /images/Odile2.png
 	 
 <br>
 
- <table align="center" style="margin-left: -25%; margin-right: -25%; background-color: white;">
-    <tr>
-      <td><img src="/images/occ_female_2015.png" style="height: 300px"></td>
-      <td><img src="/images/occ_male_2015.png" style="height:300px"></td>
-</tr>
-      <td><img src="/images/occ_female_2020.png" style="height:300px"></td>
-      <td><img src="/images/occ_male_2020.png" style="height:300px"></td>
- </table>
+ <img class="center" src="/images/occ.png" width = "500">
 
-<br> 
+<br>
 	
 <ul>
  <li> Sports: athletes </li>
@@ -403,10 +396,16 @@ Therefore, we can see a link between the political orientation and women's repre
 
 <br>
  <p align="justify"> 
- We want to find here the sentiment with which a person is quoted, or the feeling that the author of the article gives when citing a person. Thus, we use <a href="https://github.com/cjhutto/vaderSentiment">VADER</a>, <i>a lexicon and rule-based sentiment analysis tool<\i> capable of classifying text in three sentiment categories: a negative, a neutral and a positive one.
+ We want to find here the sentiment with which a person is quoted, or the feeling that the author of the article gives when citing a person. Thus, we use <a href="https://github.com/cjhutto/vaderSentiment">VADER</a>, <i>a lexicon and rule-based sentiment analysis tool</i> capable of classifying text in three sentiment categories: a negative, a neutral and a positive one.
 The following pie graphics show that throughout the years, the sentiment of the context in which people are quoted in the media stays the same. Around 60 % of the quotes are cited in a positive way, 25% in a negative way, and 15% in a neutral way. Furthermore, these percentages of sentimental contexts are globally the same for women and men.
 	
 	Finally, we can conclude that it seems that women are not quoted more or less negatively or positively than men. Thus, it may not play an important role in women's representation  in the media
+</p>
+
+<h1>Final Conclusion >/h1>
+	
+<p align="justify">
+	Despite the <i>#Metoo</i> movements these past few years, we cannot see a real improvement in women’s representation in the media. Men are much more represented in terms of occurrences, whatever their work, their occupations, their political orientations, or their age. There are still some improvements over the years though, as the proportions of quoted women slowly increased. However, women and men seem to be equally quoted, as the feelings they convey are in the same proportions. One thing that could explain these results is that people take a lot of time to change their minds, as the effects of feminist and progressive movements are slow. It is also the accumulation of these movements that make a clear improvement in women’s condition, the #Metoo movements are too recent.
 </p>
   
  </body>
