@@ -25,12 +25,16 @@ cover-img: /images/Odile2.png
    </p>
  
    <h1> Inequal representation in the media in terms of coverage </h1>
+   <br>
    <hr style="color:gray;background-color:gray;width:50%">
    <quote>
-   <i>"The media reflects what the people say, the people reflect what the media says. Will we never tire of this mind-numbing game of mirrors?"</i>
-   Amin Maalouf
+    <p>
+     <i>"The media reflects what the people say, the people reflect what the media says. Will we never tire of this mind-numbing game of mirrors?"</i>
+     Amin Maalouf
+    </p>
    </quote>
    <hr style="color:gray;background-color:gray;width:50%">
+   <br>
 
 
    <p align="justify">
@@ -38,15 +42,21 @@ cover-img: /images/Odile2.png
    </p>
 
    <h3> Which percentage of the quotes are women's and which percentage men's? </h3>
-
-   <p>
-   <img style="float: right;" src="/images/Percentage_global_gender.png">
-   </p>
-
-   <p align="justify">
-   With a simple look of the data, we can see very clearly that even though feminist events have occurred, the difference in terms of repartition of the representation is still huge. Indeed, in our timelapse, the repartition of occurrences of speak between women and man stays on a base of 20% against 80%.
-However, the one-sided proportion z-test between 2015 and 2020 (p value = 4.814710546166949e-96) seems to indicate that there is indeed an increase in the coverage of the women over the five years of our dataset.
-  </p >
+  
+   <section>
+    <article1>
+      <p>
+      <img style="float: right;" src="/images/Percentage_global_gender.png">
+      </p>
+    </article1>
+    
+    <article2>
+      <p align="justify">
+      With a simple look of the data, we can see very clearly that even though feminist events have occurred, the difference in terms of repartition of the representation is still huge. Indeed, in our timelapse, the repartition of occurrences of speak between women and man stays on a base of 20% against 80%.
+     However, the one-sided proportion z-test between 2015 and 2020 (p value = 4.814710546166949e-96) seems to indicate that there is indeed an increase in the coverage of the women over the five years of our dataset.
+     </p >
+    </article2>
+  </section>
 
   <p align="justify">
    But how is this difference in terms of number of occurence between men and women explained? Does this mean that <b>each man is on average more quoted than women</b> or <b>more men are quoted</b>?
@@ -55,7 +65,7 @@ However, the one-sided proportion z-test between 2015 and 2020 (p value = 4.8147
   <h3> How many quotation per individual? </h3>
   <h4> Major part of the population </h4>
   <p>
-  <img style="float: right;" src="/images/without_outliers.png" width=500px>
+  <img src="/images/without_outliers.png" width=700px>
   </p>
   <p align="justify">
   Our graph doesn't show a strict difference between the median of the number of quotation per men and per women. However, the results of our one-sided ttest on the mean seem to say that there is a difference in occurence between men and women in our data (before performing the ttest, we removed the outliers of the data before the ttest by using the z-score criteria.):
