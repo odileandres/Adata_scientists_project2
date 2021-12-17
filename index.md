@@ -360,8 +360,9 @@ Either women are less represented in the army or manual work field (the dataset 
 <br>
 <br>
 <br>
+<br>
 <p align="justify"> 
-<img class="center" src="/images/heatmap.png" width = "1000">
+<img class="center" src="/images/heatmap.png" width = "700">
 </p>
 <p align="justify">
 Then, we made heat-maps to visualise the occupations according to the age for women and men. On these graphs, the brighter it is, the more speakers there are. Therefore, as we can see on women's graphs, there is a lighter area for younger artistic women and for older political women. On men's graphs, we can see a light area on younger sportive men and on older political men. These findings confirm the results that we got previously, i.e. the top 3 occupations for men and women and the age distributions.
