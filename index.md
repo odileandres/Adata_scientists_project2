@@ -16,6 +16,7 @@ Indeed, according to research pursued by the  <a href="https://beijing20.unwomen
  ### Goal:
 <p align="justify">
 In our analysis, we want to see whether the feminist movements from the last years had any significal impact on the representation of women in the media. 
+ 
 <b> <i> In other words, are women more represented nowadays than before 2015, are they represented in all the fields at the same level of men and is there still a discrimination based on age agaisnt women?</i> <b>
 </p>
  
