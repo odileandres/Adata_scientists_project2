@@ -1163,13 +1163,13 @@ article1 {
   float: left;
   padding: 20px;
   width: 50%;
-  background-color: #ccc;
   height: 400px; /* only for demonstration, should be removed */
 }
 
 article2 {
   float: left;
   padding: 20px;
+  background-color: #ccc;
   width: 50%;
   height: 400px; /* only for demonstration, should be removed */
 }
