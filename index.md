@@ -304,22 +304,29 @@ cover-img: /images/Odile2.png
  <li> education studies: teacher, academic professional... </li>
  <li> business: entrepreneur, manager, executive... </li>
 </ul>
-  <p align="justify">
+<p align="justify">
  According to our graph, the three bigger adressed topic are sport, art and politic. 
- Quoted women work on:
+ In 2015, quoted women work in the filed of:
 <ol> 
 	<li>Art</li>
 	<li>Politique</li>
  <li>Sport</li>
 </ol>
- Quoted men work on: 
+ In 2015, quoted men work in the field of: 
  <ol> 
 	<li>Sport</li>
 	<li>Politique</li>
  <li>Art</li>
 </ol>
-  <\p >
- 
+<\p >
+<p align="justify">
+Between 2015 and 2020, the proportion of quoted women in politic has increased, and the same proportion in art has decreased. The same pattern can be observed for men, proportion of men in politic increases, whereas proportion in sport decreases. 
+	<ul>
+		<li> Because of COVID, sport and art events have been canceled, so the mediatic coverage focus on someting else, like, for example the pandemic or the management of the crisis </li>
+		<li> The election of the new president was taking place</li>
+	</ul>
+We could also suppose that more space was available for women in politic. 
+<p>
   <h3> Women in sport: </h3>
   <p align="justify"> 
   According to the Olympic CIO report on <a href="https://olympics.com/cio/news/le-nombre-de-femmes-et-de-jeunes-membres-des-commissions-du-cio-atteint-un-niveau-record">Tokyo2021<\a> , men and women are equally represented. Women represent 49% of the athletes against 34% in 1996. Moreover, in 2016, more than the half of the amercian theme was feminin.
