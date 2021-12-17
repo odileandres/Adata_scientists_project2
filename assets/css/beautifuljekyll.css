@@ -70,7 +70,7 @@ blockquote p:first-child {
   margin-top: 0;
 }
 hr.small {
-  max-width: 6.25rem;
+  max-width: 1000rem;
   margin: 1rem auto;
   border-width: 0.25rem;
   border-color: inherit;
@@ -1145,5 +1145,4 @@ figcaption {
 quote {
   text-align: center;
   color: blue;
-  font-style: italic;
 }
