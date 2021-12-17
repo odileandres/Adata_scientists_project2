@@ -297,162 +297,24 @@ Our graph doesn't show a strict difference between the number of quotation per m
       <span id="2015"></span>
       <span id="2016"></span>
       <span id="2017"></span>
+      <span id="2018"></span>
+      <span id="2019"></span>
+      <span id="2020"></span>
       <div class="image-container">
-       <img>
-       <div class="podium">
-<div class="top"> 
-  
-  <body>
-    <table align="center" border="1" bordercolor="white">
-      <tr>
-        <th><img style="float: right;" src="/images/obama.jpg" height="90" width="120"></th>
-      </tr>
-      <tr>
-        <th>Barack Obama</th>
-       </tr>
-       <tr>
-        <th>304,004 occurences</th>
-       </tr>
-     </table>
-  </body>
-</div>
-<div class="left">
- <body>
-    <table align="center" border="1" bordercolor="white">
-      <tr>
-       <th><img style="float: right;" src="/images/francois.jpg" height="90" width="120"></th>
-      </tr>
-     <tr>
-        <th>Pope Francis</th>
-     </tr>
-     <tr>
-      <th>119,959 occurences</th>   
-      </tr>
-     </table>
-  </body>
-</div>
- <div class="right">
-  <body>
-    <table align="center" border="1" bordercolor="white">
-      <tr>
-       <th><img style="float: right;" src="/images/clinton1.jpg" height="90" width="120"></th>
-     </tr>
-     <tr>
-        <th> Hillary Clinton </th>
-     </tr>
-     <tr>
-        <th>100,121 occurences</th>
-      </tr>
-     </table>
-  </body>
-</div>
-</div>
-       </img>
-     <img>
-<div class="podium">
-<div class="top"> 
-  
-  <body>
-    <table align="center" border="1" bordercolor="white">
-      <tr>
-        <th><img style="float: right;" src="/images/obama.jpg" height="90" width="120"></th>
-      </tr>
-      <tr>
-        <th>Barack Obama</th>
-       </tr>
-       <tr>
-        <th>304,004 occurences</th>
-       </tr>
-     </table>
-  </body>
-</div>
-<div class="left">
- <body>
-    <table align="center" border="1" bordercolor="white">
-      <tr>
-       <th><img style="float: right;" src="/images/francois.jpg" height="90" width="120"></th>
-      </tr>
-     <tr>
-        <th>Pope Francis</th>
-     </tr>
-     <tr>
-      <th>119,959 occurences</th>   
-      </tr>
-     </table>
-  </body>
-</div>
- <div class="right">
-  <body>
-    <table align="center" border="1" bordercolor="white">
-      <tr>
-       <th><img style="float: right;" src="/images/clinton1.jpg" height="90" width="120"></th>
-     </tr>
-     <tr>
-        <th> Hillary Clinton </th>
-     </tr>
-     <tr>
-        <th>100,121 occurences</th>
-      </tr>
-     </table>
-  </body>
-</div>
-</div>
-</img>
-   <img>
-<div class="podium">
-<div class="top"> 
-  
-  <body>
-    <table align="center" border="1" bordercolor="white">
-      <tr>
-        <th><img style="float: right;" src="/images/obama.jpg" height="90" width="120"></th>
-      </tr>
-      <tr>
-        <th>Barack Obama</th>
-       </tr>
-       <tr>
-        <th>304,004 occurences</th>
-       </tr>
-     </table>
-  </body>
-</div>
-<div class="left">
- <body>
-    <table align="center" border="1" bordercolor="white">
-      <tr>
-       <th><img style="float: right;" src="/images/francois.jpg" height="90" width="120"></th>
-      </tr>
-     <tr>
-        <th>Pope Francis</th>
-     </tr>
-     <tr>
-      <th>119,959 occurences</th>   
-      </tr>
-     </table>
-  </body>
-</div>
- <div class="right">
-  <body>
-    <table align="center" border="1" bordercolor="white">
-      <tr>
-       <th><img style="float: right;" src="/images/clinton1.jpg" height="90" width="120"></th>
-     </tr>
-     <tr>
-        <th> Hillary Clinton </th>
-     </tr>
-     <tr>
-        <th>100,121 occurences</th>
-      </tr>
-     </table>
-  </body>
-</div>
-</div>
-   </img>
+       <img class="center" src="/images/2015.jpeg">
+       <img class="center" src="/images/2016.jpeg">
+       <img class="center" src="/images/2017.jpeg">
+       <img class="center" src="/images/2018.jpeg">
+       <img class="center" src="/images/2019.jpeg">
+       <img class="center" src="/images/2020.jpeg">
       </div>
       <div class="buttons">
         <a href="#2015"></a>
         <a href="#2016"></a>
         <a href="#2017"></a>
+        <a href="#2018"></a>
+        <a href="#2019"></a>
+        <a href="#2020"></a>
       </div>
     </div> 
   </body>
