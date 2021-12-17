@@ -290,7 +290,7 @@ cover-img: /images/Odile2.png
 <p class="sautdeligne">
 
 </p> 
-  <h2> Inequal representation in the media in terms of profession </h2>
+  <h1> Inequal representation in the media in terms of profession </h1>
 
   <div class="clearfix" align="center">
     <div class="img-container">
@@ -370,7 +370,7 @@ Either women are less represented in the army field or manual work field, the da
   </table>
 </p>	
 <br>
- <h2> Inequal representation in the media in terms of political orientation </h2>
+ <h1> Inequal representation in the media in terms of political orientation </h1>
  <p></p>
  <hr style="color:gray;background-color:gray;width:50%">
  <quote class="center">
