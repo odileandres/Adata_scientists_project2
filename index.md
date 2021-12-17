@@ -232,8 +232,8 @@ cover-img: /images/Odile2.png
                                                                                          
   <h3> How many different men are quoted in the dataset? </h3>
 
-<section>
-    <article class="left" style = "magin-left: -25%">
+<section style = "magin-left: -25% magin-right: -25%">
+    <article class="left">
       <p>
        <figure>
         <img style="float: right;" src="/images/Percentage_global_peok.png">
@@ -242,12 +242,12 @@ cover-img: /images/Odile2.png
       </p>
     </article>
     
-    <article2>
+    <article class="right">
       <p align="justify" style="margin: 0px;">
       According to our graph, men represent 80% of the quoted person whereas women represent only 20%. This repartition doesn't change over time.
   We can conclude that the difference in terms of number of men against women is the key to explain the first graph we obtain.
      </p >
-    </article2>
+    </article>
   </section>
   
   
