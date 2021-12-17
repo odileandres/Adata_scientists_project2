@@ -360,7 +360,7 @@ Either women are less represented in the army field or manual work field, the da
  </p >
 	
 <p align="justify"> 
-  <table align="left" style="margin-left: -25%; margin-right: -25%; background-color: white;">
+  <table align="left" style="margin-left: -25%; margin-right: -25%; background-color: white; border: none;">
     <tr>
       <td> <img style="float: right;" src="/images/Heatmap_men_2015.png" width = "500"></td>
       <td><img style="float: right;" src="/images/Heatmap_women_2015.png" width = "500"></td>
