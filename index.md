@@ -56,7 +56,7 @@ cover-img: /images/Odile2.png
     </article1>
     
     <article2>
-      <p align="justify">
+      <p align="justify" style="margin: 0px;">
       With a simple look of the data, we can see very clearly that even though feminist events have occurred, the difference in terms of repartition of the representation is still huge. Indeed, in our timelapse, the repartition of occurrences of speak between women and man stays on a base of 20% against 80%.
      However, the one-sided proportion z-test between 2015 and 2020 (p value = 4.814710546166949e-96) seems to indicate that there is indeed an increase in the coverage of the women over the five years of our dataset.
      </p >
