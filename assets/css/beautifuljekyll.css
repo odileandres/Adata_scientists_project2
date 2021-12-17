@@ -1168,6 +1168,7 @@ article1 {
   padding: 20px;
   width: auto;
   margin-left: -25%;
+  vertical-align: text-top;
 }
 
 article2 {
@@ -1181,6 +1182,7 @@ article2 {
 .right {
   padding: 20px;
   width: auto;
+  vertical-align: text-top;
   background-color: #f1f1f1;
   margin-right: -25%;
 }
