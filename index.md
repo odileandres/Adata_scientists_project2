@@ -350,8 +350,8 @@ We could also suppose that more space was available for women in politic.
     
     <article2>
       <p align="justify" style="margin: 0px;">
-      On this graph we can see that on the topic that are traditionally reserved to men, like the army or science or manual work, men is big majority, whereas on topic like arts, civil service or education, women are more represented.
-Either women are less represented in the army field or manual work field, the dataset doesn't give us any information about that, or there is a gender-based discrimination.
+      On this graph we can see that on the topics that are more traditionally reserved to men, like the army, sciences or manual work, men represent the great majority, whereas on topics like arts, civil service or education, women are more represented.
+Either women are less represented in the army or manual work field (the dataset doesn't give us any information about that) or there is a gender-based discrimination.
      </p >
     </article2>
   </section>
@@ -369,12 +369,12 @@ Either women are less represented in the army field or manual work field, the da
   </table>
 </p>
 <p align="justify">
-Then, we made heat-maps to visualise the occupations according to the age for women and men. On these graphs, the brighter it is, the more speakers there are. Therefore, as we can see for women's graphs, there is a lighter area for younger artistic women and for older political women. For men's graphs, we can see a clear part on younger sportive men and on older political men. These findings confirm the results that we got previously, i.e. the top 3 occupations for men and women and the age distributions.
+Then, we made heat-maps to visualise the occupations according to the age for women and men. On these graphs, the brighter it is, the more speakers there are. Therefore, as we can see on women's graphs, there is a lighter area for younger artistic women and for older political women. On men's graphs, we can see a light area on younger sportive men and on older political men. These findings confirm the results that we got previously, i.e. the top 3 occupations for men and women and the age distributions.
 As a conclusion, we can say that : 
 <ul>
 	<li> Younger women are more quoted that older women </li>
-	<li> Artistic and Politic women are more represented  than others women </li>
-	<li> Older men are more represented most of them are politicians.</li>
+	<li> Women in arts and politics are more represented than women in other occupation fields. </li>
+	<li> Older men are more represented, most of them are politicians.</li>
 </ul>	
 Therefore, women and men are not equally represented by age and by occupations.
 </p>	
