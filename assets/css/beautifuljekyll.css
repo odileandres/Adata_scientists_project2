@@ -1162,6 +1162,7 @@ article1 {
   background: #ccc;
   padding: 20px;
   width: 50%;
+  margin-left: -25%;
 }
 
 article2 {
@@ -1169,7 +1170,7 @@ article2 {
   padding: 20px;
   width: 50%;
   background-color: #f1f1f1;
-  height: 300px; /* only for demonstration, should be removed */
+  margin-right: -25%;
 }
 
 /* Clear floats after the columns */
