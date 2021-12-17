@@ -1041,7 +1041,7 @@ pre {
   margin-right: auto;
   margin-top: 0px;
   text-align: center;
-  overflow: hidden;    
+  overflow: hidden;
 }
 .image-container {
   width: 1500px;
@@ -1053,7 +1053,7 @@ pre {
   -moz-transition: left 2s;
   -o-transition: left 2s;
   transition: left 2s;
- }
+}
 .slide {
   float: left;
   margin: 0px;
@@ -1073,13 +1073,15 @@ pre {
   position: relative;
   top: -20px;
 }
+
 .buttons a {
   display: inline-block;
   height: 15px;
   width: 15px;
   border-radius: 50px;
-  background-color: black;
+  background-color: lightgreen;
 }
+    
 
 /*-- Image + légende--*/
 figure {
