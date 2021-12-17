@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Society Vs media
+title: Society vs Media
 subtitle: Men and women, equals in the eyes of the media?
 cover-img: /images/Odile2.png
 ---
@@ -272,7 +272,7 @@ cover-img: /images/Odile2.png
   Indeed, women are still in a state of withdrawal compared to men. They are less present on the public scene, and when they are, the media coverage is smaller. But maybe it will happen with a delay?
   </p>
 
-  <h2> Inequal representation in the media in terms of subject </h2>
+  <h2> Inequal representation in the media in terms of profession </h2>
 
   <div class="clearfix" align="center">
     <div class="img-container">
@@ -306,13 +306,13 @@ cover-img: /images/Odile2.png
 </ul>
   <p align="justify">
  According to our graph, the three bigger adressed topic are sport, art and politic. 
- Women are more quoted on:
+ Quoted women work on:
 <ol> 
 	<li>Art</li>
 	<li>Politique</li>
  <li>Sport</li>
 </ol>
- Men are quoted on: 
+ Quoted men work on: 
  <ol> 
 	<li>Sport</li>
 	<li>Politique</li>
@@ -325,12 +325,11 @@ cover-img: /images/Odile2.png
   According to the Olympic CIO report on <a href="https://olympics.com/cio/news/le-nombre-de-femmes-et-de-jeunes-membres-des-commissions-du-cio-atteint-un-niveau-record">Tokyo2021<\a> , men and women are equally represented. Women represent 49% of the athletes against 34% in 1996. Moreover, in 2016, more than the half of the amercian theme was feminin.
   We could then conclude that media choose to represent more regularly men than women. 
   <\p >
- 
- <h3> Men in arts:</h3>
  <p align="justify"> 
-  According to our graph, the proportion of men quoted on the subject of art is smaller than the proportion of women. However, according to an article from T <a href="https://www.theguardian.com/culture/2018/apr/16/arts-industry-report-asks-where-are-all-the-working-class-people">The Guardian</a>, white-men are the best paid people in 
- <\p > 
-
+ <img style="float: right;" src="/images/percentage_per_occ.png">
+On this graph we can see that on the topic that are traditionally reserved to men, like the army or science or manual work, men is big majority, whereas on topic like arts, civil service or education, women are more represented.
+Either women are less represented in the army field or manual work field, the dataset doesn't give us any information about that, or there is a gender-based discrimination.  
+ <\p >
  <h2> Inequal representation in the media in terms of political orientation </h2>
  <p></p>
  <hr style="color:gray;background-color:gray;width:50%">
