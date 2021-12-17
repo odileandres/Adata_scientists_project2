@@ -185,8 +185,7 @@ We can conclude that the difference in terms of number of men against women is t
 </p>
 
 ### Are these people different in term of age?
-
-![Percentage_global_peok.png](/images/age_repartition_hist.png)
+<img style="float: right;" src="/images/age_repartition_hist.png">
 
 <p align="justify">
 According to our graph, in terms of percentage, women are more represented when they are young than when they are old, and it is kind of the opposite for men. 
@@ -243,5 +242,4 @@ We could then conclude that media choose to represent more regularly men than wo
 Donald Trump </p>
 
 We chose to only work on the ten 
- 
-![politic_ten_bigger_group.png](/images/politic_ten_bigger_group.png) 
+<img style="float: right;" src="/images/politic_ten_bigger_group.png">
