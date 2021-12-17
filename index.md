@@ -343,9 +343,9 @@ Either women are less represented in the army field or manual work field, the da
     <tr>
       <td> <img style="float: right;" src="/images/Heatmap_men_2015.png"></td>
       <td><img style="float: right;" src="/images/Heatmap_women_2015.png"></td>
+</tr>
       <td><img style="float: right;" src="/images/Heatmap_men_2020.png"></td>
       <td><img style="float: right;" src="/images/Heatmap_women_2020.png"></td>
-	</tr>
   </table>
 </p>	
 <br>
