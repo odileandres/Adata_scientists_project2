@@ -1143,8 +1143,8 @@ figcaption {
 /*--- Quotes ---*/
 quote {
   text-align: center;
-  color: white;
-  background: blue;
+  color: blue;
+  background: green;
   font-size: 1.5rem;
   font-family: 'Times new roman', serif;
 }
