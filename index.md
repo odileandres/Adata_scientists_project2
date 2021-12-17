@@ -343,7 +343,7 @@ We could also suppose that more space was available for women in politic.
       <p>
        <figure>
         <img style="float: right;" src="/images/percentage_per_occ.png">
-        <figcaption>...</figcaption>
+        <figcaption></figcaption>
        </figure>
       </p>
     </article1>
@@ -398,7 +398,7 @@ Therefore, we can see a link between the political orientation and women's repre
  </p>
 <br>
  <h1>Emotionnal context of the quotes</h1> 
- <img class="center" src="/images/pie_sentiment.png" width = "500">
+ <img class="center" src="/images/pie_sentiment.png" width = "1000">
 
 <br>
  <p align="justify"> 
