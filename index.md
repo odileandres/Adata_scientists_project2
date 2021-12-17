@@ -305,7 +305,19 @@ cover-img: /images/Odile2.png
  <li> business: entrepreneur, manager, executive... </li>
 </ul>
   <p align="justify">
-  According to our graph, men and women are not quoted for the same subjects. Indeed, men are more represented in the field of sport, whereas art is dominant in women's topic. 
+ According to our graph, the three bigger adressed topic are sport, art and politic. 
+ Women are more quoted on:
+<ol> 
+	<li>Art</li>
+	<li>Politique</li>
+ <li>Sport</li>
+</ol>
+ Men are quoted on: 
+ <ol> 
+	<li>Sport</li>
+	<li>Politique</li>
+ <li>Art</li>
+</ol>
   <\p >
  
   <h3> Women in sport: </h3>
