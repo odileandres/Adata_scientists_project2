@@ -291,7 +291,19 @@ cover-img: /images/Odile2.png
     <img src="/images/occ_male_2020.png" style="height:300px">
     </div>
   </div>
-
+<ul>
+ <li> sport: athletes </li>
+ <li> art: painter, musicians, compositors, writters, actors, mannequins... </li>
+ <li> politic: minister, president, head of government... </li>
+ <li> science: physicien, computer scientists, health professional, researcher, engineer, technician... </li>
+ <li> religion: clergy... </li>
+ <li> armed force: soldiers... </li>
+ <li> civil service: diplomat, public employee, activist... </li>
+ <li> legal professional: jurist, lawyers... </li>
+ <li> manual work: artisan... </li>
+ <li> education studies: teacher, academic professional... </li>
+ <li> business: entrepreneur, manager, executive... </li>
+</ul>
   <p align="justify">
   According to our graph, men and women are not quoted for the same subjects. Indeed, men are more represented in the field of sport, whereas art is dominant in women's topic. 
   <\p >
