@@ -380,7 +380,7 @@ Therefore, women and men are not equally represented by age and by occupations.
 </p>	
 <br>
  <h1> Inequal representation in the media in terms of political orientation </h1>
- <p></p>
+ <br>
  <hr style="color:gray;background-color:gray;width:50%">
  <quote class="center">
   <p style="margin: 0px;">
@@ -393,7 +393,11 @@ Therefore, women and men are not equally represented by age and by occupations.
  <hr style="color:gray;background-color:gray;width:50%">
 
 
- <p> We chose to only work on the ten </p>
+ <p align="justify">
+	Indeed, after finding this quote from Donald Trump, we asked ourselves if the political orientation of the speakers correlates with women's representation in the media. Therefore, we sorted all the existing parties in our data set by the women's percentage, starting with the party with the biggest women proportion. Thus, we can see on these graphs the "10 best parties" according to women's proportion. 
+We can see that the parties that have the most women among their members are mostly democratic and social parties opposed to the conservative and republican parties, that contain the least women. 
+Therefore, we can see a link between the political orientation and women's representation.
+ </p>
  <p>
  <img style="float: right;" src="/images/politic_ten_bigger_group.png">
  </p>
