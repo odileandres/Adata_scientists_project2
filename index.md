@@ -291,16 +291,7 @@ cover-img: /images/Odile2.png
  </table>
 
 <br> 
-	 <br>
-	 <br>
-	 <br>
-	 <br>
-	 <br>
-	 <br>
-	 <br>
-	 <br>
-	 <br>
- 
+	
 <ul>
  <li> Sports: athletes </li>
  <li> Arts: painter, musicians, compositors, writers, actors, models... </li>
@@ -351,7 +342,7 @@ Either women are less represented in the army field or manual work field, the da
  </p >
 <br>	
 <p align="justify"> 
-  <table align="left" style="margin-left: -25%; margin-right: -25%; background-color: white; border: none;">
+  <table align="left" style="margin-left: -25%; margin-right: -25%; background-color: white;">
     <tr>
       <td> <img style="float: right;" src="/images/Heatmap_men_2015.png" width = "500"></td>
       <td><img style="float: right;" src="/images/Heatmap_women_2015.png" width = "500"></td>
@@ -392,7 +383,7 @@ Therefore, women and men are not equally represented by age and by occupations.
 <br>
  <h1>Emotionnal context of the quotes</h1> 
  
- <table align="left" style="margin-left: -25%; margin-right: -25%; background-color: white; border: none;">
+ <table align="left" style="margin-left: -25%; margin-right: -25%; background-color: white;">
     <tr>
       <td> <img style="float: right;" src="/images/pie_sentiment_men_2015.png" width = "300"></td>
       <td><img style="float: right;" src="/images/pie_sentiment_women_2015.png" width = "300"></td>
