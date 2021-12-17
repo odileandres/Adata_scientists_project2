@@ -359,14 +359,7 @@ Either women are less represented in the army or manual work field (the dataset 
 <br>
   	
 <p align="justify"> 
-  <table align="left" style="margin-left: -25%; margin-right: -25%; background-color: white;">
-    <tr>
-      <td> <img style="float: right;" src="/images/Heatmap_men_2015.png" width = "500"></td>
-      <td><img style="float: right;" src="/images/Heatmap_women_2015.png" width = "500"></td>
-</tr>
-      <td><img style="float: right;" src="/images/Heatmap_men_2020.png" width = "500"></td>
-      <td><img style="float: right;" src="/images/Heatmap_women_2020.png" width = "500"></td>
-  </table>
+<img class="center" src="/images/heatmap.png" width = "500">
 </p>
 <p align="justify">
 Then, we made heat-maps to visualise the occupations according to the age for women and men. On these graphs, the brighter it is, the more speakers there are. Therefore, as we can see on women's graphs, there is a lighter area for younger artistic women and for older political women. On men's graphs, we can see a light area on younger sportive men and on older political men. These findings confirm the results that we got previously, i.e. the top 3 occupations for men and women and the age distributions.
@@ -403,15 +396,7 @@ Therefore, we can see a link between the political orientation and women's repre
  </p>
 <br>
  <h1>Emotionnal context of the quotes</h1> 
- 
- <table align="left" style="margin-left: -25%; margin-right: -25%; background-color: white;">
-    <tr>
-      <td> <img style="float: right;" src="/images/pie_sentiment_men_2015.png" width = "300"></td>
-      <td><img style="float: right;" src="/images/pie_sentiment_women_2015.png" width = "300"></td>
-</tr>
-      <td><img style="float: right;" src="/images/pie_sentiment_men_2020.png" width = "300"></td>
-      <td><img style="float: right;" src="/images/pie_sentiment_women_2020.png" width = "300"></td>
- </table>
+ <img class="center" src="/images/pie_sentiment.png" width = "500">
 
 <br>
  <p align="justify"> 
