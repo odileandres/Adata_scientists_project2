@@ -1166,7 +1166,7 @@ article1 {
 .left {
   background: #ccc;
   padding: 20px;
-  width: 75%;
+  width: auto;
   margin-left: -25%;
 }
 
@@ -1180,7 +1180,7 @@ article2 {
 
 .right {
   padding: 20px;
-  width: 75%;
+  width: auto;
   background-color: #f1f1f1;
   margin-right: -25%;
 }
