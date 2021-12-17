@@ -290,41 +290,40 @@ Our graph doesn't show a strict difference between the number of quotation per m
   
   
   
+                                                                                                                                                                 
                                                                                          
 <html>
- <head>
+<head>
     <title>QNimate Slider</title>
-    <link href="/assets/css/beautifuljekyll.css" type="text/css" rel="stylesheet">
+     <link href="/assets/css/beautifuljekyll.css" type="text/css" rel="stylesheet">
 </head>
-  <body>
-    <div class="slider">
-      <span id="2015"></span>
-      <span id="2016"></span>
-      <span id="2017"></span>
-      <span id="2018"></span>
-      <span id="2019"></span>
-      <span id="2020"></span>
-      <div class="image-container">
-       <img src="/images/2015.PNG"class="slide" width="500" height="300" />
-       <img src="/images/2016.PNG" class="slide" width="500" height="300" />
-       <img src="/images/2017.PNG" class="slide" width="500" height="300" />
-       <img src="/images/2018.PNG" class="slide" width="500" height="300" />
-       <img src="/images/2019.PNG" class="slide" width="500" height="300" />
-       <img src="/images/2020.PNG" class="slide" width="500" height="300" />
-      </div>
-      <div class="buttons">
-        <a href="#2015"></a>
-        <a href="#2016"></a>
-        <a href="#2017"></a>
-        <a href="#2018"></a>
-        <a href="#2019"></a>
-        <a href="#2020"></a>
-      </div>
-    </div> 
-  </body>
- </html>                                                                          
-                                                                                         
-                                                                                         
+<body>
+    <div class="slider-holder">
+        <span id="2015"></span>
+        <span id="2016"></span>
+        <span id="2017"></span>
+        <span id="2018"></span>
+        <span id="2019"></span>
+        <span id="2020"></span>
+        <div class="image-holder">
+            <img src="/images/2015.PNG" class="slider-image" />
+            <img src="/images/20167.PNG" class="slider-image" />
+            <img src="/images/2017.PNG" class="slider-image" />
+            <img src="/images/2018.PNG" class="slider-image" />
+            <img src="/images/2019.PNG" class="slider-image" />
+            <img src="/images/2020.PNG" class="slider-image" />
+        </div>
+        <div class="button-holder">
+             <a href="#2015" class="slider-change"></a>
+             <a href="#2016" class="slider-change"></a>
+             <a href="#2017" class="slider-change"></a>
+             <a href="#2018" class="slider-change"></a>
+             <a href="#2019" class="slider-change"></a>
+             <a href="#2020" class="slider-change"></a>
+        </div>
+    </div>
+</body>
+</html>                                                                                         
                                                                                          
                                                                                          
                                                                                          
