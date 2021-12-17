@@ -1160,14 +1160,14 @@ article1 {
   float: left;
   background: #ccc;
   padding: 20px;
-  width: 50%;
+  width: 75%;
   margin-left: -25%;
 }
 
 article2 {
   float: left;
   padding: 20px;
-  width: 50%;
+  width: 75%;
   background-color: #f1f1f1;
   margin-right: -25%;
 }
@@ -1179,6 +1179,7 @@ section::after {
   clear: both;
   margin-left: -25%;
   margin-right: -25%;
+  width: 100%
 }
 
 /* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */
