@@ -1035,7 +1035,7 @@ pre {
 /* --- Slide Bar --- */
 .slider-holder{
   width: 700px;
-  height: 600px;
+  height: 500px;
   background-color: white;
   margin-left: auto;
   margin-right: auto;
@@ -1082,7 +1082,7 @@ pre {
        
 .button-holder
 {
-  position: center;
+  position: relative;
   top: -20px;
 }
        
