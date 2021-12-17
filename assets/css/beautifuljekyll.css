@@ -1221,3 +1221,8 @@ section::after {
     height: auto;
   }
 }
+
+td
+{
+padding: 0px;
+}
