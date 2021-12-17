@@ -295,7 +295,7 @@ Our graph doesn't show a strict difference between the number of quotation per m
 <html>
 <head>
     <title>QNimate Slider</title>
-     <link href="/assets/css/beautifuljekyll.css" type="text/css" rel="stylesheet">
+     <link href="/assets/css/beautifuljekyll.css" >
 </head>
 <body>
     <div class="slider-holder">
